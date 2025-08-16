@@ -1,25 +1,46 @@
 name: Build Top 1000 CSV
 
 on:
+  # Manual trigger button in Actions tab
   workflow_dispatch:
+  # (Optional) auto-run when these files change
+  push:
+    paths:
+      - scripts/build_top1000.py
+      - .github/workflows/build_top1000.yml
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed if you keep the “commit back” step
+
     steps:
-      - name: Checkout code
+      - name: Check out repo
         uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: '3.11'
 
-      - name: Run script
+      - name: Ensure folders exist
+        run: |
+          mkdir -p data assets
+
+      - name: Build players.csv (top 1000)
         run: python scripts/build_top1000.py
 
-      - name: Upload CSV
+      - name: Upload CSV artifact
         uses: actions/upload-artifact@v4
         with:
           name: top1000-csv
-          path: players.csv
+          path: assets/players.csv
+          if-no-files-found: error
+
+      # ===== OPTIONAL: commit the generated CSV back to main =====
+      - name: Commit CSV back to repo
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(data): update assets/players.csv (top 1000)"
+          file_pattern: assets/players.csv
