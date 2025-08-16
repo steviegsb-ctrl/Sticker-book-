@@ -7,7 +7,7 @@ import 'package:url_launcher/url_launcher.dart';
 
 void main() => runApp(const _AppShell());
 
-/// Root app that owns ThemeMode and persists it.
+/// Root app with theme toggle
 class _AppShell extends StatefulWidget {
   const _AppShell({super.key});
   @override
@@ -33,7 +33,9 @@ class _AppShellState extends State<_AppShell> {
 
   Future<void> _setTheme(ThemeMode m) async {
     final sp = await SharedPreferences.getInstance();
-    await sp.setString('themeMode', switch (m) { ThemeMode.light => 'light', ThemeMode.dark => 'dark', _ => 'system' });
+    await sp.setString(
+        'themeMode',
+        switch (m) { ThemeMode.light => 'light', ThemeMode.dark => 'dark', _ => 'system' });
     setState(() => _mode = m);
   }
 
@@ -91,7 +93,6 @@ class _StickerHomeState extends State<StickerHome> {
   }
 
   Future<void> _loadData() async {
-    // CSV: name,rating,position
     final raw = await rootBundle.loadString('assets/players.csv');
     final lines = const LineSplitter().convert(raw).where((l) => l.trim().isNotEmpty).toList();
     if (lines.isEmpty) return;
@@ -112,9 +113,8 @@ class _StickerHomeState extends State<StickerHome> {
     setState(() {});
   }
 
-  Future<void> _toggleOwned(String name) async {
+  Future<void> _saveOwned() async {
     final sp = await SharedPreferences.getInstance();
-    setState(() => owned.contains(name) ? owned.remove(name) : owned.add(name));
     await sp.setStringList('owned', owned.toList());
   }
 
@@ -122,10 +122,9 @@ class _StickerHomeState extends State<StickerHome> {
     if (query.trim().isEmpty) return all;
     final s = query.toLowerCase();
     return all.where((p) =>
-      p.name.toLowerCase().contains(s) ||
-      p.position.toLowerCase().contains(s) ||
-      p.rating.toLowerCase().contains(s)
-    ).toList();
+        p.name.toLowerCase().contains(s) ||
+        p.position.toLowerCase().contains(s) ||
+        p.rating.toLowerCase().contains(s)).toList();
   }
 
   Future<void> _openFutbin(String name) async {
@@ -140,16 +139,21 @@ class _StickerHomeState extends State<StickerHome> {
     final pool = [...all]..shuffle(rng);
     lastPack = pool.take(5).toList();
 
-    showDialog(
-      context: context,
-      barrierDismissible: false,
-      builder: (_) => PackRevealDialog(
+    // auto-add all pulled players into album
+    for (var p in lastPack) {
+      owned.add(p.name);
+    }
+    _saveOwned();
+    setState(() {});
+
+    // show full-screen reveal
+    Navigator.of(context).push(PageRouteBuilder(
+      opaque: false,
+      pageBuilder: (_, __, ___) => PackRevealScreen(
         pack: lastPack,
-        isOwned: (n) => owned.contains(n),
-        onToggle: _toggleOwned,
         onOpenFutbin: _openFutbin,
       ),
-    );
+    ));
   }
 
   ThemeMode _nextTheme(ThemeMode m) {
@@ -193,7 +197,7 @@ class _StickerHomeState extends State<StickerHome> {
         ),
         body: TabBarView(
           children: [
-            /// --- LIST TAB ---
+            // LIST TAB
             Column(
               children: [
                 Padding(
@@ -218,10 +222,6 @@ class _StickerHomeState extends State<StickerHome> {
                             color: have ? Colors.teal : null),
                         title: Text(p.name),
                         subtitle: Text('Rating: ${p.rating} (${p.position})'),
-                        trailing: IconButton(
-                          icon: Icon(have ? Icons.remove_circle_outline : Icons.add_circle_outline),
-                          onPressed: () => _toggleOwned(p.name),
-                        ),
                         onLongPress: () => _openFutbin(p.name),
                       );
                     },
@@ -230,10 +230,10 @@ class _StickerHomeState extends State<StickerHome> {
               ],
             ),
 
-            /// --- BOOK (GRID) TAB ---
+            // BOOK TAB
             LayoutBuilder(
               builder: (ctx, c) {
-                final cols = (c.maxWidth ~/ 120).clamp(2, 4); // 2–4 columns
+                final cols = (c.maxWidth ~/ 120).clamp(2, 4);
                 return GridView.builder(
                   padding: const EdgeInsets.all(12),
                   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
@@ -247,7 +247,6 @@ class _StickerHomeState extends State<StickerHome> {
                     final p = all[i];
                     final have = owned.contains(p.name);
                     return GestureDetector(
-                      onTap: () => _toggleOwned(p.name),
                       onLongPress: () => _openFutbin(p.name),
                       child: AnimatedContainer(
                         duration: const Duration(milliseconds: 220),
@@ -258,17 +257,9 @@ class _StickerHomeState extends State<StickerHome> {
                             color: have ? Colors.teal : Theme.of(context).colorScheme.outline,
                             width: have ? 3 : 1.2,
                           ),
-                          gradient: have
-                              ? LinearGradient(
-                                  colors: [
-                                    Colors.teal.withOpacity(0.18),
-                                    Colors.teal.withOpacity(0.04)
-                                  ],
-                                  begin: Alignment.topLeft,
-                                  end: Alignment.bottomRight,
-                                )
-                              : null,
-                          color: have ? null : Theme.of(context).colorScheme.surfaceVariant.withOpacity(0.35),
+                          color: have
+                              ? Colors.teal.withOpacity(0.15)
+                              : Theme.of(context).colorScheme.surfaceVariant.withOpacity(0.3),
                         ),
                         padding: const EdgeInsets.all(10),
                         child: Column(
@@ -288,28 +279,13 @@ class _StickerHomeState extends State<StickerHome> {
                                 ),
                               ),
                             ),
-                            const SizedBox(height: 8),
                             Text(
                               p.name,
                               maxLines: 2,
                               overflow: TextOverflow.ellipsis,
                               style: const TextStyle(fontWeight: FontWeight.w600),
                             ),
-                            Text('⭐ ${p.rating}',
-                                style: TextStyle(
-                                  color: Theme.of(context).colorScheme.primary,
-                                  fontWeight: FontWeight.w600,
-                                )),
-                            const SizedBox(height: 4),
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.end,
-                              children: [
-                                Icon(
-                                  have ? Icons.check_circle : Icons.add_circle_outline,
-                                  color: have ? Colors.teal : null,
-                                ),
-                              ],
-                            )
+                            Text('⭐ ${p.rating}'),
                           ],
                         ),
                       ),
@@ -319,7 +295,7 @@ class _StickerHomeState extends State<StickerHome> {
               },
             ),
 
-            /// --- PACKS TAB ---
+            // PACKS TAB
             Center(
               child: FilledButton.icon(
                 onPressed: _openPack,
@@ -337,37 +313,27 @@ class _StickerHomeState extends State<StickerHome> {
   }
 }
 
-/// === PACK REVEAL DIALOG with COLORFUL ANIMATION ===
-class PackRevealDialog extends StatefulWidget {
+/// === FULLSCREEN PACK REVEAL SCREEN ===
+class PackRevealScreen extends StatefulWidget {
   final List<Player> pack;
-  final bool Function(String) isOwned;
-  final Future<void> Function(String) onToggle;
   final Future<void> Function(String) onOpenFutbin;
-
-  const PackRevealDialog({
-    super.key,
-    required this.pack,
-    required this.isOwned,
-    required this.onToggle,
-    required this.onOpenFutbin,
-  });
-
+  const PackRevealScreen({super.key, required this.pack, required this.onOpenFutbin});
   @override
-  State<PackRevealDialog> createState() => _PackRevealDialogState();
+  State<PackRevealScreen> createState() => _PackRevealScreenState();
 }
 
-class _PackRevealDialogState extends State<PackRevealDialog>
+class _PackRevealScreenState extends State<PackRevealScreen>
     with SingleTickerProviderStateMixin {
   late final AnimationController ctrl;
-  late final List<_Particle> particles;
+  late final List<_Particle> parts;
 
   @override
   void initState() {
     super.initState();
     ctrl = AnimationController(vsync: this, duration: const Duration(milliseconds: 1200))
       ..forward();
-    final rng = Random();
-    particles = List.generate(80, (_) => _Particle.random(rng));
+    final r = Random();
+    parts = List.generate(100, (_) => _Particle.random(r));
   }
 
   @override
@@ -378,67 +344,52 @@ class _PackRevealDialogState extends State<PackRevealDialog>
 
   @override
   Widget build(BuildContext context) {
-    return Dialog(
-      insetPadding: const EdgeInsets.all(16),
-      child: SizedBox(
-        width: double.infinity,
-        child: Stack(
-          children: [
-            // Color burst background
-            Positioned.fill(
-              child: AnimatedBuilder(
-                animation: ctrl,
-                builder: (_, __) => CustomPaint(
-                  painter: _BurstPainter(particles, ctrl.value),
-                ),
-              ),
+    return Scaffold(
+      backgroundColor: Colors.black.withOpacity(0.8),
+      body: Stack(
+        children: [
+          Positioned.fill(
+            child: AnimatedBuilder(
+              animation: ctrl,
+              builder: (_, __) => CustomPaint(painter: _BurstPainter(parts, ctrl.value)),
             ),
-            // Content
-            Column(
-              mainAxisSize: MainAxisSize.min,
+          ),
+          Center(
+            child: Column(
+              mainAxisAlignment: MainAxisAlignment.center,
               children: [
+                const Text('Your Pack',
+                    style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white)),
                 const SizedBox(height: 12),
-                const Text('Your Pack', style: TextStyle(fontSize: 20, fontWeight: FontWeight.w700)),
-                const SizedBox(height: 8),
                 for (int i = 0; i < widget.pack.length; i++)
                   _Stagger(
-                    delay: 120 * i,
+                    delay: 150 * i,
                     child: Card(
-                      elevation: 0,
                       child: ListTile(
-                        leading: Icon(
-                          widget.isOwned(widget.pack[i].name)
-                              ? Icons.check_circle
-                              : Icons.album_outlined,
-                        ),
                         title: Text(widget.pack[i].name),
-                        subtitle: Text('Rating: ${widget.pack[i].rating} (${widget.pack[i].position})'),
-                        trailing: TextButton(
-                          child: Text(widget.isOwned(widget.pack[i].name) ? 'Owned' : 'Add'),
-                          onPressed: () => widget.onToggle(widget.pack[i].name),
-                        ),
+                        subtitle: Text(
+                            'Rating: ${widget.pack[i].rating} (${widget.pack[i].position})'),
                         onLongPress: () => widget.onOpenFutbin(widget.pack[i].name),
                       ),
                     ),
                   ),
-                const SizedBox(height: 6),
-                TextButton(
+                const SizedBox(height: 24),
+                ElevatedButton(
+                  child: const Text('Continue'),
                   onPressed: () => Navigator.pop(context),
-                  child: const Text('Close'),
                 ),
-                const SizedBox(height: 8),
               ],
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }
 }
 
-/// Small helper to stagger child appearance
+/// helper classes for stagger + particles
 class _Stagger extends StatefulWidget {
-  final int delay; // ms
+  final int delay;
   final Widget child;
   const _Stagger({required this.delay, required this.child});
   @override
@@ -446,7 +397,7 @@ class _Stagger extends StatefulWidget {
 }
 class _StaggerState extends State<_Stagger> with SingleTickerProviderStateMixin {
   late final AnimationController c = AnimationController(
-    vsync: this, duration: const Duration(milliseconds: 300));
+      vsync: this, duration: const Duration(milliseconds: 350));
   @override
   void initState() {
     super.initState();
@@ -463,37 +414,34 @@ class _StaggerState extends State<_Stagger> with SingleTickerProviderStateMixin 
   }
 }
 
-/// Confetti-like particles for pack reveal
 class _Particle {
-  final double angle; // radians
-  final double distance; // final radius
-  final double size;
+  final double angle, dist, size;
   final Color color;
-  _Particle(this.angle, this.distance, this.size, this.color);
+  _Particle(this.angle, this.dist, this.size, this.color);
   factory _Particle.random(Random r) {
     final hues = [Colors.teal, Colors.orange, Colors.purple, Colors.blue, Colors.pink, Colors.green];
     return _Particle(
       r.nextDouble() * pi * 2,
-      60 + r.nextDouble() * 140,
+      60 + r.nextDouble() * 160,
       4 + r.nextDouble() * 8,
       hues[r.nextInt(hues.length)].withOpacity(0.85),
     );
   }
 }
 class _BurstPainter extends CustomPainter {
-  final List<_Particle> parts;
-  final double t; // 0..1
-  _BurstPainter(this.parts, this.t);
+  final List<_Particle> ps;
+  final double t;
+  _BurstPainter(this.ps, this.t);
   @override
-  void paint(Canvas canvas, Size size) {
-    final c = Offset(size.width/2, 80); // burst origin near top
-    for (final p in parts) {
-      final d = p.distance * Curves.easeOut.transform(t);
-      final pos = c + Offset(cos(p.angle) * d, sin(p.angle) * d);
+  void paint(Canvas c, Size s) {
+    final center = Offset(s.width/2, s.height/2);
+    for (final p in ps) {
+      final d = p.dist * Curves.easeOut.transform(t);
+      final pos = center + Offset(cos(p.angle) * d, sin(p.angle) * d);
       final paint = Paint()..color = p.color.withOpacity((1 - t).clamp(0, 1));
-      canvas.drawCircle(pos, p.size, paint);
+      c.drawCircle(pos, p.size, paint);
     }
   }
   @override
-  bool shouldRepaint(_BurstPainter old) => old.t != t || old.parts != parts;
+  bool shouldRepaint(covariant _BurstPainter old) => old.t != t;
 }
