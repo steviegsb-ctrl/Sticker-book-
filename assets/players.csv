@@ -1,109 +1,1001 @@
 name,rating,position
-Lionel Messi,93,RW
-Kylian Mbappé,92,ST
-Erling Haaland,92,ST
+Erling Haaland,91,ST
 Kevin De Bruyne,91,CM
-Karim Benzema,92,CF
-Robert Lewandowski,92,ST
-Mohamed Salah,90,RW
-Neymar Jr,90,LW
-Jude Bellingham,90,CM
+Kylian Mbappé,91,ST
 Harry Kane,90,ST
-Vinícius Júnior,89,LW
-Rodri,89,CDM
-Bernardo Silva,89,CM
-Bruno Fernandes,88,CAM
-Luka Modrić,88,CM
-Toni Kroos,88,CM
-Ilkay Gündogan,88,CM
-Bukayo Saka,87,RW
-Martin Ødegaard,87,CAM
-Phil Foden,87,LW
-Antoine Griezmann,88,CF
-Lautaro Martínez,87,ST
-Victor Osimhen,88,ST
-Rafael Leão,87,LW
-Khvicha Kvaratskhelia,86,LW
-Paulo Dybala,86,CF
-Ousmane Dembélé,86,RW
-Kingsley Coman,86,LW
-Federico Chiesa,85,RW
-Heung-Min Son,87,LW
-Sadio Mané,86,LW
-João Félix,84,CF
-Gabriel Jesus,84,ST
-Darwin Núñez,83,ST
-Alejandro Garnacho,79,LW
-Marcus Rashford,85,LW
-Jack Grealish,85,LW
-Raheem Sterling,84,LW
-Riyad Mahrez,85,RW
-Christopher Nkunku,86,CAM
-Jamál Musiala,86,CAM
-Kai Havertz,83,CAM
-Leroy Sané,85,LW
-Serge Gnabry,84,RW
-Thomas Müller,84,CAM
-Pedri,86,CM
-Gavi,83,CM
-Frenkie de Jong,87,CM
-Joshua Kimmich,88,CDM
-Declan Rice,86,CDM
-Casemiro,87,CDM
-N’Golo Kanté,86,CDM
-Enzo Fernández,83,CM
-Álvaro Morata,83,ST
-Olivier Giroud,82,ST
-Antony,81,RW
-Rasmus Højlund,80,ST
-Bruno Guimarães,84,CM
-Sandro Tonali,85,CDM
-Nicolò Barella,87,CM
-Hakan Çalhanoğlu,86,CM
-Sergej Milinković-Savić,86,CM
-Rodrygo,85,RW
-Ansu Fati,78,LW
-João Cancelo,86,RB
-Kyle Walker,85,RB
-Trent Alexander-Arnold,86,RB
-Reece James,84,RB
-Achraf Hakimi,85,RB
-Theo Hernandez,86,LB
-Andrew Robertson,85,LB
-Jordi Alba,82,LB
-Alphonso Davies,84,LB
-Ronald Araújo,86,CB
-Eder Militão,86,CB
-Antonio Rüdiger,86,CB
-David Alaba,85,CB
-Virgil van Dijk,89,CB
-Ibrahima Konaté,83,CB
-Raphaël Varane,84,CB
-Lisandro Martínez,84,CB
-Matthijs de Ligt,85,CB
-Dayot Upamecano,84,CB
-Kim Min-jae,85,CB
-Stephan de Vrij,83,CB
-Milan Škriniar,84,CB
-Marquinhos,87,CB
-Thiago Silva,84,CB
-John Stones,85,CB
-Rúben Dias,88,CB
-William Saliba,84,CB
-Cristian Romero,84,CB
-Éderson,88,GK
+Lionel Messi,90,CF
+Robert Lewandowski,90,ST
+Rodri,90,CDM
+Thibaut Courtois,90,GK
 Alisson,89,GK
-Thibaut Courtois,89,GK
 Marc-André ter Stegen,89,GK
-Mike Maignan,88,GK
+Mohamed Salah,89,RW
+Rúben Dias,89,CB
+Vini Jr.,89,LW
+Virgil van Dijk,89,CB
+Antoine Griezmann,88,ST
+Bernardo Silva,88,CM
+Ederson,88,GK
+Federico Valverde,88,CM
 Jan Oblak,88,GK
-Gianluigi Donnarumma,88,GK
-Yassine Bounou,85,GK
-Emiliano Martínez,85,GK
+Jude Bellingham,88,CAM
+Karim Benzema,88,ST
+Lautaro Martínez,88,ST
+Martin Ødegaard,88,CM
+Neymar Jr,88,LW
+Bruno Fernandes,87,CAM
+Declan Rice,87,CDM
+Florian Wirtz,87,CAM
+Frenkie de Jong,87,CM
+Gianluigi Donnarumma,87,GK
+Gregor Kobel,87,GK
+Heung Min Son,87,LW
+Joshua Kimmich,87,CDM
+Manuel Neuer,87,GK
+Marquinhos,87,CB
+Mike Maignan,87,GK
+Phil Foden,87,RW
+Toni Kroos,87,CM
+Victor Osimhen,87,ST
+Andrew Robertson,86,LB
+Antonio Rüdiger,86,CB
+Bukayo Saka,86,RW
+Cristiano Ronaldo,86,ST
+Emiliano Martínez,86,GK
+Grimaldo,86,LWB
+Hakan Çalhanoğlu,86,CM
+Jamal Musiala,86,CAM
+João Cancelo,86,RB
+Khvicha Kvaratskhelia,86,LW
+Leroy Sané,86,RM
+Luka Modrić,86,CM
+Nicolò Barella,86,CM
+Ousmane Dembélé,86,RW
+Paulo Dybala,86,CF
+Pedri,86,CM
+Rafael Leão,86,LW
+Riyad Mahrez,86,RM
+Ronald Araujo,86,CB
+Sergej Milinković-Savić,86,CM
+Trent Alexander-Arnold,86,RB
 Wojciech Szczęsny,86,GK
-Keylor Navas,85,GK
-Dominik Szoboszlai,83,CAM
-James Maddison,84,CAM
-Mason Mount,82,CAM
+Yann Sommer,86,GK
+Éder Militão,86,CB
+İlkay Gündoğan,86,CM
+Alessandro Bastoni,85,CB
+Bremer,85,CB
+Casemiro,85,CDM
+Christopher Nkunku,85,CF
+David Alaba,85,CB
+Diogo Jota,85,CF
+Domenico Berardi,85,RW
+Gabriel,85,CB
+Giovanni Di Lorenzo,85,RB
+Jack Grealish,85,LW
+James Maddison,85,CAM
+John Stones,85,CB
+Jules Koundé,85,CB
+Kieran Trippier,85,RB
+Kingsley Coman,85,LM
+Leon Goretzka,85,CM
+N'Golo Kanté,85,CDM
+Rodrygo,85,RW
+Sadio Mané,85,LM
+Theo Hernández,85,LB
+Unai Simón,85,GK
+William Saliba,85,CB
+Yassine Bounou,85,GK
+Achraf Hakimi,84,RB
+Adrien Rabiot,84,CM
+Alexis Mac Allister,84,CM
+Aurélien Tchouaméni,84,CDM
+Bruno Guimarães,84,CM
+Carvajal,84,RB
+Chris Smalling,84,CB
+Ciro Immobile,84,ST
+Dušan Vlahović,84,ST
+Federico Chiesa,84,LM
+Fikayo Tomori,84,CB
+Gabriel Martinelli,84,LW
+Granit Xhaka,84,CDM
+Guglielmo Vicario,84,GK
+Iago Aspas,84,ST
+Ismaël Bennacer,84,CDM
+Jeremie Frimpong,84,RWB
+Jonathan Tah,84,CB
+Julian Brandt,84,CAM
+Kalidou Koulibaly,84,CB
+Kim Min Jae,84,CB
+Koke,84,CDM
+Kyle Walker,84,RB
+Lisandro Martínez,84,CB
+Loïs Openda,84,ST
+Lucas Hernández,84,LB
+Luis Alberto,84,CM
+Luis Díaz,84,LW
+Luis Suárez,84,ST
+Marcos Llorente,84,CM
+Mats Hummels,84,CB
+Matthijs de Ligt,84,CB
+Mikel Merino,84,CM
+Morata,84,ST
+Nick Pope,84,GK
+Nico Schlotterbeck,84,CB
+Palhinha,84,CDM
+Parejo,84,CM
+Raphinha,84,RW
+Rodrigo De Paul,84,CM
+Romelu Lukaku,84,ST
+Rúben Neves,84,CDM
+Thomas Partey,84,CDM
+Yannick Carrasco,84,LW
+Álex Remiro,84,GK
+Ángel Di María,84,RM
+Aleix García,83,CM
+Alessio Romagnoli,83,CB
+Alexander Isak,83,ST
+Andreas Christensen,83,CB
+André Onana,83,GK
+Aymeric Laporte,83,CB
+Benjamin Pavard,83,CB
+Cristian Romero,83,CB
+Dani Olmo,83,CAM
+Darwin Núñez,83,ST
+Dayot Upamecano,83,CB
+Diogo Costa,83,GK
+Donyell Malen,83,RM
+Edin Džeko,83,ST
+Eduardo Camavinga,83,CM
+Fabinho,83,CDM
+Federico Dimarco,83,LWB
+Ferran Torres,83,LW
+Filip Kostić,83,LM
+Francesco Acerbi,83,CB
+Gavi,83,CM
+Gerard Moreno,83,ST
+Gianluca Mancini,83,CB
+Guido Rodríguez,83,CDM
+Ibrahima Konaté,83,CB
+Jonas Hofmann,83,CAM
+Jorginho,83,CDM
+José María Giménez,83,CB
+Julián Álvarez,83,CF
+Kevin Trapp,83,GK
+Koen Casteels,83,GK
+Konrad Laimer,83,CDM
+Lorenzo Pellegrini,83,CAM
+Manuel Akanji,83,CB
+Marcelo Brozović,83,CDM
+Marcos Acuña,83,LB
+Matthias Ginter,83,CB
+Memphis Depay,83,CF
+Moussa Diaby,83,RW
+Niklas Süle,83,CB
+Olivier Giroud,83,ST
+Ollie Watkins,83,ST
+Oyarzabal,83,LW
+Rafa,83,CF
+Raphaël Varane,83,CB
+Reece James,83,RB
+Ronaldo Cabrais,83,CAM
+Serge Gnabry,83,RM
+Sergio Busquets,83,CDM
+Sergio Ramos,83,CB
+Stanislav Lobotka,83,CM
+Sven Botman,83,CB
+Viktor Tsygankov,83,RM
+Vitinha,83,CM
+Willi Orban,83,CB
+Aaron Ramsdale,82,GK
+Alex Meret,82,GK
+Alphonso Davies,82,LB
+Anderson Talisca,82,RM
+Benjamin White,82,RB
+Bernd Leno,82,GK
+Boubacar Kamara,82,CDM
+Brahim,82,CAM
+Brice Samba,82,GK
+Callum Wilson,82,ST
+Christian Pulisic,82,RW
+Cody Gakpo,82,CF
+David García,82,CB
+David Raya,82,GK
+Dejan Kulusevski,82,RW
+Dominik Livaković,82,GK
+Douglas Luiz,82,CM
+Dušan Tadić,82,LW
+Emre Can,82,CDM
+Enzo Fernández,82,CM
+Exequiel Palacios,82,CM
+Fabian Schär,82,CB
+Ferland Mendy,82,LB
+Franck Yannick Kessié,82,CDM
+Fred,82,CM
+Gabriel Jesus,82,ST
+Gayà,82,LB
+Giorgi Mamardashvili,82,GK
+Henrikh Mkhitaryan,82,CAM
+Isi Palazón,82,RM
+Ivan Provedel,82,GK
+Iñaki Williams,82,RM
+Iñigo Martínez,82,CB
+Jeremías Conan Ledesma,82,GK
+Joelinton,82,CM
+Jordan Pickford,82,GK
+Jordi Alba,82,LB
+Joselu,82,ST
+Josué Chiamulera,82,CB
+Joško Gvardiol,82,LB
+Kai Havertz,82,CAM
+Keylor Navas,82,GK
+Leandro Trossard,82,CF
+Leon Bailey,82,RM
+Lucas Mantela,82,GK
+Lucas Paquetá,82,LM
+Lucas Torreira,82,CDM
+Luke Shaw,82,LB
+Lukáš Hrádecký,82,GK
+Malcom,82,CAM
+Manuel Locatelli,82,CDM
+Marcel Sabitzer,82,CM
+Marco Asensio,82,RW
+Marco Reus,82,CAM
+Marcus Rashford,82,LM
+Mario Hermoso,82,CB
+Mateo Kovačić,82,CM
+Mattia Zaccagni,82,LW
+Milan Škriniar,82,CB
+Nabil Fekir,82,CAM
+Nacho Fernández,82,CB
+Nahuel Molina,82,RWB
+Nathan Aké,82,CB
+Nico Williams,82,LM
+Nicolás Otamendi,82,CB
+Nuno Mendes,82,LB
+Orkun Kökçü,82,CM
+Otávio,82,CAM
+Patrik Schick,82,ST
+Pau Torres,82,CB
+Pedro Gonçalves,82,LW
+Pedro Porro,82,RB
+Piotr Zieliński,82,CM
+Péter Gulácsi,82,GK
+Raheem Sterling,82,LM
+Randal Kolo Muani,82,ST
+Raphaël Guerreiro,82,LB
+Ricardo Horta,82,CAM
+Robert Andrich,82,CDM
+Robin Le Normand,82,CB
+Rodrigo Bentancur,82,CM
+Sancet,82,CAM
+Sergi Darder,82,CM
+Serhou Guirassy,82,ST
+Stefan de Vrij,82,CB
+Teun Koopmeiners,82,CM
+Thiago,82,CM
+Thomas Müller,82,CAM
+Viktor Gyökeres,82,ST
+Wissam Ben Yedder,82,ST
+Xavi Simons,82,CAM
+Youssef En-Nesyri,82,ST
+Ángel Correa,82,ST
+Ademola Lookman,81,ST
+Adriano Bisesi,81,ST
+Adryan Zonta,81,LWB
+Aleksandar Mitrović,81,ST
+Alexandre Lacazette,81,ST
+Allan Saint-Maximin,81,LM
+Andrej Kramarić,81,CF
+André-Franck Zambo Anguissa,81,CDM
+Arkadiusz Milik,81,ST
+Artem Dovbyk,81,ST
+Balde,81,LB
+Borja Iglesias,81,ST
+Brais Méndez,81,CM
+Bryan Cristante,81,CM
+Daichi Kamada,81,CAM
+Danilo,81,CB
+Danilo Pereira,81,CB
+Davide Frattesi,81,CM
+Denzel Dumfries,81,RWB
+Destiny Udogie,81,LB
+Diego Carlos,81,CB
+Diogo Dalot,81,RB
+Dominik Szoboszlai,81,CAM
+Duván Zapata,81,ST
+Dávid Hancko,81,CB
+Edmond Tapsoba,81,CB
+Edson Álvarez,81,CDM
+Ellyes Skhiri,81,CDM
+Etienne Capoue,81,CM
+Felipe Anderson,81,RW
 Isco,81,CAM
-Leandro Trossard,82,LW
+Ivan Rakitić,81,CM
+Jadon Sancho,81,LM
+Jarrod Bowen,81,RM
+John McGinn,81,CM
+Jordan Henderson,81,CDM
+João Félix,81,CF
+João Mário,81,LM
+Kaoru Mitoma,81,LM
+Kasper Schmeichel,81,GK
+Lewis Dunk,81,CB
+Lucas Vázquez,81,RB
+Manuel Ugarte,81,CDM
+Marco Carnesecchi,81,GK
+Marcus Thuram,81,ST
+Mario Götze,81,CM
+Matteo Darmian,81,RWB
+Mauro Icardi,81,ST
+Mehdi Taremi,81,ST
+Mohammed Kudus,81,RM
+Mário Rui,81,LB
+Nailton Suzuki,81,CAM
+Niclas Füllkrug,81,ST
+Nicolás González,81,RW
+Noussair Mazraoui,81,RB
+Odilon Kossounou,81,CB
+Oliver Baumann,81,GK
+Oswaldinato,81,ST
+Paulo Gazzaniga,81,GK
+Pepe,81,CB
+Pervis Estupiñán,81,LB
+Pierre-Emerick Aubameyang,81,ST
+Pierre-Emile Højbjerg,81,CDM
+Presnel Kimpembe,81,CB
+Reinildo,81,LB
+Richarlison,81,ST
+Rosival Dourado,81,CDM
+Ruben Loftus-Cheek,81,CM
+Rui Silva,81,GK
+Sebastián Coates,81,CB
+Seko Fofana,81,CM
+Simon Kjær,81,CB
+Stefan Savić,81,CB
+Steven Berghuis,81,RW
+Sébastien Haller,81,ST
+Takefusa Kubo,81,RW
+Thomas Lemar,81,CM
+Toby Alderweireld,81,CB
+Victor Boniface,81,ST
+Vincenzo Grifo,81,LM
+Welington Dano,81,LB
+Wilfried Zaha,81,LM
+William Carvalho,81,CDM
+Xaver Schlager,81,CDM
+Yeray,81,CB
+Youri Tielemans,81,CM
+Zubimendi,81,CDM
+Álvaro Valles,81,GK
+Édouard Mendy,81,GK
+Aaron Wan-Bissaka,80,RB
+Abdülkerim Bardakcı,80,CB
+Alessandro Buongiorno,80,CB
+Alexandr Golovin,80,CF
+Alexis Sánchez,80,ST
+Ali Al Musrati,80,CDM
+Alphonse Areola,80,GK
+Amadou Haidara,80,CM
+Amir Rrahmani,80,CB
+Andriy Lunin,80,GK
+André Silva,80,ST
+Anthony Gordon,80,LW
+Anthony Lopes,80,GK
+Aritz Elustondo,80,CB
+Arnau Martínez,80,RB
+Axel Witsel,80,CB
+Ben Chilwell,80,LB
+Benjamin Bourigeaud,80,RM
+Benjamin Henrichs,80,RB
+Boulaye Dia,80,ST
+Bradley Barcola,80,LW
+Cole Palmer,80,RM
+Cristiano Biraghi,80,LB
+David López,80,CB
+David Neres,80,LM
+David Raum,80,LB
+David Soria,80,GK
+Davide Calabria,80,RB
+De Marcos,80,RB
+Denis Bouanga,80,LW
+Eberechi Eze,80,CAM
+Enes Ünal,80,ST
+Ezri Konsa,80,CB
+Fabián Ruiz,80,CM
+Facundo Medina,80,CB
+Fernando Muslera,80,GK
+Fredrik Aursnes,80,RB
+Geoffrey Kondogbia,80,CM
+Gerónimo Rulli,80,GK
+Giovani Lo Celso,80,CAM
+Gonçalo Inácio,80,CB
+Hakim Ziyech,80,RM
+Hamari Traoré,80,RB
+Hans Vanaken,80,CAM
+Hany Mukhtar,80,CF
+Harry Maguire,80,CB
+Harvey Barnes,80,LW
+Heberto Gaúcho,80,CB
+Hirving Lozano,80,RW
+Héniton Pires,80,GK
+Ibañez,80,CB
+Ibrahim Sangaré,80,CDM
+Ivan Toney,80,ST
+Iván Martín,80,CM
+Javi Galán,80,LB
+Jean-Clair Todibo,80,CB
+Jesús Navas,80,RB
+Joe Gomez,80,CB
+Joel Matip,80,CB
+Joey Veerman,80,CM
+Jonas Omlin,80,GK
+Jonathan Clauss,80,RB
+Jonathan David,80,ST
+Jonathan Viera,80,CAM
+Jordan Veretout,80,CM
+Juan Foyth,80,RB
+Julian Weigl,80,CDM
+Karim Adeyemi,80,LM
+Kepa,80,GK
+Kevin Danso,80,CB
+Kieran Tierney,80,LB
+Lars Unnerstall,80,GK
+Laure Santeiro,80,CAM
+Leonardo Spinazzola,80,LWB
+Lorenzo Insigne,80,LW
+Lucas Ocampos,80,LW
+Luuk de Jong,80,ST
+Maikel Catarino,80,RB
+Marc Cucurella,80,LB
+Marcus Edwards,80,RW
+Mario Pašalić,80,CAM
+Mark Flekken,80,GK
+Marko Arnautović,80,ST
+Marten de Roon,80,CDM
+Martin Terrier,80,LM
+Matteo Politano,80,RW
+Maximilian Arnold,80,CDM
+Michael Olise,80,RM
+Micky van de Ven,80,CB
+Mohamed Simakan,80,CB
+Moisés Caicedo,80,CDM
+Morten Hjulmand,80,CDM
+Nemanja Gudelj,80,CB
+Nemanja Matić,80,CDM
+Nuno Santos,80,LW
+Oleksandr Zinchenko,80,LB
+Oriol Romeu,80,CDM
+Pascal Groß,80,CM
+Pepelu,80,CDM
+Pepê,80,CAM
+Raúl Albiol,80,CB
+Roberto Firmino,80,CF
+Rui Patrício,80,GK
+Ruiz de Galarreta,80,CM
+Sacha Boey,80,RB
+Samuel Chukwueze,80,RW
+Saúl,80,CM
+Sebastian Szymański,80,CAM
+Sergi Roberto,80,RB
+Simon Banza,80,ST
+Suso,80,RW
+Sávio,80,LM
+Tammy Abraham,80,ST
+Thiago Almada,80,CAM
+Tijjani Reijnders,80,CM
+Timo Werner,80,LW
+Tony Abranjes,80,CB
+Téji Savanier,80,CAM
+Valentin Rongier,80,CDM
+Vangelis Pavlidis,80,ST
+Vedat Muriqi,80,ST
+Vivian,80,CB
+Warren Zaïre-Emery,80,CM
+Wataru Endo,80,CDM
+Yangel Herrera,80,CM
+Youssouf Fofana,80,CDM
+Yuri Berchiche,80,LB
+Yves Bissouma,80,CDM
+Zubeldia,80,CB
+Álex Berenguer,80,LM
+Álex Moreno,80,LB
+Adam Marušić,79,LB
+Adnan Vidual,79,RB
+Albert Guðmundsson,79,ST
+Alex Telles,79,LB
+Alexander Bah,79,RB
+Alexander Nübel,79,GK
+Alexander Sørloth,79,ST
+Ander Herrera,79,CM
+Antony,79,RM
+António Silva,79,CB
+Armand Laurienté,79,LW
+Arthur Cabral,79,ST
+Axel Disasi,79,CB
+Ayoze Pérez,79,LM
+Azpilicueta,79,CB
+Benjamin André,79,CDM
+Bryan Mbeumo,79,RW
+Callum McGregor,79,CDM
+Carles Gil,79,CAM
+Carlos Augusto,79,LM
+Castello Lukeba,79,CB
+Catena,79,CB
+Chancel Mbemba,79,CB
+Cheick Doucouré,79,CDM
+Christian Eriksen,79,CM
+Christian Günter,79,LB
+Christoph Baumgartner,79,CAM
+Claudio Bravo,79,GK
+Conor Gallagher,79,CM
+Curtis Jones,79,CM
+Daley Blind,79,CB
+Dani Ceballos,79,CM
+Daniel Muñoz,79,RWB
+Dante,79,CB
+David Ospina,79,GK
+Davide Zappacosta,79,RWB
+Dean Henderson,79,GK
+Denis Zakaria,79,CDM
+Deniz Undav,79,ST
+Deulofeu,79,CF
+Diego Essler,79,LB
+Dodi Lukébakio,79,RW
+Dries Mertens,79,CAM
+Edin Višća,79,RM
+Eljif Elmas,79,CAM
+Emanuel Reynoso,79,CAM
+Emelvinson,79,GK
+Emil Audero,79,GK
+Emil Forsberg,79,CAM
+Emiliano Buendía,79,RM
+Erik Lamela,79,RW
+Ethan Pinnock,79,CB
+Evanilson,79,ST
+Ezequiel Ávila,79,ST
+Florentino,79,CDM
+Francis Coquelin,79,CM
+Frederik Rønnow,79,GK
+Gabri Prestão,79,GK
+Georginio Wijnaldum,79,CM
+Gernot Trauner,79,CB
+Giacomo Bonaventura,79,CAM
+Gianluca Scamacca,79,ST
+Gonçalo Ramos,79,ST
+Guruzeta,79,ST
+Henry Martín,79,ST
+Hidemasa Morita,79,CM
+Hugo Lloris,79,GK
+James Tarkowski,79,CB
+James Tavernier,79,RB
+James Ward-Prowse,79,CM
+Jan Vertonghen,79,CB
+Jerdy Schouten,79,CDM
+Joachim Andersen,79,CB
+Jordy Clasie,79,CDM
+Jorge Andrão,79,CDM
+Joshua Zirkzee,79,ST
+José Sá,79,GK
+Juan Cuadrado,79,RM
+Juan Musso,79,GK
+Jurriën Timber,79,CB
+Jérémy Doku,79,LW
+Kaku,79,CAM
+Kurt Zouma,79,CB
+Lee Kang In,79,CAM
+Leonardo Bonucci,79,CB
+Lucas Chevalier,79,GK
+Lucas Digne,79,LB
+Lucas Robertone,79,CM
+Lucas Zelarayán,79,CAM
+Luciano Acosta,79,CAM
+Luis Chávez,79,CM
+Luis Muriel,79,ST
+Luiz Felipe,79,CB
+Lukas Klostermann,79,CB
+Lutsharel Geertruida,79,RB
+Manuel Lazzari,79,RB
+Mario Lemina,79,CDM
+Mason Mount,79,CM
+Matheus,79,GK
+Matheus Cunha,79,ST
+Matheus Nunes,79,CM
+Mattia Perin,79,GK
+Matty Cash,79,RB
+Mattéo Guendouzi,79,CM
+Matz Sels,79,GK
+Mauro Arambarri,79,CDM
+Medrán,79,CM
+Melvin Parrela,79,CDM
+Michele Di Gregorio,79,GK
+Miguel Almirón,79,RW
+Miguel Gutiérrez,79,LB
+Moi Gómez,79,CM
+Muniain,79,CAM
+Nayef Aguerd,79,CB
+Nikola Milenković,79,CB
+Nikola Vlašić,79,CF
+Noa Lang,79,LW
+Nordi Mukiele,79,RB
+Nélson Semedo,79,RWB
+Odysseas Vlachodimos,79,GK
+Pablo Maffeo,79,RWB
+Pau López,79,GK
+Pedro Neto,79,RW
+Perr Schuurs,79,CB
+Philipp Lienhart,79,CB
+Piero Hincapié,79,CB
+Pietro Terracciano,79,GK
+Rade Krunić,79,CM
+Rafael Tolói,79,CB
+Remo Freuler,79,CDM
+Renato Tapia,79,CDM
+Ricardo Pereira,79,RB
+Riccardo Orsolini,79,RM
+Robert Sánchez,79,GK
+Robin Gosens,79,LWB
+Robin Koch,79,CB
+Ryan Gravenberch,79,CM
+Salem Al Dawsari,79,LM
+Samuel Lino,79,LM
+Santiago Giménez,79,ST
+Sardar Azmoun,79,ST
+Sead Kolašinac,79,CB
+Simon Mignolet,79,GK
+Sofyan Amrabat,79,CDM
+Solly March,79,RM
+Stefan Ortega,79,GK
+Stephan El Shaarawy,79,LM
+Steve Mandanda,79,GK
+Stole Dimitrievski,79,GK
+Takumi Minamino,79,CAM
+Teddy Teuma,79,CM
+Tomáš Souček,79,CDM
+Tyrone Mings,79,CB
+Valentin Castellanos,79,ST
+Victor Lindelöf,79,CB
+Vincent Aboubakar,79,ST
+Waldemar Anton,79,CB
+Walter Benítez,79,GK
+Wilfred Ndidi,79,CDM
+Wladimiro Falcone,79,GK
+Yeremy Pino,79,LM
+Álvaro García,79,LM
+Éderson,79,CM
+Éver Banega,79,CM
+Óliver Torres,79,CM
+Łukasz Fabiański,79,GK
+Adam Webster,78,CB
+Adán,78,GK
+Albertinho Dutra,78,LW
+Alex Oxlade-Chamberlain,78,CM
+Alexey Miranchuk,78,CF
+Alexis Saelemaekers,78,RM
+Alfonso Espino,78,LB
+Amine Gouiri,78,LW
+Anatoliy Trubin,78,GK
+Andrea Belotti,78,ST
+Andrea Colpani,78,CF
+Andrea Consigli,78,GK
+Andreas Skov Olsen,78,RM
+Angeliño,78,LB
+Angelo Stiller,78,CM
+Antonee Robinson,78,LB
+Antonio Candreva,78,CF
+Antonio Sanabria,78,ST
+Antonín Barák,78,CM
+Arthur,78,CM
+Arturo Inálcio,78,CM
+Augusto Batalla,78,GK
+Ben Mee,78,CB
+Benjamin Šeško,78,ST
+Berat Djimsiti,78,CB
+Beto,78,ST
+Borja Mayoral,78,ST
+Branco van den Boomen,78,CM
+Brian Brobbey,78,ST
+Caio Henrique,78,LB
+Campaña,78,CM
+Carlos Soler,78,CM
+Charles De Ketelaere,78,CAM
+Cristhian Stuani,78,ST
+Cucho Hernández,78,ST
+Dan Burn,78,CB
+Dani Rodríguez,78,LM
+Danilho Doekhi,78,CB
+Davinson Sánchez,78,CB
+De Frutos,78,RM
+Diego Llorente,78,CB
+Diego Rico,78,LB
+Djibril Sow,78,CM
+Dominic Solanke,78,ST
+Dénes Dibusz,78,GK
+Edon Zhegrova,78,RM
+Emerson,78,LB
+Emile Smith Rowe,78,LW
+Eric Dier,78,CB
+Eric García,78,CB
+Erick Sánchez,78,CM
+Ermedin Demirović,78,CF
+Evan Ndicka,78,CB
+Federico Gatti,78,CB
+Felix Nmecha,78,CM
+Ferdi Kadıoğlu,78,LB
+Folarin Balogun,78,ST
+Fran Beltrán,78,CDM
+Fran García,78,LB
+Franck Honorat,78,RM
+Fredditinho,78,ST
+Gabri Veiga,78,CM
+Gaetano Castrovilli,78,CM
+Galeno,78,LM
+Gaëtan Laborde,78,RW
+Gerson Armão,78,LB
+Giacomo Raspadori,78,CF
+Giovanni Reyna,78,RM
+Guaita,78,GK
+Guillermo Ochoa,78,GK
+Guilson Paiva,78,RM
+Gustavo Cuéllar,78,CDM
+Hediselton,78,RB
+Hiroki Ito,78,CB
+Hwang Hee Chan,78,LW
+Héctor Herrera,78,CM
+Ismaily,78,LB
+Jacob Ramsey,78,LM
+Janis Blaswich,78,GK
+Jarrad Branthwaite,78,CB
+Jason Bardeira,78,ST
+Jean Butez,78,GK
+Jefferson Lerma,78,CDM
+Joan Jordán,78,CM
+Joe Willock,78,CM
+Johan Bakayoko,78,RW
+Jonas Wind,78,ST
+Jonathan Gradit,78,CB
+Jonatão Praz,78,LW
+Joseph Aidoo,78,CB
+Josip Šutalo,78,CB
+Joël Veltman,78,RB
+Juanmi,78,LM
+Julian Quiñones,78,CF
+Julian Ryerson,78,RB
+Junya Ito,78,RW
+Justin Bijlow,78,GK
+Kerem Demirbay,78,CM
+Kevin Kampl,78,CM
+Khéphren Thuram,78,CM
+Kiernan Dewsbury-Hall,78,CM
+Kodjo Fo-Doh Laba,78,ST
+Konstantinos Mavropanos,78,CB
+Leandro Paredes,78,CM
+Leonardo Balerdi,78,CB
+Levi García,78,ST
+Lewis Ferguson,78,CAM
+Lovro Majer,78,CM
+Luis Sinisterra,78,LM
+Luka Jović,78,ST
+Lukáš Haraslín,78,LW
+M'Bala Nzola,78,ST
+Malo Gusto,78,RB
+Manuel Riemann,78,GK
+Marc Bartra,78,CB
+Marc Guéhi,78,CB
+Marcelo Grohe,78,GK
+Marcin Bułka,78,GK
+Marco Bizot,78,GK
+Marco Silvestri,78,GK
+Marcos Alonso,78,LB
+Marcão,78,CB
+Marko Dmitrović,78,GK
+Marvin Schwäbe,78,GK
+Mason Greenwood,78,RM
+Matheus Reis,78,CB
+Mathew Ryan,78,GK
+Mats Wieffer,78,CDM
+Matt O'Riley,78,CM
+Matteo Pessina,78,CM
+Maxime Lopez,78,CM
+Maximilian Mittelstädt,78,LB
+Mergim Berisha,78,ST
+Michael Gregoritsch,78,ST
+Michail Antonio,78,ST
+Miranda,78,LB
+Moise Kean,78,ST
+Moncayola,78,CM
+Morales,78,ST
+Morgan Gibbs-White,78,CAM
+Mykola Shaparenko,78,CM
+Nabil Bentaleb,78,CDM
+Nemanja Maksimović,78,CM
+Neto,78,GK
+Nicolas Jackson,78,ST
+Nicolas Pépé,78,RM
+Nicolás Tagliafico,78,LB
+Nicolò Casale,78,CB
+Nicolò Zaniolo,78,RM
+Olivier Boscagli,78,CB
+Omar Marmoush,78,ST
+Ousmane Diomande,78,CB
+Pape Matar Sarr,78,CM
+Patrick Ciurria,78,RM
+Paulinho,78,ST
+Pedraza,78,LB
+Pedro,78,RW
+Pedrão Tofico,78,CB
+Pierre Kalulu,78,CB
+Pierre Lees-Melou,78,CDM
+Predrag Rajković,78,GK
+Przemysław Frankowski,78,RWB
+Ramy Bensebaini,78,LB
+Rasmus Højlund,78,ST
+Rayan Aït-Nouri,78,LWB
+Renan Lodi,78,LB
+Renato Sanches,78,CM
+Riquelme,78,LM
+Roberto Pereyra,78,CM
+Rodrigo Becão,78,CB
+Romain Del Castillo,78,RW
+Romain Saïss,78,CB
+Roman Bürki,78,GK
+Rubén García,78,RM
+Sam Johnstone,78,GK
+Saïd Benrahma,78,LW
+Scott McTominay,78,CDM
+Sebastián Driussi,78,CAM
+Sergio Herrera,78,GK
+Sergio Romero,78,GK
+Sergiño Dest,78,LB
+Stefan Posch,78,RB
+Stefano Sensi,78,CM
+Steven Bergwijn,78,LW
+Takehiro Tomiyasu,78,RB
+Trincão,78,RW
+Victor Nelsson,78,CB
+Vladimír Coufal,78,RB
+Wellington Sabrão,78,RB
+Wesley Fofana,78,CB
+Weston McKennie,78,CM
+Wilfried Singo,78,CB
+Willian Pacho,78,CB
+Yan Couto,78,RB
+Yvon Mvogo,78,GK
+Zervandro,78,CB
+İrfan Can Kahveci,78,RW
+Abderrazak Hamdallah,77,ST
+Adnan Januzaj,77,RW
+Adrien Truffert,77,LB
+Aitor,77,GK
+Aitor Paredes,77,CB
+Akram Afif,77,LM
+Alan Varela,77,CDM
+Alassane Plea,77,CAM
+Alban Lafont,77,GK
+Alejandro Garnacho,77,LM
+Alex Iwobi,77,RM
+Alex Sandro,77,CB
+Alexander Djiku,77,CB
+Amadou Onana,77,CDM
+Amine Adli,77,ST
+Anastasios Bakasetas,77,CAM
+Andeson Trigo,77,LB
+Andre Blake,77,GK
+Andrea Cambiaso,77,LWB
+Andreas Pereira,77,CAM
+Andrija Živković,77,RW
+Ansu Fati,77,LM
+Ante Budimir,77,ST
+Anthony Martial,77,ST
+Anthony Nwakaeme,77,ST
+Anton Stach,77,CM
+Arda Güler,77,CAM
+Arnaut Danjuma,77,ST
+Arthur Theate,77,CB
+Arturo Vidal,77,CM
+Aschraf El Mahdioui,77,CDM
+Baptiste Santamaria,77,CDM
+Ben Davies,77,CB
+Benjamin Lecomte,77,GK
+Benoît Badiashile,77,CB
+Borna Sosa,77,LB
+Bradley Locko,77,LB
+Breel Embolo,77,ST
+Brennan Johnson,77,RW
+Bruma,77,LM
+Bruno Petković,77,ST
+Bryan Gil,77,LW
+Bryan Heynen,77,CM
+Calvin Stengs,77,CAM
+Cameron Carter-Vickers,77,CB
+Cameron Puertas,77,CM
+Cengiz Ünder,77,RW
+Chris Führich,77,LM
+Christian Kouamé,77,ST
+Claudio Coíntra,77,CAM
+Craig Dawson,77,CB
+César Montes,77,CB
+Dakonam Djené,77,CB
+Dan-Axel Zagadou,77,CB
+Danilo Cataldi,77,CDM
+Darwin Machís,77,LM
+Demarai Gray,77,LM
+Dodô,77,RB
+Dominic Calvert-Lewin,77,ST
+Dwight McNeil,77,LM
+Edinson Cavani,77,ST
+Elye Wahi,77,ST
+Emerson Royal,77,RB
+Enzo Chissano,77,LB
+Enzo Le Fée,77,CM
+Eric Maxim Choupo-Moting,77,ST
+Esequiel Barco,77,CAM
+Fabiano Parisi,77,LB
+Fayçal Fajr,77,CM
+Federico Bernardeschi,77,RW
+Florian Lejeune,77,CB
+Florian Neuhaus,77,CM
+Florian Sotoca,77,CF
+Francisco Conceição,77,RM
+Franco Armani,77,GK
+Fábio Vieira,77,CAM
+Gabriel Paulista,77,CB
+Gedson Fernandes,77,CM
+Germán Pezzella,77,CB
+Ghislain Konan,77,LB
+Giorgio Scalvini,77,CB
+Giovanni Simeone,77,ST
+Gonzalo Escalante,77,CM
+Gonzalo Montiel,77,RB
+Gonçalo Guedes,77,ST
+Grischa Prömel,77,CM
+Guillermo Maripán,77,CB
+Hans Hateboer,77,RWB
+Harvey Elliott,77,CAM
+Hugo Duro,77,ST
+Héctor Bellerín,77,RB
+Ian Maatsen,77,LB
+Ignacio Fernández,77,CAM
+Igor Paixão,77,LW
+Illarramendi,77,CM
+Isak Hien,77,CB
+Issa Diop,77,CB
+Ivan Ilić,77,CM
+Ivan Perišić,77,LW
+Iván Balliu,77,RB
+Jadsinho Mei,77,CDM
+James Milner,77,CM
+Jamie Vardy,77,ST
+Jan-Niklas Beste,77,LM
+Jasper Cillessen,77,GK
+Jaume Costa,77,LWB
+Jeremiah St. Juste,77,CB
+Joakim Mæhle,77,LB
+Johan Mojica,77,LB
+Jonathan Bamba,77,LM
+Jonathan Ikoné,77,RW
+Jonathan Rodríguez,77,ST
+Jordan Teze,77,RB
+Josip Juranović,77,RWB
+Josip Stanišić,77,RWB
+João Gomes,77,CDM
+João Neves,77,CM
+Juan Bernat,77,LB
+Juan Fernando Quintero,77,CAM
+Junior Messias,77,RM
+Justin Kluivert,77,RM
+Jérémie Boga,77,LW
+Kalvin Phillips,77,CDM
+Kenny Tete,77,RB
+Kirian,77,CM
+Kiril Despodov,77,RM
+Konstantinos Tsimikas,77,LB
+Kyogo Furuhashi,77,ST
+Ladislav Krejčí,77,CB
+Leander Baia,77,RB
+Lekue,77,RB
+Leny Yoro,77,CB
+Lorenzo Montipò,77,GK
+Loïc Badé,77,CB
+Lucas Martínez Quarta,77,CB
+Lucas Perri,77,GK
+Lucas Torró,77,CDM
