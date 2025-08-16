@@ -1,33 +1,38 @@
-name: Flutter CI
+name: Build Android APK
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+      - main
   pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout source
+        uses: actions/checkout@v3
 
-    - name: Set up Flutter
-      uses: subosito/flutter-action@v2
-      with:
-        flutter-version: "3.22.0"   # use stable version matching your sdk
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
 
-    - name: Install dependencies
-      run: flutter pub get
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.22.0'
 
-    - name: Analyze project
-      run: flutter analyze
+      - name: Install dependencies
+        run: flutter pub get
 
-    - name: Run tests
-      run: flutter test || echo "No tests yet"
+      - name: Build APK
+        run: flutter build apk --release
 
-    - name: Build APK
-      run: flutter build apk --release
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: app-release.apk
+          path: build/app/outputs/flutter-apk/app-release.apk
