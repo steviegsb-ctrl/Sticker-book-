@@ -7,16 +7,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout code
+        uses: actions/checkout@v4
+
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
+
       - name: Run script
-        run: |
-          python scripts/build_top1000.py
-      - name: Upload players.csv
-        uses: actions/upload-artifact@v3
+        run: python scripts/build_top1000.py
+
+      - name: Upload CSV
+        uses: actions/upload-artifact@v4
         with:
-          name: players_csv
-          path: assets/players.csv
+          name: top1000-csv
+          path: players.csv
