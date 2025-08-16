@@ -36,11 +36,8 @@ class StickerHome extends StatefulWidget {
   State<StickerHome> createState() => _StickerHomeState();
 }
 
-class _StickerHomeState extends State<StickerHome>
-    with SingleTickerProviderStateMixin {
-  late TabController tabs;
+class _StickerHomeState extends State<StickerHome> {
   final rng = Random();
-
   List<Player> all = [];
   Set<String> owned = {};
   String query = '';
@@ -49,7 +46,6 @@ class _StickerHomeState extends State<StickerHome>
   @override
   void initState() {
     super.initState();
-    tabs = TabController(length: 2, vsync: this);
     _loadData();
   }
 
@@ -139,63 +135,65 @@ class _StickerHomeState extends State<StickerHome>
     final total = all.length;
     final have = owned.length.clamp(0, total);
 
-    return Scaffold(
-      appBar: AppBar(
-        title: Text('Sticker Book  •  $have/$total'),
-        bottom: const TabBar(tabs: [Tab(text: 'Album'), Tab(text: 'Packs')],),
-      ),
-      body: TabBarView(
-        controller: DefaultTabController.of(context),
-        children: [
-          // Album tab
-          Column(
-            children: [
-              Padding(
-                padding: const EdgeInsets.all(12),
-                child: TextField(
-                  decoration: InputDecoration(
-                    hintText: 'Search name / rating / position',
-                    prefixIcon: const Icon(Icons.search),
-                    border: OutlineInputBorder(borderRadius: BorderRadius.circular(14)),
+    return DefaultTabController(
+      length: 2,
+      child: Scaffold(
+        appBar: AppBar(
+          title: Text('Sticker Book  •  $have/$total'),
+          bottom: const TabBar(tabs: [Tab(text: 'Album'), Tab(text: 'Packs')]),
+        ),
+        body: TabBarView(
+          children: [
+            // Album tab
+            Column(
+              children: [
+                Padding(
+                  padding: const EdgeInsets.all(12),
+                  child: TextField(
+                    decoration: InputDecoration(
+                      hintText: 'Search name / rating / position',
+                      prefixIcon: const Icon(Icons.search),
+                      border: OutlineInputBorder(borderRadius: BorderRadius.circular(14)),
+                    ),
+                    onChanged: (v) => setState(() => query = v),
                   ),
-                  onChanged: (v) => setState(() => query = v),
                 ),
-              ),
-              Expanded(
-                child: ListView.builder(
-                  itemCount: filtered.length,
-                  itemBuilder: (_, i) {
-                    final p = filtered[i];
-                    final have = owned.contains(p.name);
-                    return ListTile(
-                      leading: Icon(have ? Icons.check_circle : Icons.circle_outlined,
-                          color: have ? Colors.teal : null),
-                      title: Text(p.name),
-                      subtitle: Text('Rating: ${p.rating} (${p.position})'),
-                      trailing: IconButton(
-                        icon: Icon(have ? Icons.remove_circle_outline : Icons.add_circle_outline),
-                        onPressed: () => _toggleOwned(p.name),
-                      ),
-                      onLongPress: () => _openFutbin(p.name),
-                    );
-                  },
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: filtered.length,
+                    itemBuilder: (_, i) {
+                      final p = filtered[i];
+                      final have = owned.contains(p.name);
+                      return ListTile(
+                        leading: Icon(have ? Icons.check_circle : Icons.circle_outlined,
+                            color: have ? Colors.teal : null),
+                        title: Text(p.name),
+                        subtitle: Text('Rating: ${p.rating} (${p.position})'),
+                        trailing: IconButton(
+                          icon: Icon(have ? Icons.remove_circle_outline : Icons.add_circle_outline),
+                          onPressed: () => _toggleOwned(p.name),
+                        ),
+                        onLongPress: () => _openFutbin(p.name),
+                      );
+                    },
+                  ),
                 ),
-              ),
-            ],
-          ),
+              ],
+            ),
 
-          // Packs tab
-          Center(
-            child: FilledButton.icon(
-              onPressed: openPack,
-              icon: const Icon(Icons.card_giftcard),
-              label: const Padding(
-                padding: EdgeInsets.symmetric(vertical: 12),
-                child: Text('Open 5-Sticker Pack'),
+            // Packs tab
+            Center(
+              child: FilledButton.icon(
+                onPressed: openPack,
+                icon: const Icon(Icons.card_giftcard),
+                label: const Padding(
+                  padding: EdgeInsets.symmetric(vertical: 12),
+                  child: Text('Open 5-Sticker Pack'),
+                ),
               ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
