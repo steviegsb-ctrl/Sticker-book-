@@ -1,41 +1,23 @@
-name: Build Android APK (Flutter)
+name: stickerbook_futbin_mvp
+description: A minimal sticker book app
+publish_to: "none"
 
-on:
-  push:
-    branches: [ main ]
-  workflow_dispatch:
+environment:
+  sdk: ">=3.0.0 <4.0.0"
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.0
+  shared_preferences: ^2.2.3
+  csv: ^5.1.0
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
 
-      - name: Set up Java 17
-        uses: actions/setup-java@v4
-        with:
-          distribution: 'temurin'
-          java-version: '17'
-
-      - name: Set up Flutter
-        uses: subosito/flutter-action@v2
-        with:
-          channel: stable
-
-      # Generate missing android/ (safe to run in existing project)
-      - name: Create Flutter project scaffold
-        run: flutter create .
-
-      - name: Install dependencies
-        run: flutter pub get
-
-      - name: Build debug APK
-        run: flutter build apk --debug
-
-      - name: Upload APK artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: stickerbook-debug-apk
-          path: build/app/outputs/flutter-apk/app-debug.apk
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/players.csv
