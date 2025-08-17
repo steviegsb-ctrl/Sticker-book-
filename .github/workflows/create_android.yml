@@ -9,54 +9,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
-      - name: Setup Flutter (stable)
+      - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
+          flutter-version: '3.19.0'
 
-      - name: Ensure Android folder (create if missing)
-        shell: bash
+      - name: Create Android folder
         run: |
-          set -e
-          if [ ! -d "android" ]; then
-            echo "No android/ folder — creating with 'flutter create .'"
-            flutter create .
-          else
-            echo "android/ already exists — skipping flutter create"
-          fi
+          flutter create .
+          rm -rf lib test
 
-      - name: Add INTERNET permission to AndroidManifest.xml
-        shell: bash
+      - name: Commit changes
         run: |
-          set -e
-          MANIFEST="android/app/src/main/AndroidManifest.xml"
-          if [ -f "$MANIFEST" ]; then
-            if ! grep -q 'android.permission.INTERNET' "$MANIFEST"; then
-              echo "Adding INTERNET permission to $MANIFEST"
-              # Insert permission just after the <manifest ...> line
-              awk '
-                NR==1{print; print "    <uses-permission android:name=\"android.permission.INTERNET\" />"; next}
-                {print}
-              ' "$MANIFEST" > "$MANIFEST.tmp"
-              mv "$MANIFEST.tmp" "$MANIFEST"
-            else
-              echo "INTERNET permission already present — skipping"
-            fi
-          else
-            echo "Manifest not found at $MANIFEST (did flutter create fail?)"
-          fi
-
-      - name: Commit & push changes (only if there are any)
-        shell: bash
-        run: |
-          set -e
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          if ! git diff --quiet || ! git diff --cached --quiet; then
-            git add -A
-            git commit -m "Ensure android/ exists and add INTERNET permission"
-            git push
-          else
-            echo "No changes to commit"
-          fi
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add -A
+          git commit -m "Add Android folder" || echo "No changes to commit"
+          git push origin main
