@@ -1,4 +1,4 @@
-name,rating,position
+name,rating,position,imageUrl,futbinUrl
 Erling Haaland,91,ST
 Kevin De Bruyne,91,CM
 Kylian Mbappé,91,ST
@@ -999,5 +999,6 @@ Loïc Badé,77,CB
 Lucas Martínez Quarta,77,CB
 Lucas Perri,77,GK
 Lucas Torró,77,CDM
+
 
 
