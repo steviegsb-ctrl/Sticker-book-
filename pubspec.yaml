@@ -1,25 +1,21 @@
-name: sticker_book
-description: A Flutter app that shows FUT Stickers from a CSV file
-publish_to: 'none' # this prevents accidental publishing to pub.dev
-
-version: 1.0.0+1
+name: fut_sticker_book
+description: FUT Stickers App
+publish_to: "none"
 
 environment:
-  sdk: ">=3.9.0 <4.0.0"
+  sdk: ">=3.3.0 <4.0.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.8
   url_launcher: ^6.3.0
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.2
 
 flutter:
   uses-material-design: true
-
   assets:
     - assets/players.csv
