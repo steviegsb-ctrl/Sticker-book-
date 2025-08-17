@@ -1,1005 +1,1001 @@
-name,rating,position
-Erling Haaland,91,ST
-Kevin De Bruyne,91,CM
-Kylian Mbappé,91,ST
-Harry Kane,90,ST
-Lionel Messi,90,CF
-Robert Lewandowski,90,ST
-Rodri,90,CDM
-Thibaut Courtois,90,GK
-Alisson,89,GK
-Marc-André ter Stegen,89,GK
-Mohamed Salah,89,RW
-Rúben Dias,89,CB
-Vini Jr.,89,LW
-Virgil van Dijk,89,CB
-Antoine Griezmann,88,ST
-Bernardo Silva,88,CM
-Ederson,88,GK
-Federico Valverde,88,CM
-Jan Oblak,88,GK
-Jude Bellingham,88,CAM
-Karim Benzema,88,ST
-Lautaro Martínez,88,ST
-Martin Ødegaard,88,CM
-Neymar Jr,88,LW
-Bruno Fernandes,87,CAM
-Declan Rice,87,CDM
-Florian Wirtz,87,CAM
-Frenkie de Jong,87,CM
-Gianluigi Donnarumma,87,GK
-Gregor Kobel,87,GK
-Heung Min Son,87,LW
-Joshua Kimmich,87,CDM
-Manuel Neuer,87,GK
-Marquinhos,87,CB
-Mike Maignan,87,GK
-Phil Foden,87,RW
-Toni Kroos,87,CM
-Victor Osimhen,87,ST
-Andrew Robertson,86,LB
-Antonio Rüdiger,86,CB
-Bukayo Saka,86,RW
-Cristiano Ronaldo,86,ST
-Emiliano Martínez,86,GK
-Grimaldo,86,LWB
-Hakan Çalhanoğlu,86,CM
-Jamal Musiala,86,CAM
-João Cancelo,86,RB
-Khvicha Kvaratskhelia,86,LW
-Leroy Sané,86,RM
-Luka Modrić,86,CM
-Nicolò Barella,86,CM
-Ousmane Dembélé,86,RW
-Paulo Dybala,86,CF
-Pedri,86,CM
-Rafael Leão,86,LW
-Riyad Mahrez,86,RM
-Ronald Araujo,86,CB
-Sergej Milinković-Savić,86,CM
-Trent Alexander-Arnold,86,RB
-Wojciech Szczęsny,86,GK
-Yann Sommer,86,GK
-Éder Militão,86,CB
-İlkay Gündoğan,86,CM
-Alessandro Bastoni,85,CB
-Bremer,85,CB
-Casemiro,85,CDM
-Christopher Nkunku,85,CF
-David Alaba,85,CB
-Diogo Jota,85,CF
-Domenico Berardi,85,RW
-Gabriel,85,CB
-Giovanni Di Lorenzo,85,RB
-Jack Grealish,85,LW
-James Maddison,85,CAM
-John Stones,85,CB
-Jules Koundé,85,CB
-Kieran Trippier,85,RB
-Kingsley Coman,85,LM
-Leon Goretzka,85,CM
-N'Golo Kanté,85,CDM
-Rodrygo,85,RW
-Sadio Mané,85,LM
-Theo Hernández,85,LB
-Unai Simón,85,GK
-William Saliba,85,CB
-Yassine Bounou,85,GK
-Achraf Hakimi,84,RB
-Adrien Rabiot,84,CM
-Alexis Mac Allister,84,CM
-Aurélien Tchouaméni,84,CDM
-Bruno Guimarães,84,CM
-Carvajal,84,RB
-Chris Smalling,84,CB
-Ciro Immobile,84,ST
-Dušan Vlahović,84,ST
-Federico Chiesa,84,LM
-Fikayo Tomori,84,CB
-Gabriel Martinelli,84,LW
-Granit Xhaka,84,CDM
-Guglielmo Vicario,84,GK
-Iago Aspas,84,ST
-Ismaël Bennacer,84,CDM
-Jeremie Frimpong,84,RWB
-Jonathan Tah,84,CB
-Julian Brandt,84,CAM
-Kalidou Koulibaly,84,CB
-Kim Min Jae,84,CB
-Koke,84,CDM
-Kyle Walker,84,RB
-Lisandro Martínez,84,CB
-Loïs Openda,84,ST
-Lucas Hernández,84,LB
-Luis Alberto,84,CM
-Luis Díaz,84,LW
-Luis Suárez,84,ST
-Marcos Llorente,84,CM
-Mats Hummels,84,CB
-Matthijs de Ligt,84,CB
-Mikel Merino,84,CM
-Morata,84,ST
-Nick Pope,84,GK
-Nico Schlotterbeck,84,CB
-Palhinha,84,CDM
-Parejo,84,CM
-Raphinha,84,RW
-Rodrigo De Paul,84,CM
-Romelu Lukaku,84,ST
-Rúben Neves,84,CDM
-Thomas Partey,84,CDM
-Yannick Carrasco,84,LW
-Álex Remiro,84,GK
-Ángel Di María,84,RM
-Aleix García,83,CM
-Alessio Romagnoli,83,CB
-Alexander Isak,83,ST
-Andreas Christensen,83,CB
-André Onana,83,GK
-Aymeric Laporte,83,CB
-Benjamin Pavard,83,CB
-Cristian Romero,83,CB
-Dani Olmo,83,CAM
-Darwin Núñez,83,ST
-Dayot Upamecano,83,CB
-Diogo Costa,83,GK
-Donyell Malen,83,RM
-Edin Džeko,83,ST
-Eduardo Camavinga,83,CM
-Fabinho,83,CDM
-Federico Dimarco,83,LWB
-Ferran Torres,83,LW
-Filip Kostić,83,LM
-Francesco Acerbi,83,CB
-Gavi,83,CM
-Gerard Moreno,83,ST
-Gianluca Mancini,83,CB
-Guido Rodríguez,83,CDM
-Ibrahima Konaté,83,CB
-Jonas Hofmann,83,CAM
-Jorginho,83,CDM
-José María Giménez,83,CB
-Julián Álvarez,83,CF
-Kevin Trapp,83,GK
-Koen Casteels,83,GK
-Konrad Laimer,83,CDM
-Lorenzo Pellegrini,83,CAM
-Manuel Akanji,83,CB
-Marcelo Brozović,83,CDM
-Marcos Acuña,83,LB
-Matthias Ginter,83,CB
-Memphis Depay,83,CF
-Moussa Diaby,83,RW
-Niklas Süle,83,CB
-Olivier Giroud,83,ST
-Ollie Watkins,83,ST
-Oyarzabal,83,LW
-Rafa,83,CF
-Raphaël Varane,83,CB
-Reece James,83,RB
-Ronaldo Cabrais,83,CAM
-Serge Gnabry,83,RM
-Sergio Busquets,83,CDM
-Sergio Ramos,83,CB
-Stanislav Lobotka,83,CM
-Sven Botman,83,CB
-Viktor Tsygankov,83,RM
-Vitinha,83,CM
-Willi Orban,83,CB
-Aaron Ramsdale,82,GK
-Alex Meret,82,GK
-Alphonso Davies,82,LB
-Anderson Talisca,82,RM
-Benjamin White,82,RB
-Bernd Leno,82,GK
-Boubacar Kamara,82,CDM
-Brahim,82,CAM
-Brice Samba,82,GK
-Callum Wilson,82,ST
-Christian Pulisic,82,RW
-Cody Gakpo,82,CF
-David García,82,CB
-David Raya,82,GK
-Dejan Kulusevski,82,RW
-Dominik Livaković,82,GK
-Douglas Luiz,82,CM
-Dušan Tadić,82,LW
-Emre Can,82,CDM
-Enzo Fernández,82,CM
-Exequiel Palacios,82,CM
-Fabian Schär,82,CB
-Ferland Mendy,82,LB
-Franck Yannick Kessié,82,CDM
-Fred,82,CM
-Gabriel Jesus,82,ST
-Gayà,82,LB
-Giorgi Mamardashvili,82,GK
-Henrikh Mkhitaryan,82,CAM
-Isi Palazón,82,RM
-Ivan Provedel,82,GK
-Iñaki Williams,82,RM
-Iñigo Martínez,82,CB
-Jeremías Conan Ledesma,82,GK
-Joelinton,82,CM
-Jordan Pickford,82,GK
-Jordi Alba,82,LB
-Joselu,82,ST
-Josué Chiamulera,82,CB
-Joško Gvardiol,82,LB
-Kai Havertz,82,CAM
-Keylor Navas,82,GK
-Leandro Trossard,82,CF
-Leon Bailey,82,RM
-Lucas Mantela,82,GK
-Lucas Paquetá,82,LM
-Lucas Torreira,82,CDM
-Luke Shaw,82,LB
-Lukáš Hrádecký,82,GK
-Malcom,82,CAM
-Manuel Locatelli,82,CDM
-Marcel Sabitzer,82,CM
-Marco Asensio,82,RW
-Marco Reus,82,CAM
-Marcus Rashford,82,LM
-Mario Hermoso,82,CB
-Mateo Kovačić,82,CM
-Mattia Zaccagni,82,LW
-Milan Škriniar,82,CB
-Nabil Fekir,82,CAM
-Nacho Fernández,82,CB
-Nahuel Molina,82,RWB
-Nathan Aké,82,CB
-Nico Williams,82,LM
-Nicolás Otamendi,82,CB
-Nuno Mendes,82,LB
-Orkun Kökçü,82,CM
-Otávio,82,CAM
-Patrik Schick,82,ST
-Pau Torres,82,CB
-Pedro Gonçalves,82,LW
-Pedro Porro,82,RB
-Piotr Zieliński,82,CM
-Péter Gulácsi,82,GK
-Raheem Sterling,82,LM
-Randal Kolo Muani,82,ST
-Raphaël Guerreiro,82,LB
-Ricardo Horta,82,CAM
-Robert Andrich,82,CDM
-Robin Le Normand,82,CB
-Rodrigo Bentancur,82,CM
-Sancet,82,CAM
-Sergi Darder,82,CM
-Serhou Guirassy,82,ST
-Stefan de Vrij,82,CB
-Teun Koopmeiners,82,CM
-Thiago,82,CM
-Thomas Müller,82,CAM
-Viktor Gyökeres,82,ST
-Wissam Ben Yedder,82,ST
-Xavi Simons,82,CAM
-Youssef En-Nesyri,82,ST
-Ángel Correa,82,ST
-Ademola Lookman,81,ST
-Adriano Bisesi,81,ST
-Adryan Zonta,81,LWB
-Aleksandar Mitrović,81,ST
-Alexandre Lacazette,81,ST
-Allan Saint-Maximin,81,LM
-Andrej Kramarić,81,CF
-André-Franck Zambo Anguissa,81,CDM
-Arkadiusz Milik,81,ST
-Artem Dovbyk,81,ST
-Balde,81,LB
-Borja Iglesias,81,ST
-Brais Méndez,81,CM
-Bryan Cristante,81,CM
-Daichi Kamada,81,CAM
-Danilo,81,CB
-Danilo Pereira,81,CB
-Davide Frattesi,81,CM
-Denzel Dumfries,81,RWB
-Destiny Udogie,81,LB
-Diego Carlos,81,CB
-Diogo Dalot,81,RB
-Dominik Szoboszlai,81,CAM
-Duván Zapata,81,ST
-Dávid Hancko,81,CB
-Edmond Tapsoba,81,CB
-Edson Álvarez,81,CDM
-Ellyes Skhiri,81,CDM
-Etienne Capoue,81,CM
-Felipe Anderson,81,RW
-Isco,81,CAM
-Ivan Rakitić,81,CM
-Jadon Sancho,81,LM
-Jarrod Bowen,81,RM
-John McGinn,81,CM
-Jordan Henderson,81,CDM
-João Félix,81,CF
-João Mário,81,LM
-Kaoru Mitoma,81,LM
-Kasper Schmeichel,81,GK
-Lewis Dunk,81,CB
-Lucas Vázquez,81,RB
-Manuel Ugarte,81,CDM
-Marco Carnesecchi,81,GK
-Marcus Thuram,81,ST
-Mario Götze,81,CM
-Matteo Darmian,81,RWB
-Mauro Icardi,81,ST
-Mehdi Taremi,81,ST
-Mohammed Kudus,81,RM
-Mário Rui,81,LB
-Nailton Suzuki,81,CAM
-Niclas Füllkrug,81,ST
-Nicolás González,81,RW
-Noussair Mazraoui,81,RB
-Odilon Kossounou,81,CB
-Oliver Baumann,81,GK
-Oswaldinato,81,ST
-Paulo Gazzaniga,81,GK
-Pepe,81,CB
-Pervis Estupiñán,81,LB
-Pierre-Emerick Aubameyang,81,ST
-Pierre-Emile Højbjerg,81,CDM
-Presnel Kimpembe,81,CB
-Reinildo,81,LB
-Richarlison,81,ST
-Rosival Dourado,81,CDM
-Ruben Loftus-Cheek,81,CM
-Rui Silva,81,GK
-Sebastián Coates,81,CB
-Seko Fofana,81,CM
-Simon Kjær,81,CB
-Stefan Savić,81,CB
-Steven Berghuis,81,RW
-Sébastien Haller,81,ST
-Takefusa Kubo,81,RW
-Thomas Lemar,81,CM
-Toby Alderweireld,81,CB
-Victor Boniface,81,ST
-Vincenzo Grifo,81,LM
-Welington Dano,81,LB
-Wilfried Zaha,81,LM
-William Carvalho,81,CDM
-Xaver Schlager,81,CDM
-Yeray,81,CB
-Youri Tielemans,81,CM
-Zubimendi,81,CDM
-Álvaro Valles,81,GK
-Édouard Mendy,81,GK
-Aaron Wan-Bissaka,80,RB
-Abdülkerim Bardakcı,80,CB
-Alessandro Buongiorno,80,CB
-Alexandr Golovin,80,CF
-Alexis Sánchez,80,ST
-Ali Al Musrati,80,CDM
-Alphonse Areola,80,GK
-Amadou Haidara,80,CM
-Amir Rrahmani,80,CB
-Andriy Lunin,80,GK
-André Silva,80,ST
-Anthony Gordon,80,LW
-Anthony Lopes,80,GK
-Aritz Elustondo,80,CB
-Arnau Martínez,80,RB
-Axel Witsel,80,CB
-Ben Chilwell,80,LB
-Benjamin Bourigeaud,80,RM
-Benjamin Henrichs,80,RB
-Boulaye Dia,80,ST
-Bradley Barcola,80,LW
-Cole Palmer,80,RM
-Cristiano Biraghi,80,LB
-David López,80,CB
-David Neres,80,LM
-David Raum,80,LB
-David Soria,80,GK
-Davide Calabria,80,RB
-De Marcos,80,RB
-Denis Bouanga,80,LW
-Eberechi Eze,80,CAM
-Enes Ünal,80,ST
-Ezri Konsa,80,CB
-Fabián Ruiz,80,CM
-Facundo Medina,80,CB
-Fernando Muslera,80,GK
-Fredrik Aursnes,80,RB
-Geoffrey Kondogbia,80,CM
-Gerónimo Rulli,80,GK
-Giovani Lo Celso,80,CAM
-Gonçalo Inácio,80,CB
-Hakim Ziyech,80,RM
-Hamari Traoré,80,RB
-Hans Vanaken,80,CAM
-Hany Mukhtar,80,CF
-Harry Maguire,80,CB
-Harvey Barnes,80,LW
-Heberto Gaúcho,80,CB
-Hirving Lozano,80,RW
-Héniton Pires,80,GK
-Ibañez,80,CB
-Ibrahim Sangaré,80,CDM
-Ivan Toney,80,ST
-Iván Martín,80,CM
-Javi Galán,80,LB
-Jean-Clair Todibo,80,CB
-Jesús Navas,80,RB
-Joe Gomez,80,CB
-Joel Matip,80,CB
-Joey Veerman,80,CM
-Jonas Omlin,80,GK
-Jonathan Clauss,80,RB
-Jonathan David,80,ST
-Jonathan Viera,80,CAM
-Jordan Veretout,80,CM
-Juan Foyth,80,RB
-Julian Weigl,80,CDM
-Karim Adeyemi,80,LM
-Kepa,80,GK
-Kevin Danso,80,CB
-Kieran Tierney,80,LB
-Lars Unnerstall,80,GK
-Laure Santeiro,80,CAM
-Leonardo Spinazzola,80,LWB
-Lorenzo Insigne,80,LW
-Lucas Ocampos,80,LW
-Luuk de Jong,80,ST
-Maikel Catarino,80,RB
-Marc Cucurella,80,LB
-Marcus Edwards,80,RW
-Mario Pašalić,80,CAM
-Mark Flekken,80,GK
-Marko Arnautović,80,ST
-Marten de Roon,80,CDM
-Martin Terrier,80,LM
-Matteo Politano,80,RW
-Maximilian Arnold,80,CDM
-Michael Olise,80,RM
-Micky van de Ven,80,CB
-Mohamed Simakan,80,CB
-Moisés Caicedo,80,CDM
-Morten Hjulmand,80,CDM
-Nemanja Gudelj,80,CB
-Nemanja Matić,80,CDM
-Nuno Santos,80,LW
-Oleksandr Zinchenko,80,LB
-Oriol Romeu,80,CDM
-Pascal Groß,80,CM
-Pepelu,80,CDM
-Pepê,80,CAM
-Raúl Albiol,80,CB
-Roberto Firmino,80,CF
-Rui Patrício,80,GK
-Ruiz de Galarreta,80,CM
-Sacha Boey,80,RB
-Samuel Chukwueze,80,RW
-Saúl,80,CM
-Sebastian Szymański,80,CAM
-Sergi Roberto,80,RB
-Simon Banza,80,ST
-Suso,80,RW
-Sávio,80,LM
-Tammy Abraham,80,ST
-Thiago Almada,80,CAM
-Tijjani Reijnders,80,CM
-Timo Werner,80,LW
-Tony Abranjes,80,CB
-Téji Savanier,80,CAM
-Valentin Rongier,80,CDM
-Vangelis Pavlidis,80,ST
-Vedat Muriqi,80,ST
-Vivian,80,CB
-Warren Zaïre-Emery,80,CM
-Wataru Endo,80,CDM
-Yangel Herrera,80,CM
-Youssouf Fofana,80,CDM
-Yuri Berchiche,80,LB
-Yves Bissouma,80,CDM
-Zubeldia,80,CB
-Álex Berenguer,80,LM
-Álex Moreno,80,LB
-Adam Marušić,79,LB
-Adnan Vidual,79,RB
-Albert Guðmundsson,79,ST
-Alex Telles,79,LB
-Alexander Bah,79,RB
-Alexander Nübel,79,GK
-Alexander Sørloth,79,ST
-Ander Herrera,79,CM
-Antony,79,RM
-António Silva,79,CB
-Armand Laurienté,79,LW
-Arthur Cabral,79,ST
-Axel Disasi,79,CB
-Ayoze Pérez,79,LM
-Azpilicueta,79,CB
-Benjamin André,79,CDM
-Bryan Mbeumo,79,RW
-Callum McGregor,79,CDM
-Carles Gil,79,CAM
-Carlos Augusto,79,LM
-Castello Lukeba,79,CB
-Catena,79,CB
-Chancel Mbemba,79,CB
-Cheick Doucouré,79,CDM
-Christian Eriksen,79,CM
-Christian Günter,79,LB
-Christoph Baumgartner,79,CAM
-Claudio Bravo,79,GK
-Conor Gallagher,79,CM
-Curtis Jones,79,CM
-Daley Blind,79,CB
-Dani Ceballos,79,CM
-Daniel Muñoz,79,RWB
-Dante,79,CB
-David Ospina,79,GK
-Davide Zappacosta,79,RWB
-Dean Henderson,79,GK
-Denis Zakaria,79,CDM
-Deniz Undav,79,ST
-Deulofeu,79,CF
-Diego Essler,79,LB
-Dodi Lukébakio,79,RW
-Dries Mertens,79,CAM
-Edin Višća,79,RM
-Eljif Elmas,79,CAM
-Emanuel Reynoso,79,CAM
-Emelvinson,79,GK
-Emil Audero,79,GK
-Emil Forsberg,79,CAM
-Emiliano Buendía,79,RM
-Erik Lamela,79,RW
-Ethan Pinnock,79,CB
-Evanilson,79,ST
-Ezequiel Ávila,79,ST
-Florentino,79,CDM
-Francis Coquelin,79,CM
-Frederik Rønnow,79,GK
-Gabri Prestão,79,GK
-Georginio Wijnaldum,79,CM
-Gernot Trauner,79,CB
-Giacomo Bonaventura,79,CAM
-Gianluca Scamacca,79,ST
-Gonçalo Ramos,79,ST
-Guruzeta,79,ST
-Henry Martín,79,ST
-Hidemasa Morita,79,CM
-Hugo Lloris,79,GK
-James Tarkowski,79,CB
-James Tavernier,79,RB
-James Ward-Prowse,79,CM
-Jan Vertonghen,79,CB
-Jerdy Schouten,79,CDM
-Joachim Andersen,79,CB
-Jordy Clasie,79,CDM
-Jorge Andrão,79,CDM
-Joshua Zirkzee,79,ST
-José Sá,79,GK
-Juan Cuadrado,79,RM
-Juan Musso,79,GK
-Jurriën Timber,79,CB
-Jérémy Doku,79,LW
-Kaku,79,CAM
-Kurt Zouma,79,CB
-Lee Kang In,79,CAM
-Leonardo Bonucci,79,CB
-Lucas Chevalier,79,GK
-Lucas Digne,79,LB
-Lucas Robertone,79,CM
-Lucas Zelarayán,79,CAM
-Luciano Acosta,79,CAM
-Luis Chávez,79,CM
-Luis Muriel,79,ST
-Luiz Felipe,79,CB
-Lukas Klostermann,79,CB
-Lutsharel Geertruida,79,RB
-Manuel Lazzari,79,RB
-Mario Lemina,79,CDM
-Mason Mount,79,CM
-Matheus,79,GK
-Matheus Cunha,79,ST
-Matheus Nunes,79,CM
-Mattia Perin,79,GK
-Matty Cash,79,RB
-Mattéo Guendouzi,79,CM
-Matz Sels,79,GK
-Mauro Arambarri,79,CDM
-Medrán,79,CM
-Melvin Parrela,79,CDM
-Michele Di Gregorio,79,GK
-Miguel Almirón,79,RW
-Miguel Gutiérrez,79,LB
-Moi Gómez,79,CM
-Muniain,79,CAM
-Nayef Aguerd,79,CB
-Nikola Milenković,79,CB
-Nikola Vlašić,79,CF
-Noa Lang,79,LW
-Nordi Mukiele,79,RB
-Nélson Semedo,79,RWB
-Odysseas Vlachodimos,79,GK
-Pablo Maffeo,79,RWB
-Pau López,79,GK
-Pedro Neto,79,RW
-Perr Schuurs,79,CB
-Philipp Lienhart,79,CB
-Piero Hincapié,79,CB
-Pietro Terracciano,79,GK
-Rade Krunić,79,CM
-Rafael Tolói,79,CB
-Remo Freuler,79,CDM
-Renato Tapia,79,CDM
-Ricardo Pereira,79,RB
-Riccardo Orsolini,79,RM
-Robert Sánchez,79,GK
-Robin Gosens,79,LWB
-Robin Koch,79,CB
-Ryan Gravenberch,79,CM
-Salem Al Dawsari,79,LM
-Samuel Lino,79,LM
-Santiago Giménez,79,ST
-Sardar Azmoun,79,ST
-Sead Kolašinac,79,CB
-Simon Mignolet,79,GK
-Sofyan Amrabat,79,CDM
-Solly March,79,RM
-Stefan Ortega,79,GK
-Stephan El Shaarawy,79,LM
-Steve Mandanda,79,GK
-Stole Dimitrievski,79,GK
-Takumi Minamino,79,CAM
-Teddy Teuma,79,CM
-Tomáš Souček,79,CDM
-Tyrone Mings,79,CB
-Valentin Castellanos,79,ST
-Victor Lindelöf,79,CB
-Vincent Aboubakar,79,ST
-Waldemar Anton,79,CB
-Walter Benítez,79,GK
-Wilfred Ndidi,79,CDM
-Wladimiro Falcone,79,GK
-Yeremy Pino,79,LM
-Álvaro García,79,LM
-Éderson,79,CM
-Éver Banega,79,CM
-Óliver Torres,79,CM
-Łukasz Fabiański,79,GK
-Adam Webster,78,CB
-Adán,78,GK
-Albertinho Dutra,78,LW
-Alex Oxlade-Chamberlain,78,CM
-Alexey Miranchuk,78,CF
-Alexis Saelemaekers,78,RM
-Alfonso Espino,78,LB
-Amine Gouiri,78,LW
-Anatoliy Trubin,78,GK
-Andrea Belotti,78,ST
-Andrea Colpani,78,CF
-Andrea Consigli,78,GK
-Andreas Skov Olsen,78,RM
-Angeliño,78,LB
-Angelo Stiller,78,CM
-Antonee Robinson,78,LB
-Antonio Candreva,78,CF
-Antonio Sanabria,78,ST
-Antonín Barák,78,CM
-Arthur,78,CM
-Arturo Inálcio,78,CM
-Augusto Batalla,78,GK
-Ben Mee,78,CB
-Benjamin Šeško,78,ST
-Berat Djimsiti,78,CB
-Beto,78,ST
-Borja Mayoral,78,ST
-Branco van den Boomen,78,CM
-Brian Brobbey,78,ST
-Caio Henrique,78,LB
-Campaña,78,CM
-Carlos Soler,78,CM
-Charles De Ketelaere,78,CAM
-Cristhian Stuani,78,ST
-Cucho Hernández,78,ST
-Dan Burn,78,CB
-Dani Rodríguez,78,LM
-Danilho Doekhi,78,CB
-Davinson Sánchez,78,CB
-De Frutos,78,RM
-Diego Llorente,78,CB
-Diego Rico,78,LB
-Djibril Sow,78,CM
-Dominic Solanke,78,ST
-Dénes Dibusz,78,GK
-Edon Zhegrova,78,RM
-Emerson,78,LB
-Emile Smith Rowe,78,LW
-Eric Dier,78,CB
-Eric García,78,CB
-Erick Sánchez,78,CM
-Ermedin Demirović,78,CF
-Evan Ndicka,78,CB
-Federico Gatti,78,CB
-Felix Nmecha,78,CM
-Ferdi Kadıoğlu,78,LB
-Folarin Balogun,78,ST
-Fran Beltrán,78,CDM
-Fran García,78,LB
-Franck Honorat,78,RM
-Fredditinho,78,ST
-Gabri Veiga,78,CM
-Gaetano Castrovilli,78,CM
-Galeno,78,LM
-Gaëtan Laborde,78,RW
-Gerson Armão,78,LB
-Giacomo Raspadori,78,CF
-Giovanni Reyna,78,RM
-Guaita,78,GK
-Guillermo Ochoa,78,GK
-Guilson Paiva,78,RM
-Gustavo Cuéllar,78,CDM
-Hediselton,78,RB
-Hiroki Ito,78,CB
-Hwang Hee Chan,78,LW
-Héctor Herrera,78,CM
-Ismaily,78,LB
-Jacob Ramsey,78,LM
-Janis Blaswich,78,GK
-Jarrad Branthwaite,78,CB
-Jason Bardeira,78,ST
-Jean Butez,78,GK
-Jefferson Lerma,78,CDM
-Joan Jordán,78,CM
-Joe Willock,78,CM
-Johan Bakayoko,78,RW
-Jonas Wind,78,ST
-Jonathan Gradit,78,CB
-Jonatão Praz,78,LW
-Joseph Aidoo,78,CB
-Josip Šutalo,78,CB
-Joël Veltman,78,RB
-Juanmi,78,LM
-Julian Quiñones,78,CF
-Julian Ryerson,78,RB
-Junya Ito,78,RW
-Justin Bijlow,78,GK
-Kerem Demirbay,78,CM
-Kevin Kampl,78,CM
-Khéphren Thuram,78,CM
-Kiernan Dewsbury-Hall,78,CM
-Kodjo Fo-Doh Laba,78,ST
-Konstantinos Mavropanos,78,CB
-Leandro Paredes,78,CM
-Leonardo Balerdi,78,CB
-Levi García,78,ST
-Lewis Ferguson,78,CAM
-Lovro Majer,78,CM
-Luis Sinisterra,78,LM
-Luka Jović,78,ST
-Lukáš Haraslín,78,LW
-M'Bala Nzola,78,ST
-Malo Gusto,78,RB
-Manuel Riemann,78,GK
-Marc Bartra,78,CB
-Marc Guéhi,78,CB
-Marcelo Grohe,78,GK
-Marcin Bułka,78,GK
-Marco Bizot,78,GK
-Marco Silvestri,78,GK
-Marcos Alonso,78,LB
-Marcão,78,CB
-Marko Dmitrović,78,GK
-Marvin Schwäbe,78,GK
-Mason Greenwood,78,RM
-Matheus Reis,78,CB
-Mathew Ryan,78,GK
-Mats Wieffer,78,CDM
-Matt O'Riley,78,CM
-Matteo Pessina,78,CM
-Maxime Lopez,78,CM
-Maximilian Mittelstädt,78,LB
-Mergim Berisha,78,ST
-Michael Gregoritsch,78,ST
-Michail Antonio,78,ST
-Miranda,78,LB
-Moise Kean,78,ST
-Moncayola,78,CM
-Morales,78,ST
-Morgan Gibbs-White,78,CAM
-Mykola Shaparenko,78,CM
-Nabil Bentaleb,78,CDM
-Nemanja Maksimović,78,CM
-Neto,78,GK
-Nicolas Jackson,78,ST
-Nicolas Pépé,78,RM
-Nicolás Tagliafico,78,LB
-Nicolò Casale,78,CB
-Nicolò Zaniolo,78,RM
-Olivier Boscagli,78,CB
-Omar Marmoush,78,ST
-Ousmane Diomande,78,CB
-Pape Matar Sarr,78,CM
-Patrick Ciurria,78,RM
-Paulinho,78,ST
-Pedraza,78,LB
-Pedro,78,RW
-Pedrão Tofico,78,CB
-Pierre Kalulu,78,CB
-Pierre Lees-Melou,78,CDM
-Predrag Rajković,78,GK
-Przemysław Frankowski,78,RWB
-Ramy Bensebaini,78,LB
-Rasmus Højlund,78,ST
-Rayan Aït-Nouri,78,LWB
-Renan Lodi,78,LB
-Renato Sanches,78,CM
-Riquelme,78,LM
-Roberto Pereyra,78,CM
-Rodrigo Becão,78,CB
-Romain Del Castillo,78,RW
-Romain Saïss,78,CB
-Roman Bürki,78,GK
-Rubén García,78,RM
-Sam Johnstone,78,GK
-Saïd Benrahma,78,LW
-Scott McTominay,78,CDM
-Sebastián Driussi,78,CAM
-Sergio Herrera,78,GK
-Sergio Romero,78,GK
-Sergiño Dest,78,LB
-Stefan Posch,78,RB
-Stefano Sensi,78,CM
-Steven Bergwijn,78,LW
-Takehiro Tomiyasu,78,RB
-Trincão,78,RW
-Victor Nelsson,78,CB
-Vladimír Coufal,78,RB
-Wellington Sabrão,78,RB
-Wesley Fofana,78,CB
-Weston McKennie,78,CM
-Wilfried Singo,78,CB
-Willian Pacho,78,CB
-Yan Couto,78,RB
-Yvon Mvogo,78,GK
-Zervandro,78,CB
-İrfan Can Kahveci,78,RW
-Abderrazak Hamdallah,77,ST
-Adnan Januzaj,77,RW
-Adrien Truffert,77,LB
-Aitor,77,GK
-Aitor Paredes,77,CB
-Akram Afif,77,LM
-Alan Varela,77,CDM
-Alassane Plea,77,CAM
-Alban Lafont,77,GK
-Alejandro Garnacho,77,LM
-Alex Iwobi,77,RM
-Alex Sandro,77,CB
-Alexander Djiku,77,CB
-Amadou Onana,77,CDM
-Amine Adli,77,ST
-Anastasios Bakasetas,77,CAM
-Andeson Trigo,77,LB
-Andre Blake,77,GK
-Andrea Cambiaso,77,LWB
-Andreas Pereira,77,CAM
-Andrija Živković,77,RW
-Ansu Fati,77,LM
-Ante Budimir,77,ST
-Anthony Martial,77,ST
-Anthony Nwakaeme,77,ST
-Anton Stach,77,CM
-Arda Güler,77,CAM
-Arnaut Danjuma,77,ST
-Arthur Theate,77,CB
-Arturo Vidal,77,CM
-Aschraf El Mahdioui,77,CDM
-Baptiste Santamaria,77,CDM
-Ben Davies,77,CB
-Benjamin Lecomte,77,GK
-Benoît Badiashile,77,CB
-Borna Sosa,77,LB
-Bradley Locko,77,LB
-Breel Embolo,77,ST
-Brennan Johnson,77,RW
-Bruma,77,LM
-Bruno Petković,77,ST
-Bryan Gil,77,LW
-Bryan Heynen,77,CM
-Calvin Stengs,77,CAM
-Cameron Carter-Vickers,77,CB
-Cameron Puertas,77,CM
-Cengiz Ünder,77,RW
-Chris Führich,77,LM
-Christian Kouamé,77,ST
-Claudio Coíntra,77,CAM
-Craig Dawson,77,CB
-César Montes,77,CB
-Dakonam Djené,77,CB
-Dan-Axel Zagadou,77,CB
-Danilo Cataldi,77,CDM
-Darwin Machís,77,LM
-Demarai Gray,77,LM
-Dodô,77,RB
-Dominic Calvert-Lewin,77,ST
-Dwight McNeil,77,LM
-Edinson Cavani,77,ST
-Elye Wahi,77,ST
-Emerson Royal,77,RB
-Enzo Chissano,77,LB
-Enzo Le Fée,77,CM
-Eric Maxim Choupo-Moting,77,ST
-Esequiel Barco,77,CAM
-Fabiano Parisi,77,LB
-Fayçal Fajr,77,CM
-Federico Bernardeschi,77,RW
-Florian Lejeune,77,CB
-Florian Neuhaus,77,CM
-Florian Sotoca,77,CF
-Francisco Conceição,77,RM
-Franco Armani,77,GK
-Fábio Vieira,77,CAM
-Gabriel Paulista,77,CB
-Gedson Fernandes,77,CM
-Germán Pezzella,77,CB
-Ghislain Konan,77,LB
-Giorgio Scalvini,77,CB
-Giovanni Simeone,77,ST
-Gonzalo Escalante,77,CM
-Gonzalo Montiel,77,RB
-Gonçalo Guedes,77,ST
-Grischa Prömel,77,CM
-Guillermo Maripán,77,CB
-Hans Hateboer,77,RWB
-Harvey Elliott,77,CAM
-Hugo Duro,77,ST
-Héctor Bellerín,77,RB
-Ian Maatsen,77,LB
-Ignacio Fernández,77,CAM
-Igor Paixão,77,LW
-Illarramendi,77,CM
-Isak Hien,77,CB
-Issa Diop,77,CB
-Ivan Ilić,77,CM
-Ivan Perišić,77,LW
-Iván Balliu,77,RB
-Jadsinho Mei,77,CDM
-James Milner,77,CM
-Jamie Vardy,77,ST
-Jan-Niklas Beste,77,LM
-Jasper Cillessen,77,GK
-Jaume Costa,77,LWB
-Jeremiah St. Juste,77,CB
-Joakim Mæhle,77,LB
-Johan Mojica,77,LB
-Jonathan Bamba,77,LM
-Jonathan Ikoné,77,RW
-Jonathan Rodríguez,77,ST
-Jordan Teze,77,RB
-Josip Juranović,77,RWB
-Josip Stanišić,77,RWB
-João Gomes,77,CDM
-João Neves,77,CM
-Juan Bernat,77,LB
-Juan Fernando Quintero,77,CAM
-Junior Messias,77,RM
-Justin Kluivert,77,RM
-Jérémie Boga,77,LW
-Kalvin Phillips,77,CDM
-Kenny Tete,77,RB
-Kirian,77,CM
-Kiril Despodov,77,RM
-Konstantinos Tsimikas,77,LB
-Kyogo Furuhashi,77,ST
-Ladislav Krejčí,77,CB
-Leander Baia,77,RB
-Lekue,77,RB
-Leny Yoro,77,CB
-Lorenzo Montipò,77,GK
-Loïc Badé,77,CB
-Lucas Martínez Quarta,77,CB
-Lucas Perri,77,GK
-Lucas Torró,77,CDM
-
-
-
-
+name,rating,position,imageUrl,futbinUrl
+Erling Haaland,91,ST,https://ui-avatars.com/api/?name=Erling+Haaland&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Erling+Haaland
+Kevin De Bruyne,91,CM,https://ui-avatars.com/api/?name=Kevin+De+Bruyne&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kevin+De+Bruyne
+Kylian Mbappé,91,ST,https://ui-avatars.com/api/?name=Kylian+Mbapp%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kylian+Mbapp%C3%A9
+Harry Kane,90,ST,https://ui-avatars.com/api/?name=Harry+Kane&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Harry+Kane
+Lionel Messi,90,CF,https://ui-avatars.com/api/?name=Lionel+Messi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lionel+Messi
+Robert Lewandowski,90,ST,https://ui-avatars.com/api/?name=Robert+Lewandowski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robert+Lewandowski
+Rodri,90,CDM,https://ui-avatars.com/api/?name=Rodri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rodri
+Thibaut Courtois,90,GK,https://ui-avatars.com/api/?name=Thibaut+Courtois&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thibaut+Courtois
+Alisson,89,GK,https://ui-avatars.com/api/?name=Alisson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alisson
+Marc-André ter Stegen,89,GK,https://ui-avatars.com/api/?name=Marc-Andr%C3%A9+ter+Stegen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marc-Andr%C3%A9+ter+Stegen
+Mohamed Salah,89,RW,https://ui-avatars.com/api/?name=Mohamed+Salah&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mohamed+Salah
+Rúben Dias,89,CB,https://ui-avatars.com/api/?name=R%C3%BAben+Dias&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=R%C3%BAben+Dias
+Vini Jr.,89,LW,https://ui-avatars.com/api/?name=Vini+Jr.&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vini+Jr.
+Virgil van Dijk,89,CB,https://ui-avatars.com/api/?name=Virgil+van+Dijk&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Virgil+van+Dijk
+Antoine Griezmann,88,ST,https://ui-avatars.com/api/?name=Antoine+Griezmann&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antoine+Griezmann
+Bernardo Silva,88,CM,https://ui-avatars.com/api/?name=Bernardo+Silva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bernardo+Silva
+Ederson,88,GK,https://ui-avatars.com/api/?name=Ederson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ederson
+Federico Valverde,88,CM,https://ui-avatars.com/api/?name=Federico+Valverde&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Federico+Valverde
+Jan Oblak,88,GK,https://ui-avatars.com/api/?name=Jan+Oblak&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jan+Oblak
+Jude Bellingham,88,CAM,https://ui-avatars.com/api/?name=Jude+Bellingham&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jude+Bellingham
+Karim Benzema,88,ST,https://ui-avatars.com/api/?name=Karim+Benzema&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Karim+Benzema
+Lautaro Martínez,88,ST,https://ui-avatars.com/api/?name=Lautaro+Mart%C3%ADnez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lautaro+Mart%C3%ADnez
+Martin Ødegaard,88,CM,https://ui-avatars.com/api/?name=Martin+%C3%98degaard&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Martin+%C3%98degaard
+Neymar Jr,88,LW,https://ui-avatars.com/api/?name=Neymar+Jr&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Neymar+Jr
+Bruno Fernandes,87,CAM,https://ui-avatars.com/api/?name=Bruno+Fernandes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bruno+Fernandes
+Declan Rice,87,CDM,https://ui-avatars.com/api/?name=Declan+Rice&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Declan+Rice
+Florian Wirtz,87,CAM,https://ui-avatars.com/api/?name=Florian+Wirtz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Florian+Wirtz
+Frenkie de Jong,87,CM,https://ui-avatars.com/api/?name=Frenkie+de+Jong&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Frenkie+de+Jong
+Gianluigi Donnarumma,87,GK,https://ui-avatars.com/api/?name=Gianluigi+Donnarumma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gianluigi+Donnarumma
+Gregor Kobel,87,GK,https://ui-avatars.com/api/?name=Gregor+Kobel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gregor+Kobel
+Heung Min Son,87,LW,https://ui-avatars.com/api/?name=Heung+Min+Son&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Heung+Min+Son
+Joshua Kimmich,87,CDM,https://ui-avatars.com/api/?name=Joshua+Kimmich&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joshua+Kimmich
+Manuel Neuer,87,GK,https://ui-avatars.com/api/?name=Manuel+Neuer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Neuer
+Marquinhos,87,CB,https://ui-avatars.com/api/?name=Marquinhos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marquinhos
+Mike Maignan,87,GK,https://ui-avatars.com/api/?name=Mike+Maignan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mike+Maignan
+Phil Foden,87,RW,https://ui-avatars.com/api/?name=Phil+Foden&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Phil+Foden
+Toni Kroos,87,CM,https://ui-avatars.com/api/?name=Toni+Kroos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Toni+Kroos
+Victor Osimhen,87,ST,https://ui-avatars.com/api/?name=Victor+Osimhen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Victor+Osimhen
+Andrew Robertson,86,LB,https://ui-avatars.com/api/?name=Andrew+Robertson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrew+Robertson
+Antonio Rüdiger,86,CB,https://ui-avatars.com/api/?name=Antonio+R%C3%BCdiger&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antonio+R%C3%BCdiger
+Bukayo Saka,86,RW,https://ui-avatars.com/api/?name=Bukayo+Saka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bukayo+Saka
+Cristiano Ronaldo,86,ST,https://ui-avatars.com/api/?name=Cristiano+Ronaldo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cristiano+Ronaldo
+Emiliano Martínez,86,GK,https://ui-avatars.com/api/?name=Emiliano+Mart%C3%ADnez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emiliano+Mart%C3%ADnez
+Grimaldo,86,LWB,https://ui-avatars.com/api/?name=Grimaldo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Grimaldo
+Hakan Çalhanoğlu,86,CM,https://ui-avatars.com/api/?name=Hakan+%C3%87alhano%C4%9Flu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hakan+%C3%87alhano%C4%9Flu
+Jamal Musiala,86,CAM,https://ui-avatars.com/api/?name=Jamal+Musiala&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jamal+Musiala
+João Cancelo,86,RB,https://ui-avatars.com/api/?name=Jo%C3%A3o+Cancelo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%A3o+Cancelo
+Khvicha Kvaratskhelia,86,LW,https://ui-avatars.com/api/?name=Khvicha+Kvaratskhelia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Khvicha+Kvaratskhelia
+Leroy Sané,86,RM,https://ui-avatars.com/api/?name=Leroy+San%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leroy+San%C3%A9
+Luka Modrić,86,CM,https://ui-avatars.com/api/?name=Luka+Modri%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luka+Modri%C4%87
+Nicolò Barella,86,CM,https://ui-avatars.com/api/?name=Nicol%C3%B2+Barella&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%B2+Barella
+Ousmane Dembélé,86,RW,https://ui-avatars.com/api/?name=Ousmane+Demb%C3%A9l%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ousmane+Demb%C3%A9l%C3%A9
+Paulo Dybala,86,CF,https://ui-avatars.com/api/?name=Paulo+Dybala&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Paulo+Dybala
+Pedri,86,CM,https://ui-avatars.com/api/?name=Pedri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedri
+Rafael Leão,86,LW,https://ui-avatars.com/api/?name=Rafael+Le%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rafael+Le%C3%A3o
+Riyad Mahrez,86,RM,https://ui-avatars.com/api/?name=Riyad+Mahrez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Riyad+Mahrez
+Ronald Araujo,86,CB,https://ui-avatars.com/api/?name=Ronald+Araujo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ronald+Araujo
+Sergej Milinković-Savić,86,CM,https://ui-avatars.com/api/?name=Sergej+Milinkovi%C4%87-Savi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergej+Milinkovi%C4%87-Savi%C4%87
+Trent Alexander-Arnold,86,RB,https://ui-avatars.com/api/?name=Trent+Alexander-Arnold&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Trent+Alexander-Arnold
+Wojciech Szczęsny,86,GK,https://ui-avatars.com/api/?name=Wojciech+Szcz%C4%99sny&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wojciech+Szcz%C4%99sny
+Yann Sommer,86,GK,https://ui-avatars.com/api/?name=Yann+Sommer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yann+Sommer
+Éder Militão,86,CB,https://ui-avatars.com/api/?name=%C3%89der+Milit%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%89der+Milit%C3%A3o
+İlkay Gündoğan,86,CM,https://ui-avatars.com/api/?name=%C4%B0lkay+G%C3%BCndo%C4%9Fan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C4%B0lkay+G%C3%BCndo%C4%9Fan
+Alessandro Bastoni,85,CB,https://ui-avatars.com/api/?name=Alessandro+Bastoni&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alessandro+Bastoni
+Bremer,85,CB,https://ui-avatars.com/api/?name=Bremer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bremer
+Casemiro,85,CDM,https://ui-avatars.com/api/?name=Casemiro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Casemiro
+Christopher Nkunku,85,CF,https://ui-avatars.com/api/?name=Christopher+Nkunku&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christopher+Nkunku
+David Alaba,85,CB,https://ui-avatars.com/api/?name=David+Alaba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Alaba
+Diogo Jota,85,CF,https://ui-avatars.com/api/?name=Diogo+Jota&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diogo+Jota
+Domenico Berardi,85,RW,https://ui-avatars.com/api/?name=Domenico+Berardi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Domenico+Berardi
+Gabriel,85,CB,https://ui-avatars.com/api/?name=Gabriel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabriel
+Giovanni Di Lorenzo,85,RB,https://ui-avatars.com/api/?name=Giovanni+Di+Lorenzo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giovanni+Di+Lorenzo
+Jack Grealish,85,LW,https://ui-avatars.com/api/?name=Jack+Grealish&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jack+Grealish
+James Maddison,85,CAM,https://ui-avatars.com/api/?name=James+Maddison&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=James+Maddison
+John Stones,85,CB,https://ui-avatars.com/api/?name=John+Stones&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=John+Stones
+Jules Koundé,85,CB,https://ui-avatars.com/api/?name=Jules+Kound%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jules+Kound%C3%A9
+Kieran Trippier,85,RB,https://ui-avatars.com/api/?name=Kieran+Trippier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kieran+Trippier
+Kingsley Coman,85,LM,https://ui-avatars.com/api/?name=Kingsley+Coman&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kingsley+Coman
+Leon Goretzka,85,CM,https://ui-avatars.com/api/?name=Leon+Goretzka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leon+Goretzka
+N'Golo Kanté,85,CDM,https://ui-avatars.com/api/?name=N%27Golo+Kant%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=N%27Golo+Kant%C3%A9
+Rodrygo,85,RW,https://ui-avatars.com/api/?name=Rodrygo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rodrygo
+Sadio Mané,85,LM,https://ui-avatars.com/api/?name=Sadio+Man%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sadio+Man%C3%A9
+Theo Hernández,85,LB,https://ui-avatars.com/api/?name=Theo+Hern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Theo+Hern%C3%A1ndez
+Unai Simón,85,GK,https://ui-avatars.com/api/?name=Unai+Sim%C3%B3n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Unai+Sim%C3%B3n
+William Saliba,85,CB,https://ui-avatars.com/api/?name=William+Saliba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=William+Saliba
+Yassine Bounou,85,GK,https://ui-avatars.com/api/?name=Yassine+Bounou&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yassine+Bounou
+Achraf Hakimi,84,RB,https://ui-avatars.com/api/?name=Achraf+Hakimi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Achraf+Hakimi
+Adrien Rabiot,84,CM,https://ui-avatars.com/api/?name=Adrien+Rabiot&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adrien+Rabiot
+Alexis Mac Allister,84,CM,https://ui-avatars.com/api/?name=Alexis+Mac+Allister&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexis+Mac+Allister
+Aurélien Tchouaméni,84,CDM,https://ui-avatars.com/api/?name=Aur%C3%A9lien+Tchouam%C3%A9ni&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aur%C3%A9lien+Tchouam%C3%A9ni
+Bruno Guimarães,84,CM,https://ui-avatars.com/api/?name=Bruno+Guimar%C3%A3es&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bruno+Guimar%C3%A3es
+Carvajal,84,RB,https://ui-avatars.com/api/?name=Carvajal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Carvajal
+Chris Smalling,84,CB,https://ui-avatars.com/api/?name=Chris+Smalling&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Chris+Smalling
+Ciro Immobile,84,ST,https://ui-avatars.com/api/?name=Ciro+Immobile&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ciro+Immobile
+Dušan Vlahović,84,ST,https://ui-avatars.com/api/?name=Du%C5%A1an+Vlahovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Du%C5%A1an+Vlahovi%C4%87
+Federico Chiesa,84,LM,https://ui-avatars.com/api/?name=Federico+Chiesa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Federico+Chiesa
+Fikayo Tomori,84,CB,https://ui-avatars.com/api/?name=Fikayo+Tomori&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fikayo+Tomori
+Gabriel Martinelli,84,LW,https://ui-avatars.com/api/?name=Gabriel+Martinelli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabriel+Martinelli
+Granit Xhaka,84,CDM,https://ui-avatars.com/api/?name=Granit+Xhaka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Granit+Xhaka
+Guglielmo Vicario,84,GK,https://ui-avatars.com/api/?name=Guglielmo+Vicario&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guglielmo+Vicario
+Iago Aspas,84,ST,https://ui-avatars.com/api/?name=Iago+Aspas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Iago+Aspas
+Ismaël Bennacer,84,CDM,https://ui-avatars.com/api/?name=Isma%C3%ABl+Bennacer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Isma%C3%ABl+Bennacer
+Jeremie Frimpong,84,RWB,https://ui-avatars.com/api/?name=Jeremie+Frimpong&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jeremie+Frimpong
+Jonathan Tah,84,CB,https://ui-avatars.com/api/?name=Jonathan+Tah&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Tah
+Julian Brandt,84,CAM,https://ui-avatars.com/api/?name=Julian+Brandt&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Julian+Brandt
+Kalidou Koulibaly,84,CB,https://ui-avatars.com/api/?name=Kalidou+Koulibaly&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kalidou+Koulibaly
+Kim Min Jae,84,CB,https://ui-avatars.com/api/?name=Kim+Min+Jae&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kim+Min+Jae
+Koke,84,CDM,https://ui-avatars.com/api/?name=Koke&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Koke
+Kyle Walker,84,RB,https://ui-avatars.com/api/?name=Kyle+Walker&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kyle+Walker
+Lisandro Martínez,84,CB,https://ui-avatars.com/api/?name=Lisandro+Mart%C3%ADnez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lisandro+Mart%C3%ADnez
+Loïs Openda,84,ST,https://ui-avatars.com/api/?name=Lo%C3%AFs+Openda&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lo%C3%AFs+Openda
+Lucas Hernández,84,LB,https://ui-avatars.com/api/?name=Lucas+Hern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Hern%C3%A1ndez
+Luis Alberto,84,CM,https://ui-avatars.com/api/?name=Luis+Alberto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+Alberto
+Luis Díaz,84,LW,https://ui-avatars.com/api/?name=Luis+D%C3%ADaz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+D%C3%ADaz
+Luis Suárez,84,ST,https://ui-avatars.com/api/?name=Luis+Su%C3%A1rez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+Su%C3%A1rez
+Marcos Llorente,84,CM,https://ui-avatars.com/api/?name=Marcos+Llorente&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcos+Llorente
+Mats Hummels,84,CB,https://ui-avatars.com/api/?name=Mats+Hummels&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mats+Hummels
+Matthijs de Ligt,84,CB,https://ui-avatars.com/api/?name=Matthijs+de+Ligt&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matthijs+de+Ligt
+Mikel Merino,84,CM,https://ui-avatars.com/api/?name=Mikel+Merino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mikel+Merino
+Morata,84,ST,https://ui-avatars.com/api/?name=Morata&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Morata
+Nick Pope,84,GK,https://ui-avatars.com/api/?name=Nick+Pope&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nick+Pope
+Nico Schlotterbeck,84,CB,https://ui-avatars.com/api/?name=Nico+Schlotterbeck&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nico+Schlotterbeck
+Palhinha,84,CDM,https://ui-avatars.com/api/?name=Palhinha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Palhinha
+Parejo,84,CM,https://ui-avatars.com/api/?name=Parejo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Parejo
+Raphinha,84,RW,https://ui-avatars.com/api/?name=Raphinha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Raphinha
+Rodrigo De Paul,84,CM,https://ui-avatars.com/api/?name=Rodrigo+De+Paul&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rodrigo+De+Paul
+Romelu Lukaku,84,ST,https://ui-avatars.com/api/?name=Romelu+Lukaku&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Romelu+Lukaku
+Rúben Neves,84,CDM,https://ui-avatars.com/api/?name=R%C3%BAben+Neves&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=R%C3%BAben+Neves
+Thomas Partey,84,CDM,https://ui-avatars.com/api/?name=Thomas+Partey&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thomas+Partey
+Yannick Carrasco,84,LW,https://ui-avatars.com/api/?name=Yannick+Carrasco&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yannick+Carrasco
+Álex Remiro,84,GK,https://ui-avatars.com/api/?name=%C3%81lex+Remiro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81lex+Remiro
+Ángel Di María,84,RM,https://ui-avatars.com/api/?name=%C3%81ngel+Di+Mar%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81ngel+Di+Mar%C3%ADa
+Aleix García,83,CM,https://ui-avatars.com/api/?name=Aleix+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aleix+Garc%C3%ADa
+Alessio Romagnoli,83,CB,https://ui-avatars.com/api/?name=Alessio+Romagnoli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alessio+Romagnoli
+Alexander Isak,83,ST,https://ui-avatars.com/api/?name=Alexander+Isak&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexander+Isak
+Andreas Christensen,83,CB,https://ui-avatars.com/api/?name=Andreas+Christensen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andreas+Christensen
+André Onana,83,GK,https://ui-avatars.com/api/?name=Andr%C3%A9+Onana&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andr%C3%A9+Onana
+Aymeric Laporte,83,CB,https://ui-avatars.com/api/?name=Aymeric+Laporte&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aymeric+Laporte
+Benjamin Pavard,83,CB,https://ui-avatars.com/api/?name=Benjamin+Pavard&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+Pavard
+Cristian Romero,83,CB,https://ui-avatars.com/api/?name=Cristian+Romero&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cristian+Romero
+Dani Olmo,83,CAM,https://ui-avatars.com/api/?name=Dani+Olmo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dani+Olmo
+Darwin Núñez,83,ST,https://ui-avatars.com/api/?name=Darwin+N%C3%BA%C3%B1ez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Darwin+N%C3%BA%C3%B1ez
+Dayot Upamecano,83,CB,https://ui-avatars.com/api/?name=Dayot+Upamecano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dayot+Upamecano
+Diogo Costa,83,GK,https://ui-avatars.com/api/?name=Diogo+Costa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diogo+Costa
+Donyell Malen,83,RM,https://ui-avatars.com/api/?name=Donyell+Malen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Donyell+Malen
+Edin Džeko,83,ST,https://ui-avatars.com/api/?name=Edin+D%C5%BEeko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edin+D%C5%BEeko
+Eduardo Camavinga,83,CM,https://ui-avatars.com/api/?name=Eduardo+Camavinga&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eduardo+Camavinga
+Fabinho,83,CDM,https://ui-avatars.com/api/?name=Fabinho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fabinho
+Federico Dimarco,83,LWB,https://ui-avatars.com/api/?name=Federico+Dimarco&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Federico+Dimarco
+Ferran Torres,83,LW,https://ui-avatars.com/api/?name=Ferran+Torres&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ferran+Torres
+Filip Kostić,83,LM,https://ui-avatars.com/api/?name=Filip+Kosti%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Filip+Kosti%C4%87
+Francesco Acerbi,83,CB,https://ui-avatars.com/api/?name=Francesco+Acerbi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Francesco+Acerbi
+Gavi,83,CM,https://ui-avatars.com/api/?name=Gavi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gavi
+Gerard Moreno,83,ST,https://ui-avatars.com/api/?name=Gerard+Moreno&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gerard+Moreno
+Gianluca Mancini,83,CB,https://ui-avatars.com/api/?name=Gianluca+Mancini&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gianluca+Mancini
+Guido Rodríguez,83,CDM,https://ui-avatars.com/api/?name=Guido+Rodr%C3%ADguez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guido+Rodr%C3%ADguez
+Ibrahima Konaté,83,CB,https://ui-avatars.com/api/?name=Ibrahima+Konat%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ibrahima+Konat%C3%A9
+Jonas Hofmann,83,CAM,https://ui-avatars.com/api/?name=Jonas+Hofmann&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonas+Hofmann
+Jorginho,83,CDM,https://ui-avatars.com/api/?name=Jorginho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jorginho
+José María Giménez,83,CB,https://ui-avatars.com/api/?name=Jos%C3%A9+Mar%C3%ADa+Gim%C3%A9nez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jos%C3%A9+Mar%C3%ADa+Gim%C3%A9nez
+Julián Álvarez,83,CF,https://ui-avatars.com/api/?name=Juli%C3%A1n+%C3%81lvarez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juli%C3%A1n+%C3%81lvarez
+Kevin Trapp,83,GK,https://ui-avatars.com/api/?name=Kevin+Trapp&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kevin+Trapp
+Koen Casteels,83,GK,https://ui-avatars.com/api/?name=Koen+Casteels&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Koen+Casteels
+Konrad Laimer,83,CDM,https://ui-avatars.com/api/?name=Konrad+Laimer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Konrad+Laimer
+Lorenzo Pellegrini,83,CAM,https://ui-avatars.com/api/?name=Lorenzo+Pellegrini&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lorenzo+Pellegrini
+Manuel Akanji,83,CB,https://ui-avatars.com/api/?name=Manuel+Akanji&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Akanji
+Marcelo Brozović,83,CDM,https://ui-avatars.com/api/?name=Marcelo+Brozovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcelo+Brozovi%C4%87
+Marcos Acuña,83,LB,https://ui-avatars.com/api/?name=Marcos+Acu%C3%B1a&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcos+Acu%C3%B1a
+Matthias Ginter,83,CB,https://ui-avatars.com/api/?name=Matthias+Ginter&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matthias+Ginter
+Memphis Depay,83,CF,https://ui-avatars.com/api/?name=Memphis+Depay&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Memphis+Depay
+Moussa Diaby,83,RW,https://ui-avatars.com/api/?name=Moussa+Diaby&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Moussa+Diaby
+Niklas Süle,83,CB,https://ui-avatars.com/api/?name=Niklas+S%C3%BCle&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Niklas+S%C3%BCle
+Olivier Giroud,83,ST,https://ui-avatars.com/api/?name=Olivier+Giroud&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Olivier+Giroud
+Ollie Watkins,83,ST,https://ui-avatars.com/api/?name=Ollie+Watkins&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ollie+Watkins
+Oyarzabal,83,LW,https://ui-avatars.com/api/?name=Oyarzabal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Oyarzabal
+Rafa,83,CF,https://ui-avatars.com/api/?name=Rafa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rafa
+Raphaël Varane,83,CB,https://ui-avatars.com/api/?name=Rapha%C3%ABl+Varane&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rapha%C3%ABl+Varane
+Reece James,83,RB,https://ui-avatars.com/api/?name=Reece+James&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Reece+James
+Ronaldo Cabrais,83,CAM,https://ui-avatars.com/api/?name=Ronaldo+Cabrais&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ronaldo+Cabrais
+Serge Gnabry,83,RM,https://ui-avatars.com/api/?name=Serge+Gnabry&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Serge+Gnabry
+Sergio Busquets,83,CDM,https://ui-avatars.com/api/?name=Sergio+Busquets&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergio+Busquets
+Sergio Ramos,83,CB,https://ui-avatars.com/api/?name=Sergio+Ramos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergio+Ramos
+Stanislav Lobotka,83,CM,https://ui-avatars.com/api/?name=Stanislav+Lobotka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stanislav+Lobotka
+Sven Botman,83,CB,https://ui-avatars.com/api/?name=Sven+Botman&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sven+Botman
+Viktor Tsygankov,83,RM,https://ui-avatars.com/api/?name=Viktor+Tsygankov&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Viktor+Tsygankov
+Vitinha,83,CM,https://ui-avatars.com/api/?name=Vitinha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vitinha
+Willi Orban,83,CB,https://ui-avatars.com/api/?name=Willi+Orban&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Willi+Orban
+Aaron Ramsdale,82,GK,https://ui-avatars.com/api/?name=Aaron+Ramsdale&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aaron+Ramsdale
+Alex Meret,82,GK,https://ui-avatars.com/api/?name=Alex+Meret&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alex+Meret
+Alphonso Davies,82,LB,https://ui-avatars.com/api/?name=Alphonso+Davies&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alphonso+Davies
+Anderson Talisca,82,RM,https://ui-avatars.com/api/?name=Anderson+Talisca&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anderson+Talisca
+Benjamin White,82,RB,https://ui-avatars.com/api/?name=Benjamin+White&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+White
+Bernd Leno,82,GK,https://ui-avatars.com/api/?name=Bernd+Leno&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bernd+Leno
+Boubacar Kamara,82,CDM,https://ui-avatars.com/api/?name=Boubacar+Kamara&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Boubacar+Kamara
+Brahim,82,CAM,https://ui-avatars.com/api/?name=Brahim&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Brahim
+Brice Samba,82,GK,https://ui-avatars.com/api/?name=Brice+Samba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Brice+Samba
+Callum Wilson,82,ST,https://ui-avatars.com/api/?name=Callum+Wilson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Callum+Wilson
+Christian Pulisic,82,RW,https://ui-avatars.com/api/?name=Christian+Pulisic&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christian+Pulisic
+Cody Gakpo,82,CF,https://ui-avatars.com/api/?name=Cody+Gakpo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cody+Gakpo
+David García,82,CB,https://ui-avatars.com/api/?name=David+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Garc%C3%ADa
+David Raya,82,GK,https://ui-avatars.com/api/?name=David+Raya&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Raya
+Dejan Kulusevski,82,RW,https://ui-avatars.com/api/?name=Dejan+Kulusevski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dejan+Kulusevski
+Dominik Livaković,82,GK,https://ui-avatars.com/api/?name=Dominik+Livakovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dominik+Livakovi%C4%87
+Douglas Luiz,82,CM,https://ui-avatars.com/api/?name=Douglas+Luiz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Douglas+Luiz
+Dušan Tadić,82,LW,https://ui-avatars.com/api/?name=Du%C5%A1an+Tadi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Du%C5%A1an+Tadi%C4%87
+Emre Can,82,CDM,https://ui-avatars.com/api/?name=Emre+Can&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emre+Can
+Enzo Fernández,82,CM,https://ui-avatars.com/api/?name=Enzo+Fern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Enzo+Fern%C3%A1ndez
+Exequiel Palacios,82,CM,https://ui-avatars.com/api/?name=Exequiel+Palacios&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Exequiel+Palacios
+Fabian Schär,82,CB,https://ui-avatars.com/api/?name=Fabian+Sch%C3%A4r&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fabian+Sch%C3%A4r
+Ferland Mendy,82,LB,https://ui-avatars.com/api/?name=Ferland+Mendy&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ferland+Mendy
+Franck Yannick Kessié,82,CDM,https://ui-avatars.com/api/?name=Franck+Yannick+Kessi%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Franck+Yannick+Kessi%C3%A9
+Fred,82,CM,https://ui-avatars.com/api/?name=Fred&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fred
+Gabriel Jesus,82,ST,https://ui-avatars.com/api/?name=Gabriel+Jesus&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabriel+Jesus
+Gayà,82,LB,https://ui-avatars.com/api/?name=Gay%C3%A0&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gay%C3%A0
+Giorgi Mamardashvili,82,GK,https://ui-avatars.com/api/?name=Giorgi+Mamardashvili&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giorgi+Mamardashvili
+Henrikh Mkhitaryan,82,CAM,https://ui-avatars.com/api/?name=Henrikh+Mkhitaryan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Henrikh+Mkhitaryan
+Isi Palazón,82,RM,https://ui-avatars.com/api/?name=Isi+Palaz%C3%B3n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Isi+Palaz%C3%B3n
+Ivan Provedel,82,GK,https://ui-avatars.com/api/?name=Ivan+Provedel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ivan+Provedel
+Iñaki Williams,82,RM,https://ui-avatars.com/api/?name=I%C3%B1aki+Williams&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=I%C3%B1aki+Williams
+Iñigo Martínez,82,CB,https://ui-avatars.com/api/?name=I%C3%B1igo+Mart%C3%ADnez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=I%C3%B1igo+Mart%C3%ADnez
+Jeremías Conan Ledesma,82,GK,https://ui-avatars.com/api/?name=Jerem%C3%ADas+Conan+Ledesma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jerem%C3%ADas+Conan+Ledesma
+Joelinton,82,CM,https://ui-avatars.com/api/?name=Joelinton&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joelinton
+Jordan Pickford,82,GK,https://ui-avatars.com/api/?name=Jordan+Pickford&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordan+Pickford
+Jordi Alba,82,LB,https://ui-avatars.com/api/?name=Jordi+Alba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordi+Alba
+Joselu,82,ST,https://ui-avatars.com/api/?name=Joselu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joselu
+Josué Chiamulera,82,CB,https://ui-avatars.com/api/?name=Josu%C3%A9+Chiamulera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Josu%C3%A9+Chiamulera
+Joško Gvardiol,82,LB,https://ui-avatars.com/api/?name=Jo%C5%A1ko+Gvardiol&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C5%A1ko+Gvardiol
+Kai Havertz,82,CAM,https://ui-avatars.com/api/?name=Kai+Havertz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kai+Havertz
+Keylor Navas,82,GK,https://ui-avatars.com/api/?name=Keylor+Navas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Keylor+Navas
+Leandro Trossard,82,CF,https://ui-avatars.com/api/?name=Leandro+Trossard&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leandro+Trossard
+Leon Bailey,82,RM,https://ui-avatars.com/api/?name=Leon+Bailey&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leon+Bailey
+Lucas Mantela,82,GK,https://ui-avatars.com/api/?name=Lucas+Mantela&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Mantela
+Lucas Paquetá,82,LM,https://ui-avatars.com/api/?name=Lucas+Paquet%C3%A1&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Paquet%C3%A1
+Lucas Torreira,82,CDM,https://ui-avatars.com/api/?name=Lucas+Torreira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Torreira
+Luke Shaw,82,LB,https://ui-avatars.com/api/?name=Luke+Shaw&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luke+Shaw
+Lukáš Hrádecký,82,GK,https://ui-avatars.com/api/?name=Luk%C3%A1%C5%A1+Hr%C3%A1deck%C3%BD&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luk%C3%A1%C5%A1+Hr%C3%A1deck%C3%BD
+Malcom,82,CAM,https://ui-avatars.com/api/?name=Malcom&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Malcom
+Manuel Locatelli,82,CDM,https://ui-avatars.com/api/?name=Manuel+Locatelli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Locatelli
+Marcel Sabitzer,82,CM,https://ui-avatars.com/api/?name=Marcel+Sabitzer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcel+Sabitzer
+Marco Asensio,82,RW,https://ui-avatars.com/api/?name=Marco+Asensio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marco+Asensio
+Marco Reus,82,CAM,https://ui-avatars.com/api/?name=Marco+Reus&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marco+Reus
+Marcus Rashford,82,LM,https://ui-avatars.com/api/?name=Marcus+Rashford&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcus+Rashford
+Mario Hermoso,82,CB,https://ui-avatars.com/api/?name=Mario+Hermoso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mario+Hermoso
+Mateo Kovačić,82,CM,https://ui-avatars.com/api/?name=Mateo+Kova%C4%8Di%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mateo+Kova%C4%8Di%C4%87
+Mattia Zaccagni,82,LW,https://ui-avatars.com/api/?name=Mattia+Zaccagni&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mattia+Zaccagni
+Milan Škriniar,82,CB,https://ui-avatars.com/api/?name=Milan+%C5%A0kriniar&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Milan+%C5%A0kriniar
+Nabil Fekir,82,CAM,https://ui-avatars.com/api/?name=Nabil+Fekir&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nabil+Fekir
+Nacho Fernández,82,CB,https://ui-avatars.com/api/?name=Nacho+Fern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nacho+Fern%C3%A1ndez
+Nahuel Molina,82,RWB,https://ui-avatars.com/api/?name=Nahuel+Molina&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nahuel+Molina
+Nathan Aké,82,CB,https://ui-avatars.com/api/?name=Nathan+Ak%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nathan+Ak%C3%A9
+Nico Williams,82,LM,https://ui-avatars.com/api/?name=Nico+Williams&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nico+Williams
+Nicolás Otamendi,82,CB,https://ui-avatars.com/api/?name=Nicol%C3%A1s+Otamendi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%A1s+Otamendi
+Nuno Mendes,82,LB,https://ui-avatars.com/api/?name=Nuno+Mendes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nuno+Mendes
+Orkun Kökçü,82,CM,https://ui-avatars.com/api/?name=Orkun+K%C3%B6k%C3%A7%C3%BC&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Orkun+K%C3%B6k%C3%A7%C3%BC
+Otávio,82,CAM,https://ui-avatars.com/api/?name=Ot%C3%A1vio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ot%C3%A1vio
+Patrik Schick,82,ST,https://ui-avatars.com/api/?name=Patrik+Schick&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Patrik+Schick
+Pau Torres,82,CB,https://ui-avatars.com/api/?name=Pau+Torres&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pau+Torres
+Pedro Gonçalves,82,LW,https://ui-avatars.com/api/?name=Pedro+Gon%C3%A7alves&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedro+Gon%C3%A7alves
+Pedro Porro,82,RB,https://ui-avatars.com/api/?name=Pedro+Porro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedro+Porro
+Piotr Zieliński,82,CM,https://ui-avatars.com/api/?name=Piotr+Zieli%C5%84ski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Piotr+Zieli%C5%84ski
+Péter Gulácsi,82,GK,https://ui-avatars.com/api/?name=P%C3%A9ter+Gul%C3%A1csi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=P%C3%A9ter+Gul%C3%A1csi
+Raheem Sterling,82,LM,https://ui-avatars.com/api/?name=Raheem+Sterling&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Raheem+Sterling
+Randal Kolo Muani,82,ST,https://ui-avatars.com/api/?name=Randal+Kolo+Muani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Randal+Kolo+Muani
+Raphaël Guerreiro,82,LB,https://ui-avatars.com/api/?name=Rapha%C3%ABl+Guerreiro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rapha%C3%ABl+Guerreiro
+Ricardo Horta,82,CAM,https://ui-avatars.com/api/?name=Ricardo+Horta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ricardo+Horta
+Robert Andrich,82,CDM,https://ui-avatars.com/api/?name=Robert+Andrich&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robert+Andrich
+Robin Le Normand,82,CB,https://ui-avatars.com/api/?name=Robin+Le+Normand&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robin+Le+Normand
+Rodrigo Bentancur,82,CM,https://ui-avatars.com/api/?name=Rodrigo+Bentancur&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rodrigo+Bentancur
+Sancet,82,CAM,https://ui-avatars.com/api/?name=Sancet&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sancet
+Sergi Darder,82,CM,https://ui-avatars.com/api/?name=Sergi+Darder&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergi+Darder
+Serhou Guirassy,82,ST,https://ui-avatars.com/api/?name=Serhou+Guirassy&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Serhou+Guirassy
+Stefan de Vrij,82,CB,https://ui-avatars.com/api/?name=Stefan+de+Vrij&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stefan+de+Vrij
+Teun Koopmeiners,82,CM,https://ui-avatars.com/api/?name=Teun+Koopmeiners&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Teun+Koopmeiners
+Thiago,82,CM,https://ui-avatars.com/api/?name=Thiago&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thiago
+Thomas Müller,82,CAM,https://ui-avatars.com/api/?name=Thomas+M%C3%BCller&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thomas+M%C3%BCller
+Viktor Gyökeres,82,ST,https://ui-avatars.com/api/?name=Viktor+Gy%C3%B6keres&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Viktor+Gy%C3%B6keres
+Wissam Ben Yedder,82,ST,https://ui-avatars.com/api/?name=Wissam+Ben+Yedder&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wissam+Ben+Yedder
+Xavi Simons,82,CAM,https://ui-avatars.com/api/?name=Xavi+Simons&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Xavi+Simons
+Youssef En-Nesyri,82,ST,https://ui-avatars.com/api/?name=Youssef+En-Nesyri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Youssef+En-Nesyri
+Ángel Correa,82,ST,https://ui-avatars.com/api/?name=%C3%81ngel+Correa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81ngel+Correa
+Ademola Lookman,81,ST,https://ui-avatars.com/api/?name=Ademola+Lookman&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ademola+Lookman
+Adriano Bisesi,81,ST,https://ui-avatars.com/api/?name=Adriano+Bisesi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adriano+Bisesi
+Adryan Zonta,81,LWB,https://ui-avatars.com/api/?name=Adryan+Zonta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adryan+Zonta
+Aleksandar Mitrović,81,ST,https://ui-avatars.com/api/?name=Aleksandar+Mitrovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aleksandar+Mitrovi%C4%87
+Alexandre Lacazette,81,ST,https://ui-avatars.com/api/?name=Alexandre+Lacazette&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexandre+Lacazette
+Allan Saint-Maximin,81,LM,https://ui-avatars.com/api/?name=Allan+Saint-Maximin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Allan+Saint-Maximin
+Andrej Kramarić,81,CF,https://ui-avatars.com/api/?name=Andrej+Kramari%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrej+Kramari%C4%87
+André-Franck Zambo Anguissa,81,CDM,https://ui-avatars.com/api/?name=Andr%C3%A9-Franck+Zambo+Anguissa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andr%C3%A9-Franck+Zambo+Anguissa
+Arkadiusz Milik,81,ST,https://ui-avatars.com/api/?name=Arkadiusz+Milik&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arkadiusz+Milik
+Artem Dovbyk,81,ST,https://ui-avatars.com/api/?name=Artem+Dovbyk&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Artem+Dovbyk
+Balde,81,LB,https://ui-avatars.com/api/?name=Balde&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Balde
+Borja Iglesias,81,ST,https://ui-avatars.com/api/?name=Borja+Iglesias&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Borja+Iglesias
+Brais Méndez,81,CM,https://ui-avatars.com/api/?name=Brais+M%C3%A9ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Brais+M%C3%A9ndez
+Bryan Cristante,81,CM,https://ui-avatars.com/api/?name=Bryan+Cristante&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bryan+Cristante
+Daichi Kamada,81,CAM,https://ui-avatars.com/api/?name=Daichi+Kamada&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Daichi+Kamada
+Danilo,81,CB,https://ui-avatars.com/api/?name=Danilo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Danilo
+Danilo Pereira,81,CB,https://ui-avatars.com/api/?name=Danilo+Pereira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Danilo+Pereira
+Davide Frattesi,81,CM,https://ui-avatars.com/api/?name=Davide+Frattesi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Davide+Frattesi
+Denzel Dumfries,81,RWB,https://ui-avatars.com/api/?name=Denzel+Dumfries&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Denzel+Dumfries
+Destiny Udogie,81,LB,https://ui-avatars.com/api/?name=Destiny+Udogie&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Destiny+Udogie
+Diego Carlos,81,CB,https://ui-avatars.com/api/?name=Diego+Carlos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diego+Carlos
+Diogo Dalot,81,RB,https://ui-avatars.com/api/?name=Diogo+Dalot&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diogo+Dalot
+Dominik Szoboszlai,81,CAM,https://ui-avatars.com/api/?name=Dominik+Szoboszlai&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dominik+Szoboszlai
+Duván Zapata,81,ST,https://ui-avatars.com/api/?name=Duv%C3%A1n+Zapata&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Duv%C3%A1n+Zapata
+Dávid Hancko,81,CB,https://ui-avatars.com/api/?name=D%C3%A1vid+Hancko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=D%C3%A1vid+Hancko
+Edmond Tapsoba,81,CB,https://ui-avatars.com/api/?name=Edmond+Tapsoba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edmond+Tapsoba
+Edson Álvarez,81,CDM,https://ui-avatars.com/api/?name=Edson+%C3%81lvarez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edson+%C3%81lvarez
+Ellyes Skhiri,81,CDM,https://ui-avatars.com/api/?name=Ellyes+Skhiri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ellyes+Skhiri
+Etienne Capoue,81,CM,https://ui-avatars.com/api/?name=Etienne+Capoue&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Etienne+Capoue
+Felipe Anderson,81,RW,https://ui-avatars.com/api/?name=Felipe+Anderson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Felipe+Anderson
+Isco,81,CAM,https://ui-avatars.com/api/?name=Isco&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Isco
+Ivan Rakitić,81,CM,https://ui-avatars.com/api/?name=Ivan+Rakiti%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ivan+Rakiti%C4%87
+Jadon Sancho,81,LM,https://ui-avatars.com/api/?name=Jadon+Sancho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jadon+Sancho
+Jarrod Bowen,81,RM,https://ui-avatars.com/api/?name=Jarrod+Bowen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jarrod+Bowen
+John McGinn,81,CM,https://ui-avatars.com/api/?name=John+McGinn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=John+McGinn
+Jordan Henderson,81,CDM,https://ui-avatars.com/api/?name=Jordan+Henderson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordan+Henderson
+João Félix,81,CF,https://ui-avatars.com/api/?name=Jo%C3%A3o+F%C3%A9lix&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%A3o+F%C3%A9lix
+João Mário,81,LM,https://ui-avatars.com/api/?name=Jo%C3%A3o+M%C3%A1rio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%A3o+M%C3%A1rio
+Kaoru Mitoma,81,LM,https://ui-avatars.com/api/?name=Kaoru+Mitoma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kaoru+Mitoma
+Kasper Schmeichel,81,GK,https://ui-avatars.com/api/?name=Kasper+Schmeichel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kasper+Schmeichel
+Lewis Dunk,81,CB,https://ui-avatars.com/api/?name=Lewis+Dunk&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lewis+Dunk
+Lucas Vázquez,81,RB,https://ui-avatars.com/api/?name=Lucas+V%C3%A1zquez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+V%C3%A1zquez
+Manuel Ugarte,81,CDM,https://ui-avatars.com/api/?name=Manuel+Ugarte&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Ugarte
+Marco Carnesecchi,81,GK,https://ui-avatars.com/api/?name=Marco+Carnesecchi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marco+Carnesecchi
+Marcus Thuram,81,ST,https://ui-avatars.com/api/?name=Marcus+Thuram&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcus+Thuram
+Mario Götze,81,CM,https://ui-avatars.com/api/?name=Mario+G%C3%B6tze&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mario+G%C3%B6tze
+Matteo Darmian,81,RWB,https://ui-avatars.com/api/?name=Matteo+Darmian&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matteo+Darmian
+Mauro Icardi,81,ST,https://ui-avatars.com/api/?name=Mauro+Icardi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mauro+Icardi
+Mehdi Taremi,81,ST,https://ui-avatars.com/api/?name=Mehdi+Taremi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mehdi+Taremi
+Mohammed Kudus,81,RM,https://ui-avatars.com/api/?name=Mohammed+Kudus&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mohammed+Kudus
+Mário Rui,81,LB,https://ui-avatars.com/api/?name=M%C3%A1rio+Rui&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=M%C3%A1rio+Rui
+Nailton Suzuki,81,CAM,https://ui-avatars.com/api/?name=Nailton+Suzuki&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nailton+Suzuki
+Niclas Füllkrug,81,ST,https://ui-avatars.com/api/?name=Niclas+F%C3%BCllkrug&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Niclas+F%C3%BCllkrug
+Nicolás González,81,RW,https://ui-avatars.com/api/?name=Nicol%C3%A1s+Gonz%C3%A1lez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%A1s+Gonz%C3%A1lez
+Noussair Mazraoui,81,RB,https://ui-avatars.com/api/?name=Noussair+Mazraoui&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Noussair+Mazraoui
+Odilon Kossounou,81,CB,https://ui-avatars.com/api/?name=Odilon+Kossounou&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Odilon+Kossounou
+Oliver Baumann,81,GK,https://ui-avatars.com/api/?name=Oliver+Baumann&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Oliver+Baumann
+Oswaldinato,81,ST,https://ui-avatars.com/api/?name=Oswaldinato&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Oswaldinato
+Paulo Gazzaniga,81,GK,https://ui-avatars.com/api/?name=Paulo+Gazzaniga&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Paulo+Gazzaniga
+Pepe,81,CB,https://ui-avatars.com/api/?name=Pepe&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pepe
+Pervis Estupiñán,81,LB,https://ui-avatars.com/api/?name=Pervis+Estupi%C3%B1%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pervis+Estupi%C3%B1%C3%A1n
+Pierre-Emerick Aubameyang,81,ST,https://ui-avatars.com/api/?name=Pierre-Emerick+Aubameyang&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pierre-Emerick+Aubameyang
+Pierre-Emile Højbjerg,81,CDM,https://ui-avatars.com/api/?name=Pierre-Emile+H%C3%B8jbjerg&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pierre-Emile+H%C3%B8jbjerg
+Presnel Kimpembe,81,CB,https://ui-avatars.com/api/?name=Presnel+Kimpembe&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Presnel+Kimpembe
+Reinildo,81,LB,https://ui-avatars.com/api/?name=Reinildo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Reinildo
+Richarlison,81,ST,https://ui-avatars.com/api/?name=Richarlison&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Richarlison
+Rosival Dourado,81,CDM,https://ui-avatars.com/api/?name=Rosival+Dourado&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rosival+Dourado
+Ruben Loftus-Cheek,81,CM,https://ui-avatars.com/api/?name=Ruben+Loftus-Cheek&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ruben+Loftus-Cheek
+Rui Silva,81,GK,https://ui-avatars.com/api/?name=Rui+Silva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rui+Silva
+Sebastián Coates,81,CB,https://ui-avatars.com/api/?name=Sebasti%C3%A1n+Coates&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sebasti%C3%A1n+Coates
+Seko Fofana,81,CM,https://ui-avatars.com/api/?name=Seko+Fofana&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Seko+Fofana
+Simon Kjær,81,CB,https://ui-avatars.com/api/?name=Simon+Kj%C3%A6r&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Simon+Kj%C3%A6r
+Stefan Savić,81,CB,https://ui-avatars.com/api/?name=Stefan+Savi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stefan+Savi%C4%87
+Steven Berghuis,81,RW,https://ui-avatars.com/api/?name=Steven+Berghuis&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Steven+Berghuis
+Sébastien Haller,81,ST,https://ui-avatars.com/api/?name=S%C3%A9bastien+Haller&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=S%C3%A9bastien+Haller
+Takefusa Kubo,81,RW,https://ui-avatars.com/api/?name=Takefusa+Kubo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Takefusa+Kubo
+Thomas Lemar,81,CM,https://ui-avatars.com/api/?name=Thomas+Lemar&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thomas+Lemar
+Toby Alderweireld,81,CB,https://ui-avatars.com/api/?name=Toby+Alderweireld&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Toby+Alderweireld
+Victor Boniface,81,ST,https://ui-avatars.com/api/?name=Victor+Boniface&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Victor+Boniface
+Vincenzo Grifo,81,LM,https://ui-avatars.com/api/?name=Vincenzo+Grifo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vincenzo+Grifo
+Welington Dano,81,LB,https://ui-avatars.com/api/?name=Welington+Dano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Welington+Dano
+Wilfried Zaha,81,LM,https://ui-avatars.com/api/?name=Wilfried+Zaha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wilfried+Zaha
+William Carvalho,81,CDM,https://ui-avatars.com/api/?name=William+Carvalho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=William+Carvalho
+Xaver Schlager,81,CDM,https://ui-avatars.com/api/?name=Xaver+Schlager&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Xaver+Schlager
+Yeray,81,CB,https://ui-avatars.com/api/?name=Yeray&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yeray
+Youri Tielemans,81,CM,https://ui-avatars.com/api/?name=Youri+Tielemans&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Youri+Tielemans
+Zubimendi,81,CDM,https://ui-avatars.com/api/?name=Zubimendi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Zubimendi
+Álvaro Valles,81,GK,https://ui-avatars.com/api/?name=%C3%81lvaro+Valles&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81lvaro+Valles
+Édouard Mendy,81,GK,https://ui-avatars.com/api/?name=%C3%89douard+Mendy&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%89douard+Mendy
+Aaron Wan-Bissaka,80,RB,https://ui-avatars.com/api/?name=Aaron+Wan-Bissaka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aaron+Wan-Bissaka
+Abdülkerim Bardakcı,80,CB,https://ui-avatars.com/api/?name=Abd%C3%BClkerim+Bardakc%C4%B1&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Abd%C3%BClkerim+Bardakc%C4%B1
+Alessandro Buongiorno,80,CB,https://ui-avatars.com/api/?name=Alessandro+Buongiorno&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alessandro+Buongiorno
+Alexandr Golovin,80,CF,https://ui-avatars.com/api/?name=Alexandr+Golovin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexandr+Golovin
+Alexis Sánchez,80,ST,https://ui-avatars.com/api/?name=Alexis+S%C3%A1nchez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexis+S%C3%A1nchez
+Ali Al Musrati,80,CDM,https://ui-avatars.com/api/?name=Ali+Al+Musrati&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ali+Al+Musrati
+Alphonse Areola,80,GK,https://ui-avatars.com/api/?name=Alphonse+Areola&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alphonse+Areola
+Amadou Haidara,80,CM,https://ui-avatars.com/api/?name=Amadou+Haidara&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Amadou+Haidara
+Amir Rrahmani,80,CB,https://ui-avatars.com/api/?name=Amir+Rrahmani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Amir+Rrahmani
+Andriy Lunin,80,GK,https://ui-avatars.com/api/?name=Andriy+Lunin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andriy+Lunin
+André Silva,80,ST,https://ui-avatars.com/api/?name=Andr%C3%A9+Silva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andr%C3%A9+Silva
+Anthony Gordon,80,LW,https://ui-avatars.com/api/?name=Anthony+Gordon&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anthony+Gordon
+Anthony Lopes,80,GK,https://ui-avatars.com/api/?name=Anthony+Lopes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anthony+Lopes
+Aritz Elustondo,80,CB,https://ui-avatars.com/api/?name=Aritz+Elustondo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aritz+Elustondo
+Arnau Martínez,80,RB,https://ui-avatars.com/api/?name=Arnau+Mart%C3%ADnez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arnau+Mart%C3%ADnez
+Axel Witsel,80,CB,https://ui-avatars.com/api/?name=Axel+Witsel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Axel+Witsel
+Ben Chilwell,80,LB,https://ui-avatars.com/api/?name=Ben+Chilwell&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ben+Chilwell
+Benjamin Bourigeaud,80,RM,https://ui-avatars.com/api/?name=Benjamin+Bourigeaud&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+Bourigeaud
+Benjamin Henrichs,80,RB,https://ui-avatars.com/api/?name=Benjamin+Henrichs&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+Henrichs
+Boulaye Dia,80,ST,https://ui-avatars.com/api/?name=Boulaye+Dia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Boulaye+Dia
+Bradley Barcola,80,LW,https://ui-avatars.com/api/?name=Bradley+Barcola&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bradley+Barcola
+Cole Palmer,80,RM,https://ui-avatars.com/api/?name=Cole+Palmer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cole+Palmer
+Cristiano Biraghi,80,LB,https://ui-avatars.com/api/?name=Cristiano+Biraghi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cristiano+Biraghi
+David López,80,CB,https://ui-avatars.com/api/?name=David+L%C3%B3pez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+L%C3%B3pez
+David Neres,80,LM,https://ui-avatars.com/api/?name=David+Neres&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Neres
+David Raum,80,LB,https://ui-avatars.com/api/?name=David+Raum&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Raum
+David Soria,80,GK,https://ui-avatars.com/api/?name=David+Soria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Soria
+Davide Calabria,80,RB,https://ui-avatars.com/api/?name=Davide+Calabria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Davide+Calabria
+De Marcos,80,RB,https://ui-avatars.com/api/?name=De+Marcos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=De+Marcos
+Denis Bouanga,80,LW,https://ui-avatars.com/api/?name=Denis+Bouanga&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Denis+Bouanga
+Eberechi Eze,80,CAM,https://ui-avatars.com/api/?name=Eberechi+Eze&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eberechi+Eze
+Enes Ünal,80,ST,https://ui-avatars.com/api/?name=Enes+%C3%9Cnal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Enes+%C3%9Cnal
+Ezri Konsa,80,CB,https://ui-avatars.com/api/?name=Ezri+Konsa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ezri+Konsa
+Fabián Ruiz,80,CM,https://ui-avatars.com/api/?name=Fabi%C3%A1n+Ruiz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fabi%C3%A1n+Ruiz
+Facundo Medina,80,CB,https://ui-avatars.com/api/?name=Facundo+Medina&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Facundo+Medina
+Fernando Muslera,80,GK,https://ui-avatars.com/api/?name=Fernando+Muslera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fernando+Muslera
+Fredrik Aursnes,80,RB,https://ui-avatars.com/api/?name=Fredrik+Aursnes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fredrik+Aursnes
+Geoffrey Kondogbia,80,CM,https://ui-avatars.com/api/?name=Geoffrey+Kondogbia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Geoffrey+Kondogbia
+Gerónimo Rulli,80,GK,https://ui-avatars.com/api/?name=Ger%C3%B3nimo+Rulli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ger%C3%B3nimo+Rulli
+Giovani Lo Celso,80,CAM,https://ui-avatars.com/api/?name=Giovani+Lo+Celso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giovani+Lo+Celso
+Gonçalo Inácio,80,CB,https://ui-avatars.com/api/?name=Gon%C3%A7alo+In%C3%A1cio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gon%C3%A7alo+In%C3%A1cio
+Hakim Ziyech,80,RM,https://ui-avatars.com/api/?name=Hakim+Ziyech&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hakim+Ziyech
+Hamari Traoré,80,RB,https://ui-avatars.com/api/?name=Hamari+Traor%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hamari+Traor%C3%A9
+Hans Vanaken,80,CAM,https://ui-avatars.com/api/?name=Hans+Vanaken&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hans+Vanaken
+Hany Mukhtar,80,CF,https://ui-avatars.com/api/?name=Hany+Mukhtar&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hany+Mukhtar
+Harry Maguire,80,CB,https://ui-avatars.com/api/?name=Harry+Maguire&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Harry+Maguire
+Harvey Barnes,80,LW,https://ui-avatars.com/api/?name=Harvey+Barnes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Harvey+Barnes
+Heberto Gaúcho,80,CB,https://ui-avatars.com/api/?name=Heberto+Ga%C3%BAcho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Heberto+Ga%C3%BAcho
+Hirving Lozano,80,RW,https://ui-avatars.com/api/?name=Hirving+Lozano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hirving+Lozano
+Héniton Pires,80,GK,https://ui-avatars.com/api/?name=H%C3%A9niton+Pires&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=H%C3%A9niton+Pires
+Ibañez,80,CB,https://ui-avatars.com/api/?name=Iba%C3%B1ez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Iba%C3%B1ez
+Ibrahim Sangaré,80,CDM,https://ui-avatars.com/api/?name=Ibrahim+Sangar%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ibrahim+Sangar%C3%A9
+Ivan Toney,80,ST,https://ui-avatars.com/api/?name=Ivan+Toney&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ivan+Toney
+Iván Martín,80,CM,https://ui-avatars.com/api/?name=Iv%C3%A1n+Mart%C3%ADn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Iv%C3%A1n+Mart%C3%ADn
+Javi Galán,80,LB,https://ui-avatars.com/api/?name=Javi+Gal%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Javi+Gal%C3%A1n
+Jean-Clair Todibo,80,CB,https://ui-avatars.com/api/?name=Jean-Clair+Todibo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jean-Clair+Todibo
+Jesús Navas,80,RB,https://ui-avatars.com/api/?name=Jes%C3%BAs+Navas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jes%C3%BAs+Navas
+Joe Gomez,80,CB,https://ui-avatars.com/api/?name=Joe+Gomez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joe+Gomez
+Joel Matip,80,CB,https://ui-avatars.com/api/?name=Joel+Matip&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joel+Matip
+Joey Veerman,80,CM,https://ui-avatars.com/api/?name=Joey+Veerman&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joey+Veerman
+Jonas Omlin,80,GK,https://ui-avatars.com/api/?name=Jonas+Omlin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonas+Omlin
+Jonathan Clauss,80,RB,https://ui-avatars.com/api/?name=Jonathan+Clauss&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Clauss
+Jonathan David,80,ST,https://ui-avatars.com/api/?name=Jonathan+David&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+David
+Jonathan Viera,80,CAM,https://ui-avatars.com/api/?name=Jonathan+Viera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Viera
+Jordan Veretout,80,CM,https://ui-avatars.com/api/?name=Jordan+Veretout&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordan+Veretout
+Juan Foyth,80,RB,https://ui-avatars.com/api/?name=Juan+Foyth&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juan+Foyth
+Julian Weigl,80,CDM,https://ui-avatars.com/api/?name=Julian+Weigl&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Julian+Weigl
+Karim Adeyemi,80,LM,https://ui-avatars.com/api/?name=Karim+Adeyemi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Karim+Adeyemi
+Kepa,80,GK,https://ui-avatars.com/api/?name=Kepa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kepa
+Kevin Danso,80,CB,https://ui-avatars.com/api/?name=Kevin+Danso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kevin+Danso
+Kieran Tierney,80,LB,https://ui-avatars.com/api/?name=Kieran+Tierney&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kieran+Tierney
+Lars Unnerstall,80,GK,https://ui-avatars.com/api/?name=Lars+Unnerstall&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lars+Unnerstall
+Laure Santeiro,80,CAM,https://ui-avatars.com/api/?name=Laure+Santeiro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Laure+Santeiro
+Leonardo Spinazzola,80,LWB,https://ui-avatars.com/api/?name=Leonardo+Spinazzola&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leonardo+Spinazzola
+Lorenzo Insigne,80,LW,https://ui-avatars.com/api/?name=Lorenzo+Insigne&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lorenzo+Insigne
+Lucas Ocampos,80,LW,https://ui-avatars.com/api/?name=Lucas+Ocampos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Ocampos
+Luuk de Jong,80,ST,https://ui-avatars.com/api/?name=Luuk+de+Jong&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luuk+de+Jong
+Maikel Catarino,80,RB,https://ui-avatars.com/api/?name=Maikel+Catarino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Maikel+Catarino
+Marc Cucurella,80,LB,https://ui-avatars.com/api/?name=Marc+Cucurella&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marc+Cucurella
+Marcus Edwards,80,RW,https://ui-avatars.com/api/?name=Marcus+Edwards&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcus+Edwards
+Mario Pašalić,80,CAM,https://ui-avatars.com/api/?name=Mario+Pa%C5%A1ali%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mario+Pa%C5%A1ali%C4%87
+Mark Flekken,80,GK,https://ui-avatars.com/api/?name=Mark+Flekken&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mark+Flekken
+Marko Arnautović,80,ST,https://ui-avatars.com/api/?name=Marko+Arnautovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marko+Arnautovi%C4%87
+Marten de Roon,80,CDM,https://ui-avatars.com/api/?name=Marten+de+Roon&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marten+de+Roon
+Martin Terrier,80,LM,https://ui-avatars.com/api/?name=Martin+Terrier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Martin+Terrier
+Matteo Politano,80,RW,https://ui-avatars.com/api/?name=Matteo+Politano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matteo+Politano
+Maximilian Arnold,80,CDM,https://ui-avatars.com/api/?name=Maximilian+Arnold&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Maximilian+Arnold
+Michael Olise,80,RM,https://ui-avatars.com/api/?name=Michael+Olise&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Michael+Olise
+Micky van de Ven,80,CB,https://ui-avatars.com/api/?name=Micky+van+de+Ven&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Micky+van+de+Ven
+Mohamed Simakan,80,CB,https://ui-avatars.com/api/?name=Mohamed+Simakan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mohamed+Simakan
+Moisés Caicedo,80,CDM,https://ui-avatars.com/api/?name=Mois%C3%A9s+Caicedo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mois%C3%A9s+Caicedo
+Morten Hjulmand,80,CDM,https://ui-avatars.com/api/?name=Morten+Hjulmand&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Morten+Hjulmand
+Nemanja Gudelj,80,CB,https://ui-avatars.com/api/?name=Nemanja+Gudelj&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nemanja+Gudelj
+Nemanja Matić,80,CDM,https://ui-avatars.com/api/?name=Nemanja+Mati%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nemanja+Mati%C4%87
+Nuno Santos,80,LW,https://ui-avatars.com/api/?name=Nuno+Santos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nuno+Santos
+Oleksandr Zinchenko,80,LB,https://ui-avatars.com/api/?name=Oleksandr+Zinchenko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Oleksandr+Zinchenko
+Oriol Romeu,80,CDM,https://ui-avatars.com/api/?name=Oriol+Romeu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Oriol+Romeu
+Pascal Groß,80,CM,https://ui-avatars.com/api/?name=Pascal+Gro%C3%9F&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pascal+Gro%C3%9F
+Pepelu,80,CDM,https://ui-avatars.com/api/?name=Pepelu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pepelu
+Pepê,80,CAM,https://ui-avatars.com/api/?name=Pep%C3%AA&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pep%C3%AA
+Raúl Albiol,80,CB,https://ui-avatars.com/api/?name=Ra%C3%BAl+Albiol&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ra%C3%BAl+Albiol
+Roberto Firmino,80,CF,https://ui-avatars.com/api/?name=Roberto+Firmino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Roberto+Firmino
+Rui Patrício,80,GK,https://ui-avatars.com/api/?name=Rui+Patr%C3%ADcio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rui+Patr%C3%ADcio
+Ruiz de Galarreta,80,CM,https://ui-avatars.com/api/?name=Ruiz+de+Galarreta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ruiz+de+Galarreta
+Sacha Boey,80,RB,https://ui-avatars.com/api/?name=Sacha+Boey&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sacha+Boey
+Samuel Chukwueze,80,RW,https://ui-avatars.com/api/?name=Samuel+Chukwueze&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Samuel+Chukwueze
+Saúl,80,CM,https://ui-avatars.com/api/?name=Sa%C3%BAl&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sa%C3%BAl
+Sebastian Szymański,80,CAM,https://ui-avatars.com/api/?name=Sebastian+Szyma%C5%84ski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sebastian+Szyma%C5%84ski
+Sergi Roberto,80,RB,https://ui-avatars.com/api/?name=Sergi+Roberto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergi+Roberto
+Simon Banza,80,ST,https://ui-avatars.com/api/?name=Simon+Banza&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Simon+Banza
+Suso,80,RW,https://ui-avatars.com/api/?name=Suso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Suso
+Sávio,80,LM,https://ui-avatars.com/api/?name=S%C3%A1vio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=S%C3%A1vio
+Tammy Abraham,80,ST,https://ui-avatars.com/api/?name=Tammy+Abraham&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Tammy+Abraham
+Thiago Almada,80,CAM,https://ui-avatars.com/api/?name=Thiago+Almada&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Thiago+Almada
+Tijjani Reijnders,80,CM,https://ui-avatars.com/api/?name=Tijjani+Reijnders&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Tijjani+Reijnders
+Timo Werner,80,LW,https://ui-avatars.com/api/?name=Timo+Werner&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Timo+Werner
+Tony Abranjes,80,CB,https://ui-avatars.com/api/?name=Tony+Abranjes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Tony+Abranjes
+Téji Savanier,80,CAM,https://ui-avatars.com/api/?name=T%C3%A9ji+Savanier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=T%C3%A9ji+Savanier
+Valentin Rongier,80,CDM,https://ui-avatars.com/api/?name=Valentin+Rongier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Valentin+Rongier
+Vangelis Pavlidis,80,ST,https://ui-avatars.com/api/?name=Vangelis+Pavlidis&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vangelis+Pavlidis
+Vedat Muriqi,80,ST,https://ui-avatars.com/api/?name=Vedat+Muriqi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vedat+Muriqi
+Vivian,80,CB,https://ui-avatars.com/api/?name=Vivian&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vivian
+Warren Zaïre-Emery,80,CM,https://ui-avatars.com/api/?name=Warren+Za%C3%AFre-Emery&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Warren+Za%C3%AFre-Emery
+Wataru Endo,80,CDM,https://ui-avatars.com/api/?name=Wataru+Endo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wataru+Endo
+Yangel Herrera,80,CM,https://ui-avatars.com/api/?name=Yangel+Herrera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yangel+Herrera
+Youssouf Fofana,80,CDM,https://ui-avatars.com/api/?name=Youssouf+Fofana&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Youssouf+Fofana
+Yuri Berchiche,80,LB,https://ui-avatars.com/api/?name=Yuri+Berchiche&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yuri+Berchiche
+Yves Bissouma,80,CDM,https://ui-avatars.com/api/?name=Yves+Bissouma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yves+Bissouma
+Zubeldia,80,CB,https://ui-avatars.com/api/?name=Zubeldia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Zubeldia
+Álex Berenguer,80,LM,https://ui-avatars.com/api/?name=%C3%81lex+Berenguer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81lex+Berenguer
+Álex Moreno,80,LB,https://ui-avatars.com/api/?name=%C3%81lex+Moreno&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81lex+Moreno
+Adam Marušić,79,LB,https://ui-avatars.com/api/?name=Adam+Maru%C5%A1i%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adam+Maru%C5%A1i%C4%87
+Adnan Vidual,79,RB,https://ui-avatars.com/api/?name=Adnan+Vidual&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adnan+Vidual
+Albert Guðmundsson,79,ST,https://ui-avatars.com/api/?name=Albert+Gu%C3%B0mundsson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Albert+Gu%C3%B0mundsson
+Alex Telles,79,LB,https://ui-avatars.com/api/?name=Alex+Telles&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alex+Telles
+Alexander Bah,79,RB,https://ui-avatars.com/api/?name=Alexander+Bah&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexander+Bah
+Alexander Nübel,79,GK,https://ui-avatars.com/api/?name=Alexander+N%C3%BCbel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexander+N%C3%BCbel
+Alexander Sørloth,79,ST,https://ui-avatars.com/api/?name=Alexander+S%C3%B8rloth&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexander+S%C3%B8rloth
+Ander Herrera,79,CM,https://ui-avatars.com/api/?name=Ander+Herrera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ander+Herrera
+Antony,79,RM,https://ui-avatars.com/api/?name=Antony&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antony
+António Silva,79,CB,https://ui-avatars.com/api/?name=Ant%C3%B3nio+Silva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ant%C3%B3nio+Silva
+Armand Laurienté,79,LW,https://ui-avatars.com/api/?name=Armand+Laurient%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Armand+Laurient%C3%A9
+Arthur Cabral,79,ST,https://ui-avatars.com/api/?name=Arthur+Cabral&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arthur+Cabral
+Axel Disasi,79,CB,https://ui-avatars.com/api/?name=Axel+Disasi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Axel+Disasi
+Ayoze Pérez,79,LM,https://ui-avatars.com/api/?name=Ayoze+P%C3%A9rez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ayoze+P%C3%A9rez
+Azpilicueta,79,CB,https://ui-avatars.com/api/?name=Azpilicueta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Azpilicueta
+Benjamin André,79,CDM,https://ui-avatars.com/api/?name=Benjamin+Andr%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+Andr%C3%A9
+Bryan Mbeumo,79,RW,https://ui-avatars.com/api/?name=Bryan+Mbeumo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bryan+Mbeumo
+Callum McGregor,79,CDM,https://ui-avatars.com/api/?name=Callum+McGregor&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Callum+McGregor
+Carles Gil,79,CAM,https://ui-avatars.com/api/?name=Carles+Gil&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Carles+Gil
+Carlos Augusto,79,LM,https://ui-avatars.com/api/?name=Carlos+Augusto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Carlos+Augusto
+Castello Lukeba,79,CB,https://ui-avatars.com/api/?name=Castello+Lukeba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Castello+Lukeba
+Catena,79,CB,https://ui-avatars.com/api/?name=Catena&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Catena
+Chancel Mbemba,79,CB,https://ui-avatars.com/api/?name=Chancel+Mbemba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Chancel+Mbemba
+Cheick Doucouré,79,CDM,https://ui-avatars.com/api/?name=Cheick+Doucour%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cheick+Doucour%C3%A9
+Christian Eriksen,79,CM,https://ui-avatars.com/api/?name=Christian+Eriksen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christian+Eriksen
+Christian Günter,79,LB,https://ui-avatars.com/api/?name=Christian+G%C3%BCnter&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christian+G%C3%BCnter
+Christoph Baumgartner,79,CAM,https://ui-avatars.com/api/?name=Christoph+Baumgartner&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christoph+Baumgartner
+Claudio Bravo,79,GK,https://ui-avatars.com/api/?name=Claudio+Bravo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Claudio+Bravo
+Conor Gallagher,79,CM,https://ui-avatars.com/api/?name=Conor+Gallagher&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Conor+Gallagher
+Curtis Jones,79,CM,https://ui-avatars.com/api/?name=Curtis+Jones&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Curtis+Jones
+Daley Blind,79,CB,https://ui-avatars.com/api/?name=Daley+Blind&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Daley+Blind
+Dani Ceballos,79,CM,https://ui-avatars.com/api/?name=Dani+Ceballos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dani+Ceballos
+Daniel Muñoz,79,RWB,https://ui-avatars.com/api/?name=Daniel+Mu%C3%B1oz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Daniel+Mu%C3%B1oz
+Dante,79,CB,https://ui-avatars.com/api/?name=Dante&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dante
+David Ospina,79,GK,https://ui-avatars.com/api/?name=David+Ospina&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=David+Ospina
+Davide Zappacosta,79,RWB,https://ui-avatars.com/api/?name=Davide+Zappacosta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Davide+Zappacosta
+Dean Henderson,79,GK,https://ui-avatars.com/api/?name=Dean+Henderson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dean+Henderson
+Denis Zakaria,79,CDM,https://ui-avatars.com/api/?name=Denis+Zakaria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Denis+Zakaria
+Deniz Undav,79,ST,https://ui-avatars.com/api/?name=Deniz+Undav&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Deniz+Undav
+Deulofeu,79,CF,https://ui-avatars.com/api/?name=Deulofeu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Deulofeu
+Diego Essler,79,LB,https://ui-avatars.com/api/?name=Diego+Essler&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diego+Essler
+Dodi Lukébakio,79,RW,https://ui-avatars.com/api/?name=Dodi+Luk%C3%A9bakio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dodi+Luk%C3%A9bakio
+Dries Mertens,79,CAM,https://ui-avatars.com/api/?name=Dries+Mertens&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dries+Mertens
+Edin Višća,79,RM,https://ui-avatars.com/api/?name=Edin+Vi%C5%A1%C4%87a&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edin+Vi%C5%A1%C4%87a
+Eljif Elmas,79,CAM,https://ui-avatars.com/api/?name=Eljif+Elmas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eljif+Elmas
+Emanuel Reynoso,79,CAM,https://ui-avatars.com/api/?name=Emanuel+Reynoso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emanuel+Reynoso
+Emelvinson,79,GK,https://ui-avatars.com/api/?name=Emelvinson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emelvinson
+Emil Audero,79,GK,https://ui-avatars.com/api/?name=Emil+Audero&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emil+Audero
+Emil Forsberg,79,CAM,https://ui-avatars.com/api/?name=Emil+Forsberg&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emil+Forsberg
+Emiliano Buendía,79,RM,https://ui-avatars.com/api/?name=Emiliano+Buend%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emiliano+Buend%C3%ADa
+Erik Lamela,79,RW,https://ui-avatars.com/api/?name=Erik+Lamela&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Erik+Lamela
+Ethan Pinnock,79,CB,https://ui-avatars.com/api/?name=Ethan+Pinnock&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ethan+Pinnock
+Evanilson,79,ST,https://ui-avatars.com/api/?name=Evanilson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Evanilson
+Ezequiel Ávila,79,ST,https://ui-avatars.com/api/?name=Ezequiel+%C3%81vila&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ezequiel+%C3%81vila
+Florentino,79,CDM,https://ui-avatars.com/api/?name=Florentino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Florentino
+Francis Coquelin,79,CM,https://ui-avatars.com/api/?name=Francis+Coquelin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Francis+Coquelin
+Frederik Rønnow,79,GK,https://ui-avatars.com/api/?name=Frederik+R%C3%B8nnow&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Frederik+R%C3%B8nnow
+Gabri Prestão,79,GK,https://ui-avatars.com/api/?name=Gabri+Prest%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabri+Prest%C3%A3o
+Georginio Wijnaldum,79,CM,https://ui-avatars.com/api/?name=Georginio+Wijnaldum&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Georginio+Wijnaldum
+Gernot Trauner,79,CB,https://ui-avatars.com/api/?name=Gernot+Trauner&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gernot+Trauner
+Giacomo Bonaventura,79,CAM,https://ui-avatars.com/api/?name=Giacomo+Bonaventura&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giacomo+Bonaventura
+Gianluca Scamacca,79,ST,https://ui-avatars.com/api/?name=Gianluca+Scamacca&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gianluca+Scamacca
+Gonçalo Ramos,79,ST,https://ui-avatars.com/api/?name=Gon%C3%A7alo+Ramos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gon%C3%A7alo+Ramos
+Guruzeta,79,ST,https://ui-avatars.com/api/?name=Guruzeta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guruzeta
+Henry Martín,79,ST,https://ui-avatars.com/api/?name=Henry+Mart%C3%ADn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Henry+Mart%C3%ADn
+Hidemasa Morita,79,CM,https://ui-avatars.com/api/?name=Hidemasa+Morita&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hidemasa+Morita
+Hugo Lloris,79,GK,https://ui-avatars.com/api/?name=Hugo+Lloris&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hugo+Lloris
+James Tarkowski,79,CB,https://ui-avatars.com/api/?name=James+Tarkowski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=James+Tarkowski
+James Tavernier,79,RB,https://ui-avatars.com/api/?name=James+Tavernier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=James+Tavernier
+James Ward-Prowse,79,CM,https://ui-avatars.com/api/?name=James+Ward-Prowse&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=James+Ward-Prowse
+Jan Vertonghen,79,CB,https://ui-avatars.com/api/?name=Jan+Vertonghen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jan+Vertonghen
+Jerdy Schouten,79,CDM,https://ui-avatars.com/api/?name=Jerdy+Schouten&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jerdy+Schouten
+Joachim Andersen,79,CB,https://ui-avatars.com/api/?name=Joachim+Andersen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joachim+Andersen
+Jordy Clasie,79,CDM,https://ui-avatars.com/api/?name=Jordy+Clasie&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordy+Clasie
+Jorge Andrão,79,CDM,https://ui-avatars.com/api/?name=Jorge+Andr%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jorge+Andr%C3%A3o
+Joshua Zirkzee,79,ST,https://ui-avatars.com/api/?name=Joshua+Zirkzee&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joshua+Zirkzee
+José Sá,79,GK,https://ui-avatars.com/api/?name=Jos%C3%A9+S%C3%A1&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jos%C3%A9+S%C3%A1
+Juan Cuadrado,79,RM,https://ui-avatars.com/api/?name=Juan+Cuadrado&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juan+Cuadrado
+Juan Musso,79,GK,https://ui-avatars.com/api/?name=Juan+Musso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juan+Musso
+Jurriën Timber,79,CB,https://ui-avatars.com/api/?name=Jurri%C3%ABn+Timber&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jurri%C3%ABn+Timber
+Jérémy Doku,79,LW,https://ui-avatars.com/api/?name=J%C3%A9r%C3%A9my+Doku&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=J%C3%A9r%C3%A9my+Doku
+Kaku,79,CAM,https://ui-avatars.com/api/?name=Kaku&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kaku
+Kurt Zouma,79,CB,https://ui-avatars.com/api/?name=Kurt+Zouma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kurt+Zouma
+Lee Kang In,79,CAM,https://ui-avatars.com/api/?name=Lee+Kang+In&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lee+Kang+In
+Leonardo Bonucci,79,CB,https://ui-avatars.com/api/?name=Leonardo+Bonucci&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leonardo+Bonucci
+Lucas Chevalier,79,GK,https://ui-avatars.com/api/?name=Lucas+Chevalier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Chevalier
+Lucas Digne,79,LB,https://ui-avatars.com/api/?name=Lucas+Digne&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Digne
+Lucas Robertone,79,CM,https://ui-avatars.com/api/?name=Lucas+Robertone&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Robertone
+Lucas Zelarayán,79,CAM,https://ui-avatars.com/api/?name=Lucas+Zelaray%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Zelaray%C3%A1n
+Luciano Acosta,79,CAM,https://ui-avatars.com/api/?name=Luciano+Acosta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luciano+Acosta
+Luis Chávez,79,CM,https://ui-avatars.com/api/?name=Luis+Ch%C3%A1vez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+Ch%C3%A1vez
+Luis Muriel,79,ST,https://ui-avatars.com/api/?name=Luis+Muriel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+Muriel
+Luiz Felipe,79,CB,https://ui-avatars.com/api/?name=Luiz+Felipe&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luiz+Felipe
+Lukas Klostermann,79,CB,https://ui-avatars.com/api/?name=Lukas+Klostermann&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lukas+Klostermann
+Lutsharel Geertruida,79,RB,https://ui-avatars.com/api/?name=Lutsharel+Geertruida&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lutsharel+Geertruida
+Manuel Lazzari,79,RB,https://ui-avatars.com/api/?name=Manuel+Lazzari&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Lazzari
+Mario Lemina,79,CDM,https://ui-avatars.com/api/?name=Mario+Lemina&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mario+Lemina
+Mason Mount,79,CM,https://ui-avatars.com/api/?name=Mason+Mount&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mason+Mount
+Matheus,79,GK,https://ui-avatars.com/api/?name=Matheus&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matheus
+Matheus Cunha,79,ST,https://ui-avatars.com/api/?name=Matheus+Cunha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matheus+Cunha
+Matheus Nunes,79,CM,https://ui-avatars.com/api/?name=Matheus+Nunes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matheus+Nunes
+Mattia Perin,79,GK,https://ui-avatars.com/api/?name=Mattia+Perin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mattia+Perin
+Matty Cash,79,RB,https://ui-avatars.com/api/?name=Matty+Cash&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matty+Cash
+Mattéo Guendouzi,79,CM,https://ui-avatars.com/api/?name=Matt%C3%A9o+Guendouzi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matt%C3%A9o+Guendouzi
+Matz Sels,79,GK,https://ui-avatars.com/api/?name=Matz+Sels&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matz+Sels
+Mauro Arambarri,79,CDM,https://ui-avatars.com/api/?name=Mauro+Arambarri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mauro+Arambarri
+Medrán,79,CM,https://ui-avatars.com/api/?name=Medr%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Medr%C3%A1n
+Melvin Parrela,79,CDM,https://ui-avatars.com/api/?name=Melvin+Parrela&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Melvin+Parrela
+Michele Di Gregorio,79,GK,https://ui-avatars.com/api/?name=Michele+Di+Gregorio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Michele+Di+Gregorio
+Miguel Almirón,79,RW,https://ui-avatars.com/api/?name=Miguel+Almir%C3%B3n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Miguel+Almir%C3%B3n
+Miguel Gutiérrez,79,LB,https://ui-avatars.com/api/?name=Miguel+Guti%C3%A9rrez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Miguel+Guti%C3%A9rrez
+Moi Gómez,79,CM,https://ui-avatars.com/api/?name=Moi+G%C3%B3mez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Moi+G%C3%B3mez
+Muniain,79,CAM,https://ui-avatars.com/api/?name=Muniain&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Muniain
+Nayef Aguerd,79,CB,https://ui-avatars.com/api/?name=Nayef+Aguerd&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nayef+Aguerd
+Nikola Milenković,79,CB,https://ui-avatars.com/api/?name=Nikola+Milenkovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nikola+Milenkovi%C4%87
+Nikola Vlašić,79,CF,https://ui-avatars.com/api/?name=Nikola+Vla%C5%A1i%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nikola+Vla%C5%A1i%C4%87
+Noa Lang,79,LW,https://ui-avatars.com/api/?name=Noa+Lang&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Noa+Lang
+Nordi Mukiele,79,RB,https://ui-avatars.com/api/?name=Nordi+Mukiele&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nordi+Mukiele
+Nélson Semedo,79,RWB,https://ui-avatars.com/api/?name=N%C3%A9lson+Semedo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=N%C3%A9lson+Semedo
+Odysseas Vlachodimos,79,GK,https://ui-avatars.com/api/?name=Odysseas+Vlachodimos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Odysseas+Vlachodimos
+Pablo Maffeo,79,RWB,https://ui-avatars.com/api/?name=Pablo+Maffeo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pablo+Maffeo
+Pau López,79,GK,https://ui-avatars.com/api/?name=Pau+L%C3%B3pez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pau+L%C3%B3pez
+Pedro Neto,79,RW,https://ui-avatars.com/api/?name=Pedro+Neto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedro+Neto
+Perr Schuurs,79,CB,https://ui-avatars.com/api/?name=Perr+Schuurs&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Perr+Schuurs
+Philipp Lienhart,79,CB,https://ui-avatars.com/api/?name=Philipp+Lienhart&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Philipp+Lienhart
+Piero Hincapié,79,CB,https://ui-avatars.com/api/?name=Piero+Hincapi%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Piero+Hincapi%C3%A9
+Pietro Terracciano,79,GK,https://ui-avatars.com/api/?name=Pietro+Terracciano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pietro+Terracciano
+Rade Krunić,79,CM,https://ui-avatars.com/api/?name=Rade+Kruni%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rade+Kruni%C4%87
+Rafael Tolói,79,CB,https://ui-avatars.com/api/?name=Rafael+Tol%C3%B3i&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rafael+Tol%C3%B3i
+Remo Freuler,79,CDM,https://ui-avatars.com/api/?name=Remo+Freuler&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Remo+Freuler
+Renato Tapia,79,CDM,https://ui-avatars.com/api/?name=Renato+Tapia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Renato+Tapia
+Ricardo Pereira,79,RB,https://ui-avatars.com/api/?name=Ricardo+Pereira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ricardo+Pereira
+Riccardo Orsolini,79,RM,https://ui-avatars.com/api/?name=Riccardo+Orsolini&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Riccardo+Orsolini
+Robert Sánchez,79,GK,https://ui-avatars.com/api/?name=Robert+S%C3%A1nchez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robert+S%C3%A1nchez
+Robin Gosens,79,LWB,https://ui-avatars.com/api/?name=Robin+Gosens&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robin+Gosens
+Robin Koch,79,CB,https://ui-avatars.com/api/?name=Robin+Koch&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Robin+Koch
+Ryan Gravenberch,79,CM,https://ui-avatars.com/api/?name=Ryan+Gravenberch&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ryan+Gravenberch
+Salem Al Dawsari,79,LM,https://ui-avatars.com/api/?name=Salem+Al+Dawsari&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Salem+Al+Dawsari
+Samuel Lino,79,LM,https://ui-avatars.com/api/?name=Samuel+Lino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Samuel+Lino
+Santiago Giménez,79,ST,https://ui-avatars.com/api/?name=Santiago+Gim%C3%A9nez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Santiago+Gim%C3%A9nez
+Sardar Azmoun,79,ST,https://ui-avatars.com/api/?name=Sardar+Azmoun&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sardar+Azmoun
+Sead Kolašinac,79,CB,https://ui-avatars.com/api/?name=Sead+Kola%C5%A1inac&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sead+Kola%C5%A1inac
+Simon Mignolet,79,GK,https://ui-avatars.com/api/?name=Simon+Mignolet&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Simon+Mignolet
+Sofyan Amrabat,79,CDM,https://ui-avatars.com/api/?name=Sofyan+Amrabat&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sofyan+Amrabat
+Solly March,79,RM,https://ui-avatars.com/api/?name=Solly+March&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Solly+March
+Stefan Ortega,79,GK,https://ui-avatars.com/api/?name=Stefan+Ortega&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stefan+Ortega
+Stephan El Shaarawy,79,LM,https://ui-avatars.com/api/?name=Stephan+El+Shaarawy&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stephan+El+Shaarawy
+Steve Mandanda,79,GK,https://ui-avatars.com/api/?name=Steve+Mandanda&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Steve+Mandanda
+Stole Dimitrievski,79,GK,https://ui-avatars.com/api/?name=Stole+Dimitrievski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stole+Dimitrievski
+Takumi Minamino,79,CAM,https://ui-avatars.com/api/?name=Takumi+Minamino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Takumi+Minamino
+Teddy Teuma,79,CM,https://ui-avatars.com/api/?name=Teddy+Teuma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Teddy+Teuma
+Tomáš Souček,79,CDM,https://ui-avatars.com/api/?name=Tom%C3%A1%C5%A1+Sou%C4%8Dek&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Tom%C3%A1%C5%A1+Sou%C4%8Dek
+Tyrone Mings,79,CB,https://ui-avatars.com/api/?name=Tyrone+Mings&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Tyrone+Mings
+Valentin Castellanos,79,ST,https://ui-avatars.com/api/?name=Valentin+Castellanos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Valentin+Castellanos
+Victor Lindelöf,79,CB,https://ui-avatars.com/api/?name=Victor+Lindel%C3%B6f&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Victor+Lindel%C3%B6f
+Vincent Aboubakar,79,ST,https://ui-avatars.com/api/?name=Vincent+Aboubakar&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vincent+Aboubakar
+Waldemar Anton,79,CB,https://ui-avatars.com/api/?name=Waldemar+Anton&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Waldemar+Anton
+Walter Benítez,79,GK,https://ui-avatars.com/api/?name=Walter+Ben%C3%ADtez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Walter+Ben%C3%ADtez
+Wilfred Ndidi,79,CDM,https://ui-avatars.com/api/?name=Wilfred+Ndidi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wilfred+Ndidi
+Wladimiro Falcone,79,GK,https://ui-avatars.com/api/?name=Wladimiro+Falcone&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wladimiro+Falcone
+Yeremy Pino,79,LM,https://ui-avatars.com/api/?name=Yeremy+Pino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yeremy+Pino
+Álvaro García,79,LM,https://ui-avatars.com/api/?name=%C3%81lvaro+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%81lvaro+Garc%C3%ADa
+Éderson,79,CM,https://ui-avatars.com/api/?name=%C3%89derson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%89derson
+Éver Banega,79,CM,https://ui-avatars.com/api/?name=%C3%89ver+Banega&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%89ver+Banega
+Óliver Torres,79,CM,https://ui-avatars.com/api/?name=%C3%93liver+Torres&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C3%93liver+Torres
+Łukasz Fabiański,79,GK,https://ui-avatars.com/api/?name=%C5%81ukasz+Fabia%C5%84ski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C5%81ukasz+Fabia%C5%84ski
+Adam Webster,78,CB,https://ui-avatars.com/api/?name=Adam+Webster&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adam+Webster
+Adán,78,GK,https://ui-avatars.com/api/?name=Ad%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ad%C3%A1n
+Albertinho Dutra,78,LW,https://ui-avatars.com/api/?name=Albertinho+Dutra&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Albertinho+Dutra
+Alex Oxlade-Chamberlain,78,CM,https://ui-avatars.com/api/?name=Alex+Oxlade-Chamberlain&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alex+Oxlade-Chamberlain
+Alexey Miranchuk,78,CF,https://ui-avatars.com/api/?name=Alexey+Miranchuk&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexey+Miranchuk
+Alexis Saelemaekers,78,RM,https://ui-avatars.com/api/?name=Alexis+Saelemaekers&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexis+Saelemaekers
+Alfonso Espino,78,LB,https://ui-avatars.com/api/?name=Alfonso+Espino&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alfonso+Espino
+Amine Gouiri,78,LW,https://ui-avatars.com/api/?name=Amine+Gouiri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Amine+Gouiri
+Anatoliy Trubin,78,GK,https://ui-avatars.com/api/?name=Anatoliy+Trubin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anatoliy+Trubin
+Andrea Belotti,78,ST,https://ui-avatars.com/api/?name=Andrea+Belotti&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrea+Belotti
+Andrea Colpani,78,CF,https://ui-avatars.com/api/?name=Andrea+Colpani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrea+Colpani
+Andrea Consigli,78,GK,https://ui-avatars.com/api/?name=Andrea+Consigli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrea+Consigli
+Andreas Skov Olsen,78,RM,https://ui-avatars.com/api/?name=Andreas+Skov+Olsen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andreas+Skov+Olsen
+Angeliño,78,LB,https://ui-avatars.com/api/?name=Angeli%C3%B1o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Angeli%C3%B1o
+Angelo Stiller,78,CM,https://ui-avatars.com/api/?name=Angelo+Stiller&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Angelo+Stiller
+Antonee Robinson,78,LB,https://ui-avatars.com/api/?name=Antonee+Robinson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antonee+Robinson
+Antonio Candreva,78,CF,https://ui-avatars.com/api/?name=Antonio+Candreva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antonio+Candreva
+Antonio Sanabria,78,ST,https://ui-avatars.com/api/?name=Antonio+Sanabria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Antonio+Sanabria
+Antonín Barák,78,CM,https://ui-avatars.com/api/?name=Anton%C3%ADn+Bar%C3%A1k&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anton%C3%ADn+Bar%C3%A1k
+Arthur,78,CM,https://ui-avatars.com/api/?name=Arthur&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arthur
+Arturo Inálcio,78,CM,https://ui-avatars.com/api/?name=Arturo+In%C3%A1lcio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arturo+In%C3%A1lcio
+Augusto Batalla,78,GK,https://ui-avatars.com/api/?name=Augusto+Batalla&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Augusto+Batalla
+Ben Mee,78,CB,https://ui-avatars.com/api/?name=Ben+Mee&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ben+Mee
+Benjamin Šeško,78,ST,https://ui-avatars.com/api/?name=Benjamin+%C5%A0e%C5%A1ko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+%C5%A0e%C5%A1ko
+Berat Djimsiti,78,CB,https://ui-avatars.com/api/?name=Berat+Djimsiti&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Berat+Djimsiti
+Beto,78,ST,https://ui-avatars.com/api/?name=Beto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Beto
+Borja Mayoral,78,ST,https://ui-avatars.com/api/?name=Borja+Mayoral&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Borja+Mayoral
+Branco van den Boomen,78,CM,https://ui-avatars.com/api/?name=Branco+van+den+Boomen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Branco+van+den+Boomen
+Brian Brobbey,78,ST,https://ui-avatars.com/api/?name=Brian+Brobbey&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Brian+Brobbey
+Caio Henrique,78,LB,https://ui-avatars.com/api/?name=Caio+Henrique&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Caio+Henrique
+Campaña,78,CM,https://ui-avatars.com/api/?name=Campa%C3%B1a&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Campa%C3%B1a
+Carlos Soler,78,CM,https://ui-avatars.com/api/?name=Carlos+Soler&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Carlos+Soler
+Charles De Ketelaere,78,CAM,https://ui-avatars.com/api/?name=Charles+De+Ketelaere&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Charles+De+Ketelaere
+Cristhian Stuani,78,ST,https://ui-avatars.com/api/?name=Cristhian+Stuani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cristhian+Stuani
+Cucho Hernández,78,ST,https://ui-avatars.com/api/?name=Cucho+Hern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cucho+Hern%C3%A1ndez
+Dan Burn,78,CB,https://ui-avatars.com/api/?name=Dan+Burn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dan+Burn
+Dani Rodríguez,78,LM,https://ui-avatars.com/api/?name=Dani+Rodr%C3%ADguez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dani+Rodr%C3%ADguez
+Danilho Doekhi,78,CB,https://ui-avatars.com/api/?name=Danilho+Doekhi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Danilho+Doekhi
+Davinson Sánchez,78,CB,https://ui-avatars.com/api/?name=Davinson+S%C3%A1nchez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Davinson+S%C3%A1nchez
+De Frutos,78,RM,https://ui-avatars.com/api/?name=De+Frutos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=De+Frutos
+Diego Llorente,78,CB,https://ui-avatars.com/api/?name=Diego+Llorente&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diego+Llorente
+Diego Rico,78,LB,https://ui-avatars.com/api/?name=Diego+Rico&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Diego+Rico
+Djibril Sow,78,CM,https://ui-avatars.com/api/?name=Djibril+Sow&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Djibril+Sow
+Dominic Solanke,78,ST,https://ui-avatars.com/api/?name=Dominic+Solanke&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dominic+Solanke
+Dénes Dibusz,78,GK,https://ui-avatars.com/api/?name=D%C3%A9nes+Dibusz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=D%C3%A9nes+Dibusz
+Edon Zhegrova,78,RM,https://ui-avatars.com/api/?name=Edon+Zhegrova&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edon+Zhegrova
+Emerson,78,LB,https://ui-avatars.com/api/?name=Emerson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emerson
+Emile Smith Rowe,78,LW,https://ui-avatars.com/api/?name=Emile+Smith+Rowe&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emile+Smith+Rowe
+Eric Dier,78,CB,https://ui-avatars.com/api/?name=Eric+Dier&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eric+Dier
+Eric García,78,CB,https://ui-avatars.com/api/?name=Eric+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eric+Garc%C3%ADa
+Erick Sánchez,78,CM,https://ui-avatars.com/api/?name=Erick+S%C3%A1nchez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Erick+S%C3%A1nchez
+Ermedin Demirović,78,CF,https://ui-avatars.com/api/?name=Ermedin+Demirovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ermedin+Demirovi%C4%87
+Evan Ndicka,78,CB,https://ui-avatars.com/api/?name=Evan+Ndicka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Evan+Ndicka
+Federico Gatti,78,CB,https://ui-avatars.com/api/?name=Federico+Gatti&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Federico+Gatti
+Felix Nmecha,78,CM,https://ui-avatars.com/api/?name=Felix+Nmecha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Felix+Nmecha
+Ferdi Kadıoğlu,78,LB,https://ui-avatars.com/api/?name=Ferdi+Kad%C4%B1o%C4%9Flu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ferdi+Kad%C4%B1o%C4%9Flu
+Folarin Balogun,78,ST,https://ui-avatars.com/api/?name=Folarin+Balogun&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Folarin+Balogun
+Fran Beltrán,78,CDM,https://ui-avatars.com/api/?name=Fran+Beltr%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fran+Beltr%C3%A1n
+Fran García,78,LB,https://ui-avatars.com/api/?name=Fran+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fran+Garc%C3%ADa
+Franck Honorat,78,RM,https://ui-avatars.com/api/?name=Franck+Honorat&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Franck+Honorat
+Fredditinho,78,ST,https://ui-avatars.com/api/?name=Fredditinho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fredditinho
+Gabri Veiga,78,CM,https://ui-avatars.com/api/?name=Gabri+Veiga&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabri+Veiga
+Gaetano Castrovilli,78,CM,https://ui-avatars.com/api/?name=Gaetano+Castrovilli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gaetano+Castrovilli
+Galeno,78,LM,https://ui-avatars.com/api/?name=Galeno&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Galeno
+Gaëtan Laborde,78,RW,https://ui-avatars.com/api/?name=Ga%C3%ABtan+Laborde&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ga%C3%ABtan+Laborde
+Gerson Armão,78,LB,https://ui-avatars.com/api/?name=Gerson+Arm%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gerson+Arm%C3%A3o
+Giacomo Raspadori,78,CF,https://ui-avatars.com/api/?name=Giacomo+Raspadori&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giacomo+Raspadori
+Giovanni Reyna,78,RM,https://ui-avatars.com/api/?name=Giovanni+Reyna&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giovanni+Reyna
+Guaita,78,GK,https://ui-avatars.com/api/?name=Guaita&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guaita
+Guillermo Ochoa,78,GK,https://ui-avatars.com/api/?name=Guillermo+Ochoa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guillermo+Ochoa
+Guilson Paiva,78,RM,https://ui-avatars.com/api/?name=Guilson+Paiva&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guilson+Paiva
+Gustavo Cuéllar,78,CDM,https://ui-avatars.com/api/?name=Gustavo+Cu%C3%A9llar&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gustavo+Cu%C3%A9llar
+Hediselton,78,RB,https://ui-avatars.com/api/?name=Hediselton&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hediselton
+Hiroki Ito,78,CB,https://ui-avatars.com/api/?name=Hiroki+Ito&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hiroki+Ito
+Hwang Hee Chan,78,LW,https://ui-avatars.com/api/?name=Hwang+Hee+Chan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hwang+Hee+Chan
+Héctor Herrera,78,CM,https://ui-avatars.com/api/?name=H%C3%A9ctor+Herrera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=H%C3%A9ctor+Herrera
+Ismaily,78,LB,https://ui-avatars.com/api/?name=Ismaily&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ismaily
+Jacob Ramsey,78,LM,https://ui-avatars.com/api/?name=Jacob+Ramsey&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jacob+Ramsey
+Janis Blaswich,78,GK,https://ui-avatars.com/api/?name=Janis+Blaswich&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Janis+Blaswich
+Jarrad Branthwaite,78,CB,https://ui-avatars.com/api/?name=Jarrad+Branthwaite&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jarrad+Branthwaite
+Jason Bardeira,78,ST,https://ui-avatars.com/api/?name=Jason+Bardeira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jason+Bardeira
+Jean Butez,78,GK,https://ui-avatars.com/api/?name=Jean+Butez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jean+Butez
+Jefferson Lerma,78,CDM,https://ui-avatars.com/api/?name=Jefferson+Lerma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jefferson+Lerma
+Joan Jordán,78,CM,https://ui-avatars.com/api/?name=Joan+Jord%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joan+Jord%C3%A1n
+Joe Willock,78,CM,https://ui-avatars.com/api/?name=Joe+Willock&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joe+Willock
+Johan Bakayoko,78,RW,https://ui-avatars.com/api/?name=Johan+Bakayoko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Johan+Bakayoko
+Jonas Wind,78,ST,https://ui-avatars.com/api/?name=Jonas+Wind&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonas+Wind
+Jonathan Gradit,78,CB,https://ui-avatars.com/api/?name=Jonathan+Gradit&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Gradit
+Jonatão Praz,78,LW,https://ui-avatars.com/api/?name=Jonat%C3%A3o+Praz&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonat%C3%A3o+Praz
+Joseph Aidoo,78,CB,https://ui-avatars.com/api/?name=Joseph+Aidoo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joseph+Aidoo
+Josip Šutalo,78,CB,https://ui-avatars.com/api/?name=Josip+%C5%A0utalo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Josip+%C5%A0utalo
+Joël Veltman,78,RB,https://ui-avatars.com/api/?name=Jo%C3%ABl+Veltman&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%ABl+Veltman
+Juanmi,78,LM,https://ui-avatars.com/api/?name=Juanmi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juanmi
+Julian Quiñones,78,CF,https://ui-avatars.com/api/?name=Julian+Qui%C3%B1ones&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Julian+Qui%C3%B1ones
+Julian Ryerson,78,RB,https://ui-avatars.com/api/?name=Julian+Ryerson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Julian+Ryerson
+Junya Ito,78,RW,https://ui-avatars.com/api/?name=Junya+Ito&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Junya+Ito
+Justin Bijlow,78,GK,https://ui-avatars.com/api/?name=Justin+Bijlow&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Justin+Bijlow
+Kerem Demirbay,78,CM,https://ui-avatars.com/api/?name=Kerem+Demirbay&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kerem+Demirbay
+Kevin Kampl,78,CM,https://ui-avatars.com/api/?name=Kevin+Kampl&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kevin+Kampl
+Khéphren Thuram,78,CM,https://ui-avatars.com/api/?name=Kh%C3%A9phren+Thuram&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kh%C3%A9phren+Thuram
+Kiernan Dewsbury-Hall,78,CM,https://ui-avatars.com/api/?name=Kiernan+Dewsbury-Hall&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kiernan+Dewsbury-Hall
+Kodjo Fo-Doh Laba,78,ST,https://ui-avatars.com/api/?name=Kodjo+Fo-Doh+Laba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kodjo+Fo-Doh+Laba
+Konstantinos Mavropanos,78,CB,https://ui-avatars.com/api/?name=Konstantinos+Mavropanos&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Konstantinos+Mavropanos
+Leandro Paredes,78,CM,https://ui-avatars.com/api/?name=Leandro+Paredes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leandro+Paredes
+Leonardo Balerdi,78,CB,https://ui-avatars.com/api/?name=Leonardo+Balerdi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leonardo+Balerdi
+Levi García,78,ST,https://ui-avatars.com/api/?name=Levi+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Levi+Garc%C3%ADa
+Lewis Ferguson,78,CAM,https://ui-avatars.com/api/?name=Lewis+Ferguson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lewis+Ferguson
+Lovro Majer,78,CM,https://ui-avatars.com/api/?name=Lovro+Majer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lovro+Majer
+Luis Sinisterra,78,LM,https://ui-avatars.com/api/?name=Luis+Sinisterra&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luis+Sinisterra
+Luka Jović,78,ST,https://ui-avatars.com/api/?name=Luka+Jovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luka+Jovi%C4%87
+Lukáš Haraslín,78,LW,https://ui-avatars.com/api/?name=Luk%C3%A1%C5%A1+Harasl%C3%ADn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Luk%C3%A1%C5%A1+Harasl%C3%ADn
+M'Bala Nzola,78,ST,https://ui-avatars.com/api/?name=M%27Bala+Nzola&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=M%27Bala+Nzola
+Malo Gusto,78,RB,https://ui-avatars.com/api/?name=Malo+Gusto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Malo+Gusto
+Manuel Riemann,78,GK,https://ui-avatars.com/api/?name=Manuel+Riemann&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Manuel+Riemann
+Marc Bartra,78,CB,https://ui-avatars.com/api/?name=Marc+Bartra&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marc+Bartra
+Marc Guéhi,78,CB,https://ui-avatars.com/api/?name=Marc+Gu%C3%A9hi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marc+Gu%C3%A9hi
+Marcelo Grohe,78,GK,https://ui-avatars.com/api/?name=Marcelo+Grohe&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcelo+Grohe
+Marcin Bułka,78,GK,https://ui-avatars.com/api/?name=Marcin+Bu%C5%82ka&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcin+Bu%C5%82ka
+Marco Bizot,78,GK,https://ui-avatars.com/api/?name=Marco+Bizot&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marco+Bizot
+Marco Silvestri,78,GK,https://ui-avatars.com/api/?name=Marco+Silvestri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marco+Silvestri
+Marcos Alonso,78,LB,https://ui-avatars.com/api/?name=Marcos+Alonso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marcos+Alonso
+Marcão,78,CB,https://ui-avatars.com/api/?name=Marc%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marc%C3%A3o
+Marko Dmitrović,78,GK,https://ui-avatars.com/api/?name=Marko+Dmitrovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marko+Dmitrovi%C4%87
+Marvin Schwäbe,78,GK,https://ui-avatars.com/api/?name=Marvin+Schw%C3%A4be&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Marvin+Schw%C3%A4be
+Mason Greenwood,78,RM,https://ui-avatars.com/api/?name=Mason+Greenwood&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mason+Greenwood
+Matheus Reis,78,CB,https://ui-avatars.com/api/?name=Matheus+Reis&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matheus+Reis
+Mathew Ryan,78,GK,https://ui-avatars.com/api/?name=Mathew+Ryan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mathew+Ryan
+Mats Wieffer,78,CDM,https://ui-avatars.com/api/?name=Mats+Wieffer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mats+Wieffer
+Matt O'Riley,78,CM,https://ui-avatars.com/api/?name=Matt+O%27Riley&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matt+O%27Riley
+Matteo Pessina,78,CM,https://ui-avatars.com/api/?name=Matteo+Pessina&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Matteo+Pessina
+Maxime Lopez,78,CM,https://ui-avatars.com/api/?name=Maxime+Lopez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Maxime+Lopez
+Maximilian Mittelstädt,78,LB,https://ui-avatars.com/api/?name=Maximilian+Mittelst%C3%A4dt&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Maximilian+Mittelst%C3%A4dt
+Mergim Berisha,78,ST,https://ui-avatars.com/api/?name=Mergim+Berisha&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mergim+Berisha
+Michael Gregoritsch,78,ST,https://ui-avatars.com/api/?name=Michael+Gregoritsch&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Michael+Gregoritsch
+Michail Antonio,78,ST,https://ui-avatars.com/api/?name=Michail+Antonio&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Michail+Antonio
+Miranda,78,LB,https://ui-avatars.com/api/?name=Miranda&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Miranda
+Moise Kean,78,ST,https://ui-avatars.com/api/?name=Moise+Kean&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Moise+Kean
+Moncayola,78,CM,https://ui-avatars.com/api/?name=Moncayola&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Moncayola
+Morales,78,ST,https://ui-avatars.com/api/?name=Morales&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Morales
+Morgan Gibbs-White,78,CAM,https://ui-avatars.com/api/?name=Morgan+Gibbs-White&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Morgan+Gibbs-White
+Mykola Shaparenko,78,CM,https://ui-avatars.com/api/?name=Mykola+Shaparenko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Mykola+Shaparenko
+Nabil Bentaleb,78,CDM,https://ui-avatars.com/api/?name=Nabil+Bentaleb&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nabil+Bentaleb
+Nemanja Maksimović,78,CM,https://ui-avatars.com/api/?name=Nemanja+Maksimovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nemanja+Maksimovi%C4%87
+Neto,78,GK,https://ui-avatars.com/api/?name=Neto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Neto
+Nicolas Jackson,78,ST,https://ui-avatars.com/api/?name=Nicolas+Jackson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicolas+Jackson
+Nicolas Pépé,78,RM,https://ui-avatars.com/api/?name=Nicolas+P%C3%A9p%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicolas+P%C3%A9p%C3%A9
+Nicolás Tagliafico,78,LB,https://ui-avatars.com/api/?name=Nicol%C3%A1s+Tagliafico&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%A1s+Tagliafico
+Nicolò Casale,78,CB,https://ui-avatars.com/api/?name=Nicol%C3%B2+Casale&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%B2+Casale
+Nicolò Zaniolo,78,RM,https://ui-avatars.com/api/?name=Nicol%C3%B2+Zaniolo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Nicol%C3%B2+Zaniolo
+Olivier Boscagli,78,CB,https://ui-avatars.com/api/?name=Olivier+Boscagli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Olivier+Boscagli
+Omar Marmoush,78,ST,https://ui-avatars.com/api/?name=Omar+Marmoush&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Omar+Marmoush
+Ousmane Diomande,78,CB,https://ui-avatars.com/api/?name=Ousmane+Diomande&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ousmane+Diomande
+Pape Matar Sarr,78,CM,https://ui-avatars.com/api/?name=Pape+Matar+Sarr&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pape+Matar+Sarr
+Patrick Ciurria,78,RM,https://ui-avatars.com/api/?name=Patrick+Ciurria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Patrick+Ciurria
+Paulinho,78,ST,https://ui-avatars.com/api/?name=Paulinho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Paulinho
+Pedraza,78,LB,https://ui-avatars.com/api/?name=Pedraza&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedraza
+Pedro,78,RW,https://ui-avatars.com/api/?name=Pedro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedro
+Pedrão Tofico,78,CB,https://ui-avatars.com/api/?name=Pedr%C3%A3o+Tofico&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pedr%C3%A3o+Tofico
+Pierre Kalulu,78,CB,https://ui-avatars.com/api/?name=Pierre+Kalulu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pierre+Kalulu
+Pierre Lees-Melou,78,CDM,https://ui-avatars.com/api/?name=Pierre+Lees-Melou&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Pierre+Lees-Melou
+Predrag Rajković,78,GK,https://ui-avatars.com/api/?name=Predrag+Rajkovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Predrag+Rajkovi%C4%87
+Przemysław Frankowski,78,RWB,https://ui-avatars.com/api/?name=Przemys%C5%82aw+Frankowski&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Przemys%C5%82aw+Frankowski
+Ramy Bensebaini,78,LB,https://ui-avatars.com/api/?name=Ramy+Bensebaini&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ramy+Bensebaini
+Rasmus Højlund,78,ST,https://ui-avatars.com/api/?name=Rasmus+H%C3%B8jlund&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rasmus+H%C3%B8jlund
+Rayan Aït-Nouri,78,LWB,https://ui-avatars.com/api/?name=Rayan+A%C3%AFt-Nouri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rayan+A%C3%AFt-Nouri
+Renan Lodi,78,LB,https://ui-avatars.com/api/?name=Renan+Lodi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Renan+Lodi
+Renato Sanches,78,CM,https://ui-avatars.com/api/?name=Renato+Sanches&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Renato+Sanches
+Riquelme,78,LM,https://ui-avatars.com/api/?name=Riquelme&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Riquelme
+Roberto Pereyra,78,CM,https://ui-avatars.com/api/?name=Roberto+Pereyra&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Roberto+Pereyra
+Rodrigo Becão,78,CB,https://ui-avatars.com/api/?name=Rodrigo+Bec%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rodrigo+Bec%C3%A3o
+Romain Del Castillo,78,RW,https://ui-avatars.com/api/?name=Romain+Del+Castillo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Romain+Del+Castillo
+Romain Saïss,78,CB,https://ui-avatars.com/api/?name=Romain+Sa%C3%AFss&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Romain+Sa%C3%AFss
+Roman Bürki,78,GK,https://ui-avatars.com/api/?name=Roman+B%C3%BCrki&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Roman+B%C3%BCrki
+Rubén García,78,RM,https://ui-avatars.com/api/?name=Rub%C3%A9n+Garc%C3%ADa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Rub%C3%A9n+Garc%C3%ADa
+Sam Johnstone,78,GK,https://ui-avatars.com/api/?name=Sam+Johnstone&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sam+Johnstone
+Saïd Benrahma,78,LW,https://ui-avatars.com/api/?name=Sa%C3%AFd+Benrahma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sa%C3%AFd+Benrahma
+Scott McTominay,78,CDM,https://ui-avatars.com/api/?name=Scott+McTominay&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Scott+McTominay
+Sebastián Driussi,78,CAM,https://ui-avatars.com/api/?name=Sebasti%C3%A1n+Driussi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sebasti%C3%A1n+Driussi
+Sergio Herrera,78,GK,https://ui-avatars.com/api/?name=Sergio+Herrera&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergio+Herrera
+Sergio Romero,78,GK,https://ui-avatars.com/api/?name=Sergio+Romero&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergio+Romero
+Sergiño Dest,78,LB,https://ui-avatars.com/api/?name=Sergi%C3%B1o+Dest&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Sergi%C3%B1o+Dest
+Stefan Posch,78,RB,https://ui-avatars.com/api/?name=Stefan+Posch&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stefan+Posch
+Stefano Sensi,78,CM,https://ui-avatars.com/api/?name=Stefano+Sensi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Stefano+Sensi
+Steven Bergwijn,78,LW,https://ui-avatars.com/api/?name=Steven+Bergwijn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Steven+Bergwijn
+Takehiro Tomiyasu,78,RB,https://ui-avatars.com/api/?name=Takehiro+Tomiyasu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Takehiro+Tomiyasu
+Trincão,78,RW,https://ui-avatars.com/api/?name=Trinc%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Trinc%C3%A3o
+Victor Nelsson,78,CB,https://ui-avatars.com/api/?name=Victor+Nelsson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Victor+Nelsson
+Vladimír Coufal,78,RB,https://ui-avatars.com/api/?name=Vladim%C3%ADr+Coufal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Vladim%C3%ADr+Coufal
+Wellington Sabrão,78,RB,https://ui-avatars.com/api/?name=Wellington+Sabr%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wellington+Sabr%C3%A3o
+Wesley Fofana,78,CB,https://ui-avatars.com/api/?name=Wesley+Fofana&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wesley+Fofana
+Weston McKennie,78,CM,https://ui-avatars.com/api/?name=Weston+McKennie&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Weston+McKennie
+Wilfried Singo,78,CB,https://ui-avatars.com/api/?name=Wilfried+Singo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Wilfried+Singo
+Willian Pacho,78,CB,https://ui-avatars.com/api/?name=Willian+Pacho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Willian+Pacho
+Yan Couto,78,RB,https://ui-avatars.com/api/?name=Yan+Couto&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yan+Couto
+Yvon Mvogo,78,GK,https://ui-avatars.com/api/?name=Yvon+Mvogo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Yvon+Mvogo
+Zervandro,78,CB,https://ui-avatars.com/api/?name=Zervandro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Zervandro
+İrfan Can Kahveci,78,RW,https://ui-avatars.com/api/?name=%C4%B0rfan+Can+Kahveci&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=%C4%B0rfan+Can+Kahveci
+Abderrazak Hamdallah,77,ST,https://ui-avatars.com/api/?name=Abderrazak+Hamdallah&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Abderrazak+Hamdallah
+Adnan Januzaj,77,RW,https://ui-avatars.com/api/?name=Adnan+Januzaj&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adnan+Januzaj
+Adrien Truffert,77,LB,https://ui-avatars.com/api/?name=Adrien+Truffert&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Adrien+Truffert
+Aitor,77,GK,https://ui-avatars.com/api/?name=Aitor&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aitor
+Aitor Paredes,77,CB,https://ui-avatars.com/api/?name=Aitor+Paredes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aitor+Paredes
+Akram Afif,77,LM,https://ui-avatars.com/api/?name=Akram+Afif&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Akram+Afif
+Alan Varela,77,CDM,https://ui-avatars.com/api/?name=Alan+Varela&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alan+Varela
+Alassane Plea,77,CAM,https://ui-avatars.com/api/?name=Alassane+Plea&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alassane+Plea
+Alban Lafont,77,GK,https://ui-avatars.com/api/?name=Alban+Lafont&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alban+Lafont
+Alejandro Garnacho,77,LM,https://ui-avatars.com/api/?name=Alejandro+Garnacho&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alejandro+Garnacho
+Alex Iwobi,77,RM,https://ui-avatars.com/api/?name=Alex+Iwobi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alex+Iwobi
+Alex Sandro,77,CB,https://ui-avatars.com/api/?name=Alex+Sandro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alex+Sandro
+Alexander Djiku,77,CB,https://ui-avatars.com/api/?name=Alexander+Djiku&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Alexander+Djiku
+Amadou Onana,77,CDM,https://ui-avatars.com/api/?name=Amadou+Onana&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Amadou+Onana
+Amine Adli,77,ST,https://ui-avatars.com/api/?name=Amine+Adli&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Amine+Adli
+Anastasios Bakasetas,77,CAM,https://ui-avatars.com/api/?name=Anastasios+Bakasetas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anastasios+Bakasetas
+Andeson Trigo,77,LB,https://ui-avatars.com/api/?name=Andeson+Trigo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andeson+Trigo
+Andre Blake,77,GK,https://ui-avatars.com/api/?name=Andre+Blake&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andre+Blake
+Andrea Cambiaso,77,LWB,https://ui-avatars.com/api/?name=Andrea+Cambiaso&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrea+Cambiaso
+Andreas Pereira,77,CAM,https://ui-avatars.com/api/?name=Andreas+Pereira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andreas+Pereira
+Andrija Živković,77,RW,https://ui-avatars.com/api/?name=Andrija+%C5%BDivkovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Andrija+%C5%BDivkovi%C4%87
+Ansu Fati,77,LM,https://ui-avatars.com/api/?name=Ansu+Fati&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ansu+Fati
+Ante Budimir,77,ST,https://ui-avatars.com/api/?name=Ante+Budimir&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ante+Budimir
+Anthony Martial,77,ST,https://ui-avatars.com/api/?name=Anthony+Martial&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anthony+Martial
+Anthony Nwakaeme,77,ST,https://ui-avatars.com/api/?name=Anthony+Nwakaeme&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anthony+Nwakaeme
+Anton Stach,77,CM,https://ui-avatars.com/api/?name=Anton+Stach&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Anton+Stach
+Arda Güler,77,CAM,https://ui-avatars.com/api/?name=Arda+G%C3%BCler&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arda+G%C3%BCler
+Arnaut Danjuma,77,ST,https://ui-avatars.com/api/?name=Arnaut+Danjuma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arnaut+Danjuma
+Arthur Theate,77,CB,https://ui-avatars.com/api/?name=Arthur+Theate&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arthur+Theate
+Arturo Vidal,77,CM,https://ui-avatars.com/api/?name=Arturo+Vidal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Arturo+Vidal
+Aschraf El Mahdioui,77,CDM,https://ui-avatars.com/api/?name=Aschraf+El+Mahdioui&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Aschraf+El+Mahdioui
+Baptiste Santamaria,77,CDM,https://ui-avatars.com/api/?name=Baptiste+Santamaria&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Baptiste+Santamaria
+Ben Davies,77,CB,https://ui-avatars.com/api/?name=Ben+Davies&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ben+Davies
+Benjamin Lecomte,77,GK,https://ui-avatars.com/api/?name=Benjamin+Lecomte&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Benjamin+Lecomte
+Benoît Badiashile,77,CB,https://ui-avatars.com/api/?name=Beno%C3%AEt+Badiashile&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Beno%C3%AEt+Badiashile
+Borna Sosa,77,LB,https://ui-avatars.com/api/?name=Borna+Sosa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Borna+Sosa
+Bradley Locko,77,LB,https://ui-avatars.com/api/?name=Bradley+Locko&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bradley+Locko
+Breel Embolo,77,ST,https://ui-avatars.com/api/?name=Breel+Embolo&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Breel+Embolo
+Brennan Johnson,77,RW,https://ui-avatars.com/api/?name=Brennan+Johnson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Brennan+Johnson
+Bruma,77,LM,https://ui-avatars.com/api/?name=Bruma&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bruma
+Bruno Petković,77,ST,https://ui-avatars.com/api/?name=Bruno+Petkovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bruno+Petkovi%C4%87
+Bryan Gil,77,LW,https://ui-avatars.com/api/?name=Bryan+Gil&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bryan+Gil
+Bryan Heynen,77,CM,https://ui-avatars.com/api/?name=Bryan+Heynen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Bryan+Heynen
+Calvin Stengs,77,CAM,https://ui-avatars.com/api/?name=Calvin+Stengs&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Calvin+Stengs
+Cameron Carter-Vickers,77,CB,https://ui-avatars.com/api/?name=Cameron+Carter-Vickers&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cameron+Carter-Vickers
+Cameron Puertas,77,CM,https://ui-avatars.com/api/?name=Cameron+Puertas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cameron+Puertas
+Cengiz Ünder,77,RW,https://ui-avatars.com/api/?name=Cengiz+%C3%9Cnder&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Cengiz+%C3%9Cnder
+Chris Führich,77,LM,https://ui-avatars.com/api/?name=Chris+F%C3%BChrich&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Chris+F%C3%BChrich
+Christian Kouamé,77,ST,https://ui-avatars.com/api/?name=Christian+Kouam%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Christian+Kouam%C3%A9
+Claudio Coíntra,77,CAM,https://ui-avatars.com/api/?name=Claudio+Co%C3%ADntra&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Claudio+Co%C3%ADntra
+Craig Dawson,77,CB,https://ui-avatars.com/api/?name=Craig+Dawson&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Craig+Dawson
+César Montes,77,CB,https://ui-avatars.com/api/?name=C%C3%A9sar+Montes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=C%C3%A9sar+Montes
+Dakonam Djené,77,CB,https://ui-avatars.com/api/?name=Dakonam+Djen%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dakonam+Djen%C3%A9
+Dan-Axel Zagadou,77,CB,https://ui-avatars.com/api/?name=Dan-Axel+Zagadou&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dan-Axel+Zagadou
+Danilo Cataldi,77,CDM,https://ui-avatars.com/api/?name=Danilo+Cataldi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Danilo+Cataldi
+Darwin Machís,77,LM,https://ui-avatars.com/api/?name=Darwin+Mach%C3%ADs&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Darwin+Mach%C3%ADs
+Demarai Gray,77,LM,https://ui-avatars.com/api/?name=Demarai+Gray&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Demarai+Gray
+Dodô,77,RB,https://ui-avatars.com/api/?name=Dod%C3%B4&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dod%C3%B4
+Dominic Calvert-Lewin,77,ST,https://ui-avatars.com/api/?name=Dominic+Calvert-Lewin&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dominic+Calvert-Lewin
+Dwight McNeil,77,LM,https://ui-avatars.com/api/?name=Dwight+McNeil&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Dwight+McNeil
+Edinson Cavani,77,ST,https://ui-avatars.com/api/?name=Edinson+Cavani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Edinson+Cavani
+Elye Wahi,77,ST,https://ui-avatars.com/api/?name=Elye+Wahi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Elye+Wahi
+Emerson Royal,77,RB,https://ui-avatars.com/api/?name=Emerson+Royal&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Emerson+Royal
+Enzo Chissano,77,LB,https://ui-avatars.com/api/?name=Enzo+Chissano&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Enzo+Chissano
+Enzo Le Fée,77,CM,https://ui-avatars.com/api/?name=Enzo+Le+F%C3%A9e&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Enzo+Le+F%C3%A9e
+Eric Maxim Choupo-Moting,77,ST,https://ui-avatars.com/api/?name=Eric+Maxim+Choupo-Moting&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Eric+Maxim+Choupo-Moting
+Esequiel Barco,77,CAM,https://ui-avatars.com/api/?name=Esequiel+Barco&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Esequiel+Barco
+Fabiano Parisi,77,LB,https://ui-avatars.com/api/?name=Fabiano+Parisi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fabiano+Parisi
+Fayçal Fajr,77,CM,https://ui-avatars.com/api/?name=Fay%C3%A7al+Fajr&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Fay%C3%A7al+Fajr
+Federico Bernardeschi,77,RW,https://ui-avatars.com/api/?name=Federico+Bernardeschi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Federico+Bernardeschi
+Florian Lejeune,77,CB,https://ui-avatars.com/api/?name=Florian+Lejeune&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Florian+Lejeune
+Florian Neuhaus,77,CM,https://ui-avatars.com/api/?name=Florian+Neuhaus&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Florian+Neuhaus
+Florian Sotoca,77,CF,https://ui-avatars.com/api/?name=Florian+Sotoca&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Florian+Sotoca
+Francisco Conceição,77,RM,https://ui-avatars.com/api/?name=Francisco+Concei%C3%A7%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Francisco+Concei%C3%A7%C3%A3o
+Franco Armani,77,GK,https://ui-avatars.com/api/?name=Franco+Armani&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Franco+Armani
+Fábio Vieira,77,CAM,https://ui-avatars.com/api/?name=F%C3%A1bio+Vieira&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=F%C3%A1bio+Vieira
+Gabriel Paulista,77,CB,https://ui-avatars.com/api/?name=Gabriel+Paulista&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gabriel+Paulista
+Gedson Fernandes,77,CM,https://ui-avatars.com/api/?name=Gedson+Fernandes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gedson+Fernandes
+Germán Pezzella,77,CB,https://ui-avatars.com/api/?name=Germ%C3%A1n+Pezzella&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Germ%C3%A1n+Pezzella
+Ghislain Konan,77,LB,https://ui-avatars.com/api/?name=Ghislain+Konan&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ghislain+Konan
+Giorgio Scalvini,77,CB,https://ui-avatars.com/api/?name=Giorgio+Scalvini&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giorgio+Scalvini
+Giovanni Simeone,77,ST,https://ui-avatars.com/api/?name=Giovanni+Simeone&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Giovanni+Simeone
+Gonzalo Escalante,77,CM,https://ui-avatars.com/api/?name=Gonzalo+Escalante&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gonzalo+Escalante
+Gonzalo Montiel,77,RB,https://ui-avatars.com/api/?name=Gonzalo+Montiel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gonzalo+Montiel
+Gonçalo Guedes,77,ST,https://ui-avatars.com/api/?name=Gon%C3%A7alo+Guedes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Gon%C3%A7alo+Guedes
+Grischa Prömel,77,CM,https://ui-avatars.com/api/?name=Grischa+Pr%C3%B6mel&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Grischa+Pr%C3%B6mel
+Guillermo Maripán,77,CB,https://ui-avatars.com/api/?name=Guillermo+Marip%C3%A1n&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Guillermo+Marip%C3%A1n
+Hans Hateboer,77,RWB,https://ui-avatars.com/api/?name=Hans+Hateboer&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hans+Hateboer
+Harvey Elliott,77,CAM,https://ui-avatars.com/api/?name=Harvey+Elliott&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Harvey+Elliott
+Hugo Duro,77,ST,https://ui-avatars.com/api/?name=Hugo+Duro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Hugo+Duro
+Héctor Bellerín,77,RB,https://ui-avatars.com/api/?name=H%C3%A9ctor+Beller%C3%ADn&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=H%C3%A9ctor+Beller%C3%ADn
+Ian Maatsen,77,LB,https://ui-avatars.com/api/?name=Ian+Maatsen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ian+Maatsen
+Ignacio Fernández,77,CAM,https://ui-avatars.com/api/?name=Ignacio+Fern%C3%A1ndez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ignacio+Fern%C3%A1ndez
+Igor Paixão,77,LW,https://ui-avatars.com/api/?name=Igor+Paix%C3%A3o&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Igor+Paix%C3%A3o
+Illarramendi,77,CM,https://ui-avatars.com/api/?name=Illarramendi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Illarramendi
+Isak Hien,77,CB,https://ui-avatars.com/api/?name=Isak+Hien&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Isak+Hien
+Issa Diop,77,CB,https://ui-avatars.com/api/?name=Issa+Diop&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Issa+Diop
+Ivan Ilić,77,CM,https://ui-avatars.com/api/?name=Ivan+Ili%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ivan+Ili%C4%87
+Ivan Perišić,77,LW,https://ui-avatars.com/api/?name=Ivan+Peri%C5%A1i%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ivan+Peri%C5%A1i%C4%87
+Iván Balliu,77,RB,https://ui-avatars.com/api/?name=Iv%C3%A1n+Balliu&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Iv%C3%A1n+Balliu
+Jadsinho Mei,77,CDM,https://ui-avatars.com/api/?name=Jadsinho+Mei&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jadsinho+Mei
+James Milner,77,CM,https://ui-avatars.com/api/?name=James+Milner&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=James+Milner
+Jamie Vardy,77,ST,https://ui-avatars.com/api/?name=Jamie+Vardy&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jamie+Vardy
+Jan-Niklas Beste,77,LM,https://ui-avatars.com/api/?name=Jan-Niklas+Beste&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jan-Niklas+Beste
+Jasper Cillessen,77,GK,https://ui-avatars.com/api/?name=Jasper+Cillessen&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jasper+Cillessen
+Jaume Costa,77,LWB,https://ui-avatars.com/api/?name=Jaume+Costa&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jaume+Costa
+Jeremiah St. Juste,77,CB,https://ui-avatars.com/api/?name=Jeremiah+St.+Juste&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jeremiah+St.+Juste
+Joakim Mæhle,77,LB,https://ui-avatars.com/api/?name=Joakim+M%C3%A6hle&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Joakim+M%C3%A6hle
+Johan Mojica,77,LB,https://ui-avatars.com/api/?name=Johan+Mojica&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Johan+Mojica
+Jonathan Bamba,77,LM,https://ui-avatars.com/api/?name=Jonathan+Bamba&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Bamba
+Jonathan Ikoné,77,RW,https://ui-avatars.com/api/?name=Jonathan+Ikon%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Ikon%C3%A9
+Jonathan Rodríguez,77,ST,https://ui-avatars.com/api/?name=Jonathan+Rodr%C3%ADguez&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jonathan+Rodr%C3%ADguez
+Jordan Teze,77,RB,https://ui-avatars.com/api/?name=Jordan+Teze&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jordan+Teze
+Josip Juranović,77,RWB,https://ui-avatars.com/api/?name=Josip+Juranovi%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Josip+Juranovi%C4%87
+Josip Stanišić,77,RWB,https://ui-avatars.com/api/?name=Josip+Stani%C5%A1i%C4%87&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Josip+Stani%C5%A1i%C4%87
+João Gomes,77,CDM,https://ui-avatars.com/api/?name=Jo%C3%A3o+Gomes&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%A3o+Gomes
+João Neves,77,CM,https://ui-avatars.com/api/?name=Jo%C3%A3o+Neves&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Jo%C3%A3o+Neves
+Juan Bernat,77,LB,https://ui-avatars.com/api/?name=Juan+Bernat&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juan+Bernat
+Juan Fernando Quintero,77,CAM,https://ui-avatars.com/api/?name=Juan+Fernando+Quintero&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Juan+Fernando+Quintero
+Junior Messias,77,RM,https://ui-avatars.com/api/?name=Junior+Messias&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Junior+Messias
+Justin Kluivert,77,RM,https://ui-avatars.com/api/?name=Justin+Kluivert&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Justin+Kluivert
+Jérémie Boga,77,LW,https://ui-avatars.com/api/?name=J%C3%A9r%C3%A9mie+Boga&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=J%C3%A9r%C3%A9mie+Boga
+Kalvin Phillips,77,CDM,https://ui-avatars.com/api/?name=Kalvin+Phillips&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kalvin+Phillips
+Kenny Tete,77,RB,https://ui-avatars.com/api/?name=Kenny+Tete&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kenny+Tete
+Kirian,77,CM,https://ui-avatars.com/api/?name=Kirian&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kirian
+Kiril Despodov,77,RM,https://ui-avatars.com/api/?name=Kiril+Despodov&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kiril+Despodov
+Konstantinos Tsimikas,77,LB,https://ui-avatars.com/api/?name=Konstantinos+Tsimikas&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Konstantinos+Tsimikas
+Kyogo Furuhashi,77,ST,https://ui-avatars.com/api/?name=Kyogo+Furuhashi&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Kyogo+Furuhashi
+Ladislav Krejčí,77,CB,https://ui-avatars.com/api/?name=Ladislav+Krej%C4%8D%C3%AD&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Ladislav+Krej%C4%8D%C3%AD
+Leander Baia,77,RB,https://ui-avatars.com/api/?name=Leander+Baia&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leander+Baia
+Lekue,77,RB,https://ui-avatars.com/api/?name=Lekue&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lekue
+Leny Yoro,77,CB,https://ui-avatars.com/api/?name=Leny+Yoro&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Leny+Yoro
+Lorenzo Montipò,77,GK,https://ui-avatars.com/api/?name=Lorenzo+Montip%C3%B2&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lorenzo+Montip%C3%B2
+Loïc Badé,77,CB,https://ui-avatars.com/api/?name=Lo%C3%AFc+Bad%C3%A9&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lo%C3%AFc+Bad%C3%A9
+Lucas Martínez Quarta,77,CB,https://ui-avatars.com/api/?name=Lucas+Mart%C3%ADnez+Quarta&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Mart%C3%ADnez+Quarta
+Lucas Perri,77,GK,https://ui-avatars.com/api/?name=Lucas+Perri&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Perri
+Lucas Torró,77,CDM,https://ui-avatars.com/api/?name=Lucas+Torr%C3%B3&rounded=true&background=random&size=256&format=png,https://www.futbin.com/search?query=Lucas+Torr%C3%B3
