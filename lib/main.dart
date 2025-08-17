@@ -38,15 +38,42 @@ class Player {
   }
 }
 
-// Simple avatar URL service
-String avatarUrl(String name) {
-  final n = Uri.encodeComponent(name.trim());
-  return 'https://ui-avatars.com/api/?name=$n&size=256&background=random';
+/* ---------------- DiceBear avatar helpers ---------------- */
+
+String dicebearUrl(String name) {
+  final seed = Uri.encodeComponent(name.trim());
+  // initials sprite, rounded corners, crisp PNG, gradient background
+  return 'https://api.dicebear.com/7.x/initials/png?seed=$seed&radius=50&backgroundType=gradientLinear';
 }
 
-/// --- FUTBIN LINKS ---
+Widget networkAvatar(String name, {double size = 48}) {
+  final primary = dicebearUrl(name);
+  final fallback = 'https://picsum.photos/seed/${Uri.encodeComponent(name)}/${size.toInt()}';
 
-// Option 1: Simple search
+  return ClipOval(
+    child: Image.network(
+      primary,
+      width: size,
+      height: size,
+      fit: BoxFit.cover,
+      errorBuilder: (_, __, ___) => Image.network(
+        fallback,
+        width: size,
+        height: size,
+        fit: BoxFit.cover,
+        errorBuilder: (_, __2, ___2) => CircleAvatar(
+          radius: size / 2,
+          child: Text(
+            name.isNotEmpty ? name.substring(0, 2).toUpperCase() : '?',
+          ),
+        ),
+      ),
+    ),
+  );
+}
+
+/* ---------------- Futbin URL helpers (simple + normalized) ---------------- */
+
 Uri futbinUrlSimple(String name) {
   return Uri.https('www.futbin.com', '/players', {
     'page': '1',
@@ -54,7 +81,6 @@ Uri futbinUrlSimple(String name) {
   });
 }
 
-// Option 2: Normalized search (better for accented names)
 String normalize(String s) {
   final map = {
     'á': 'a','à': 'a','ä': 'a','â': 'a','ã': 'a',
@@ -69,15 +95,11 @@ String normalize(String s) {
 
 Uri futbinUrlNormalized(String name) {
   final q = normalize(name).trim();
-  return Uri.https('www.futbin.com', '/players', {
-    'page': '1',
-    'search': q,
-  });
+  return Uri.https('www.futbin.com', '/players', {'page': '1', 'search': q});
 }
 
-// Single launcher function (swap method here)
 Future<void> openFutbin(String name) async {
-  // 👉 Choose which one you want active:
+  // 👉 Pick which one you want active:
   final url = futbinUrlNormalized(name);
   // final url = futbinUrlSimple(name);
 
@@ -85,6 +107,8 @@ Future<void> openFutbin(String name) async {
     throw Exception('Could not launch $url');
   }
 }
+
+/* ---------------- UI ---------------- */
 
 class PlayerListScreen extends StatefulWidget {
   const PlayerListScreen({super.key});
@@ -147,9 +171,7 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
               decoration: InputDecoration(
                 hintText: 'Search player…',
                 prefixIcon: const Icon(Icons.search),
-                border: OutlineInputBorder(
-                  borderRadius: BorderRadius.circular(12),
-                ),
+                border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
               ),
             ),
           ),
@@ -161,22 +183,7 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
                 return Card(
                   margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                   child: ListTile(
-                    leading: ClipOval(
-                      child: Image.network(
-                        avatarUrl(p.name),
-                        width: 48,
-                        height: 48,
-                        fit: BoxFit.cover,
-                        errorBuilder: (_, __, ___) => CircleAvatar(
-                          radius: 24,
-                          child: Text(
-                            p.name.isNotEmpty
-                                ? p.name.substring(0, 2).toUpperCase()
-                                : '?',
-                          ),
-                        ),
-                      ),
-                    ),
+                    leading: networkAvatar(p.name, size: 48),
                     title: Text(p.name),
                     subtitle: Text('Rating: ${p.rating} · Position: ${p.position}'),
                     trailing: const Icon(Icons.open_in_new),
