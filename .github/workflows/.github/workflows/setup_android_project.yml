@@ -1,0 +1,25 @@
+name: Create Android project
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-android:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.19.0'
+
+      - name: Create Android folder
+        run: |
+          flutter create .
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Add Android folder"
+          git push
