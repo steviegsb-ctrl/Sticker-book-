@@ -3,9 +3,14 @@ name: Create Android project
 on:
   workflow_dispatch:
 
+# Give this workflow permission to push commits back to the repo
+permissions:
+  contents: write
+
 jobs:
   create-android:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -13,20 +18,21 @@ jobs:
       - name: Setup Flutter (stable)
         uses: subosito/flutter-action@v2
         with:
-          channel: 'stable'
-          flutter-version: '3.19.0'
+          channel: stable
+          cache: true
 
       - name: Create Android folder
-        run: flutter create . --project-name fut_sticker_book
-
-      - name: Remove example lib/test (optional cleanup)
         run: |
-          rm -rf lib test
+          flutter --version
+          flutter create .
 
       - name: Commit Android folder
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Add Android folder"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Add android folder via workflow" || echo "Nothing to commit"
+          # Push back to the same branch that triggered the workflow
           git push
