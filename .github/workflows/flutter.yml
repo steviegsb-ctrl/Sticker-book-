@@ -1,23 +1,32 @@
-name: stickerbook_futbin_mvp
-description: A minimal sticker book app
-publish_to: "none"
+name: Build Flutter APK
 
-environment:
-  sdk: ">=3.0.0 <4.0.0"
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
 
-dependencies:
-  flutter:
-    sdk: flutter
-  url_launcher: ^6.3.0
-  shared_preferences: ^2.2.3
-  csv: ^5.1.0
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v3
 
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/players.csv
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          flutter-version: "3.19.6"
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Build APK (debug)
+        run: flutter build apk --debug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: app-apk
+          path: build/app/outputs/flutter-apk/app-debug.apk
