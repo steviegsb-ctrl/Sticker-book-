@@ -58,7 +58,6 @@ class Player {
 
   String get futbinUrl {
     final q = Uri.encodeComponent(name);
-    // Futbin search is reliable without scraping:
     return 'https://www.futbin.com/players?page=1&search=$q';
   }
 }
@@ -67,14 +66,12 @@ class Player {
 
 class AppRepo {
   AppRepo._();
-
   static final AppRepo I = AppRepo._();
 
   List<Player> allPlayers = [];
   Set<String> owned = {};
 
   Future<void> load() async {
-    // Load CSV (expects header: name,rating,position)
     final raw = await rootBundle.loadString('assets/players.csv');
     final lines = const LineSplitter().convert(raw);
     final List<Player> list = [];
@@ -89,7 +86,6 @@ class AppRepo {
     });
     allPlayers = list;
 
-    // Load owned
     final prefs = await SharedPreferences.getInstance();
     owned = (prefs.getStringList('owned') ?? []).toSet();
   }
@@ -206,7 +202,7 @@ class _AppDrawer extends StatelessWidget {
                   AppRepo.I.owned.clear();
                   if (context.mounted) {
                     ScaffoldMessenger.of(context).showSnackBar(const SnackBar(content: Text('Sticker book cleared')));
-                    Navigator.pop(context); // close drawer
+                    Navigator.pop(context);
                   }
                 }
               },
@@ -478,10 +474,8 @@ class _PacksPageState extends State<PacksPage> with SingleTickerProviderStateMix
     });
     _controller.forward(from: 0);
 
-    // Simulate full-screen pack flare
     await Future.delayed(const Duration(milliseconds: 1200));
 
-    // Pick 5 random players (weighted slightly by rating)
     final rng = Random();
     final src = AppRepo.I.allPlayers;
     final List<Player> pool = [];
@@ -504,7 +498,7 @@ class _PacksPageState extends State<PacksPage> with SingleTickerProviderStateMix
         context: context,
         builder: (_) => _PackResultDialog(players: _lastPull),
       );
-      setState(() {}); // refresh sticker book badges in other tabs when back
+      setState(() {});
     }
   }
 
@@ -530,7 +524,6 @@ class _PacksPageState extends State<PacksPage> with SingleTickerProviderStateMix
             ),
           ),
         ),
-        // Full-screen opening animation overlay
         if (_opening)
           AnimatedBuilder(
             animation: _controller,
