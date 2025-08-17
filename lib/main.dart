@@ -1,11 +1,9 @@
-import 'package:flutter/material.dart';
 import 'dart:convert';
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart' show rootBundle;
 import 'package:url_launcher/url_launcher.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -14,9 +12,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'FUT Stickers',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: const Color(0xFF1E1E2C),
         cardColor: const Color(0xFF2A2A3D),
+        inputDecorationTheme: const InputDecorationTheme(
+          filled: true,
+          fillColor: Color(0xFF2A2A3D),
+        ),
       ),
       home: const PlayerListScreen(),
     );
@@ -30,7 +33,7 @@ class Player {
 
   Player({required this.name, required this.rating, required this.position});
 
-  factory Player.fromCsv(List<dynamic> row) {
+  factory Player.fromCsv(List<String> row) {
     return Player(
       name: row[0],
       rating: int.tryParse(row[1]) ?? 0,
@@ -38,6 +41,16 @@ class Player {
     );
   }
 }
+
+// Simple avatar URL (renders initials as an image)
+String avatarUrl(String name) {
+  final n = Uri.encodeComponent(name.trim());
+  return 'https://ui-avatars.com/api/?name=$n&size=256&background=random';
+}
+
+// Futbin search URL
+Uri futbinUrl(String name) =>
+    Uri.parse('https://www.futbin.com/players?q=${Uri.encodeComponent(name)}');
 
 class PlayerListScreen extends StatefulWidget {
   const PlayerListScreen({super.key});
@@ -48,14 +61,14 @@ class PlayerListScreen extends StatefulWidget {
 
 class _PlayerListScreenState extends State<PlayerListScreen> {
   List<Player> players = [];
-  List<Player> filteredPlayers = [];
-  final TextEditingController searchController = TextEditingController();
+  List<Player> filtered = [];
+  final searchController = TextEditingController();
 
   @override
   void initState() {
     super.initState();
-    loadCsv();
-    searchController.addListener(_onSearchChanged);
+    _loadCsv();
+    searchController.addListener(_onSearch);
   }
 
   @override
@@ -64,123 +77,94 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
     super.dispose();
   }
 
-  void _onSearchChanged() {
-    final query = searchController.text.toLowerCase();
+  void _onSearch() {
+    final q = searchController.text.toLowerCase();
     setState(() {
-      filteredPlayers = players.where((p) => p.name.toLowerCase().contains(query)).toList();
+      filtered = players.where((p) => p.name.toLowerCase().contains(q)).toList();
     });
   }
 
-  Future<void> loadCsv() async {
-    final csvData = await rootBundle.loadString('assets/players.csv');
-    final lines = LineSplitter().convert(csvData);
-    players = lines.skip(1).map((line) {
+  Future<void> _loadCsv() async {
+    final raw = await rootBundle.loadString('assets/players.csv');
+    final lines = const LineSplitter().convert(raw);
+    // split safely (our CSV is simple: name,rating,position without embedded commas)
+    final list = <Player>[];
+    for (final line in lines.skip(1)) {
       final parts = line.split(',');
-      return Player.fromCsv(parts);
-    }).toList();
+      if (parts.length >= 3) {
+        list.add(Player.fromCsv(parts));
+      }
+    }
     setState(() {
-      filteredPlayers = players;
+      players = list;
+      filtered = list;
     });
   }
 
-  String _avatarUrl(String name) {
-    // UI Avatars service – generates a face-like avatar with initials
-    final encoded = Uri.encodeComponent(name);
-    return 'https://ui-avatars.com/api/?name=$encoded&background=0D8ABC&color=fff&bold=true&size=128';
+  Future<void> _openLink(Uri url) async {
+    // Force external browser to avoid in-app issues
+    final ok = await launchUrl(url, mode: LaunchMode.externalApplication);
+    if (!ok && mounted) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Could not open link')),
+      );
+    }
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("FUT Stickers")),
+      appBar: AppBar(title: const Text('FUT Stickers')),
       body: Column(
         children: [
           Padding(
-            padding: const EdgeInsets.all(8),
+            padding: const EdgeInsets.all(12),
             child: TextField(
               controller: searchController,
               decoration: InputDecoration(
-                hintText: "Search player...",
+                hintText: 'Search player…',
                 prefixIcon: const Icon(Icons.search),
-                border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
               ),
             ),
           ),
           Expanded(
             child: ListView.builder(
-              itemCount: filteredPlayers.length,
-              itemBuilder: (context, index) {
-                final player = filteredPlayers[index];
-                final url = _avatarUrl(player.name);
+              itemCount: filtered.length,
+              itemBuilder: (_, i) {
+                final p = filtered[i];
                 return Card(
-                  margin: const EdgeInsets.symmetric(vertical: 6, horizontal: 12),
+                  margin: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
                   child: ListTile(
-                    leading: CircleAvatar(
-                      backgroundColor: Colors.transparent,
-                      backgroundImage: NetworkImage(url),
-                      onBackgroundImageError: (_, __) {}, // fallback handled by child below
-                      child: Text(
-                        player.name.isNotEmpty
-                            ? player.name.substring(0, 2).toUpperCase()
-                            : "?",
-                        style: const TextStyle(fontWeight: FontWeight.bold),
+                    leading: ClipOval(
+                      child: Image.network(
+                        avatarUrl(p.name),
+                        width: 48,
+                        height: 48,
+                        fit: BoxFit.cover,
+                        // Fallback to initials if the image fails
+                        errorBuilder: (_, __, ___) => CircleAvatar(
+                          radius: 24,
+                          child: Text(
+                            p.name.isNotEmpty
+                                ? p.name.substring(0, 2).toUpperCase()
+                                : '?',
+                          ),
+                        ),
                       ),
                     ),
-                    title: Text(player.name),
-                    subtitle: Text("Rating: ${player.rating} · Position: ${player.position}"),
-                    trailing: const Icon(Icons.arrow_forward_ios),
-                    onTap: () {
-                      Navigator.push(
-                        context,
-                        MaterialPageRoute(
-                          builder: (_) => PlayerDetailScreen(player: player),
-                        ),
-                      );
-                    },
+                    title: Text(p.name),
+                    subtitle: Text('Rating: ${p.rating} · Position: ${p.position}'),
+                    trailing: const Icon(Icons.open_in_new),
+                    onTap: () => _openLink(futbinUrl(p.name)),
                   ),
                 );
               },
             ),
           ),
         ],
-      ),
-    );
-  }
-}
-
-class PlayerDetailScreen extends StatelessWidget {
-  final Player player;
-  const PlayerDetailScreen({super.key, required this.player});
-
-  Future<void> _openFutbin() async {
-    final url = Uri.parse("https://www.futbin.com/players?q=${Uri.encodeComponent(player.name)}");
-    // Launch in external browser
-    await launchUrl(url, mode: LaunchMode.externalApplication);
-  }
-
-  @override
-  Widget build(BuildContext context) {
-    final avatar = 'https://ui-avatars.com/api/?name=${Uri.encodeComponent(player.name)}&background=0D8ABC&color=fff&bold=true&size=256';
-    return Scaffold(
-      appBar: AppBar(title: Text(player.name)),
-      body: Padding(
-        padding: const EdgeInsets.all(16),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.center,
-          children: [
-            CircleAvatar(radius: 50, backgroundImage: NetworkImage(avatar)),
-            const SizedBox(height: 20),
-            Text(player.name, style: const TextStyle(fontSize: 24, fontWeight: FontWeight.bold)),
-            Text("Rating: ${player.rating}"),
-            Text("Position: ${player.position}"),
-            const SizedBox(height: 20),
-            ElevatedButton.icon(
-              onPressed: _openFutbin,
-              icon: const Icon(Icons.open_in_browser),
-              label: const Text("View on Futbin"),
-            ),
-          ],
-        ),
       ),
     );
   }
