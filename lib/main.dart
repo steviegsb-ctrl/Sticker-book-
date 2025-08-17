@@ -16,10 +16,6 @@ class MyApp extends StatelessWidget {
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: const Color(0xFF1E1E2C),
         cardColor: const Color(0xFF2A2A3D),
-        inputDecorationTheme: const InputDecorationTheme(
-          filled: true,
-          fillColor: Color(0xFF2A2A3D),
-        ),
       ),
       home: const PlayerListScreen(),
     );
@@ -42,15 +38,53 @@ class Player {
   }
 }
 
-// Simple avatar URL (renders initials as an image)
+// Simple avatar URL service
 String avatarUrl(String name) {
   final n = Uri.encodeComponent(name.trim());
   return 'https://ui-avatars.com/api/?name=$n&size=256&background=random';
 }
 
-// Futbin search URL
-Uri futbinUrl(String name) =>
-    Uri.parse('https://www.futbin.com/players?q=${Uri.encodeComponent(name)}');
+/// --- FUTBIN LINKS ---
+
+// Option 1: Simple search
+Uri futbinUrlSimple(String name) {
+  return Uri.https('www.futbin.com', '/players', {
+    'page': '1',
+    'search': name.trim(),
+  });
+}
+
+// Option 2: Normalized search (better for accented names)
+String normalize(String s) {
+  final map = {
+    'á': 'a','à': 'a','ä': 'a','â': 'a','ã': 'a',
+    'é': 'e','è': 'e','ë': 'e','ê': 'e',
+    'í': 'i','ì': 'i','ï': 'i','î': 'i',
+    'ó': 'o','ò': 'o','ö': 'o','ô': 'o','õ': 'o',
+    'ú': 'u','ù': 'u','ü': 'u','û': 'u',
+    'ñ': 'n','ç': 'c','ß': 'ss','ø': 'o','å': 'a'
+  };
+  return s.split('').map((ch) => map[ch] ?? ch).join();
+}
+
+Uri futbinUrlNormalized(String name) {
+  final q = normalize(name).trim();
+  return Uri.https('www.futbin.com', '/players', {
+    'page': '1',
+    'search': q,
+  });
+}
+
+// Single launcher function (swap method here)
+Future<void> openFutbin(String name) async {
+  // 👉 Choose which one you want active:
+  final url = futbinUrlNormalized(name);
+  // final url = futbinUrlSimple(name);
+
+  if (!await launchUrl(url, mode: LaunchMode.externalApplication)) {
+    throw Exception('Could not launch $url');
+  }
+}
 
 class PlayerListScreen extends StatefulWidget {
   const PlayerListScreen({super.key});
@@ -87,7 +121,6 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
   Future<void> _loadCsv() async {
     final raw = await rootBundle.loadString('assets/players.csv');
     final lines = const LineSplitter().convert(raw);
-    // split safely (our CSV is simple: name,rating,position without embedded commas)
     final list = <Player>[];
     for (final line in lines.skip(1)) {
       final parts = line.split(',');
@@ -99,16 +132,6 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
       players = list;
       filtered = list;
     });
-  }
-
-  Future<void> _openLink(Uri url) async {
-    // Force external browser to avoid in-app issues
-    final ok = await launchUrl(url, mode: LaunchMode.externalApplication);
-    if (!ok && mounted) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Could not open link')),
-      );
-    }
   }
 
   @override
@@ -144,7 +167,6 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
                         width: 48,
                         height: 48,
                         fit: BoxFit.cover,
-                        // Fallback to initials if the image fails
                         errorBuilder: (_, __, ___) => CircleAvatar(
                           radius: 24,
                           child: Text(
@@ -158,7 +180,7 @@ class _PlayerListScreenState extends State<PlayerListScreen> {
                     title: Text(p.name),
                     subtitle: Text('Rating: ${p.rating} · Position: ${p.position}'),
                     trailing: const Icon(Icons.open_in_new),
-                    onTap: () => _openLink(futbinUrl(p.name)),
+                    onTap: () => openFutbin(p.name),
                   ),
                 );
               },
