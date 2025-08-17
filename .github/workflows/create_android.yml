@@ -9,23 +9,24 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Setup Flutter
+      - name: Setup Flutter (stable)
         uses: subosito/flutter-action@v2
         with:
+          channel: 'stable'
           flutter-version: '3.19.0'
 
       - name: Create Android folder
+        run: flutter create . --project-name fut_sticker_book
+
+      - name: Remove example lib/test (optional cleanup)
         run: |
-          flutter create .
           rm -rf lib test
 
-      - name: Commit changes
+      - name: Commit Android folder
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add -A
-          git commit -m "Add Android folder" || echo "No changes to commit"
-          git push origin main
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add .
+          git commit -m "Add Android folder"
+          git push
