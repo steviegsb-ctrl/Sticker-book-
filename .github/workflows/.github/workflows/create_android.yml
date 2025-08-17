@@ -6,21 +6,30 @@ on:
 jobs:
   create-android:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
           flutter-version: '3.19.0'
 
-      - name: Create Android project
+      - name: Create Android folder (non-destructive)
         run: |
+          # This will create missing platform folders; it won't overwrite your lib/
           flutter create .
-          rm -rf lib test
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add .
-          git commit -m "Add Android folder"
-          git push
+
+      - name: Commit Android folder
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add android
+          # Only commit if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Add Android folder"
+            git push
+          else
+            echo "No android changes to commit."
+          fi
