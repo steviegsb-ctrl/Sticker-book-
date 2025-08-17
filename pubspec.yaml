@@ -1,23 +1,49 @@
-name: stickerbook_futbin_mvp
-description: A minimal sticker book app
-publish_to: "none"
+name: Flutter CI
 
-environment:
-  sdk: ">=3.0.0 <4.0.0"
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
 
-dependencies:
-  flutter:
-    sdk: flutter
-  url_launcher: ^6.3.0
-  shared_preferences: ^2.2.3
-  csv: ^5.1.0
+permissions:
+  contents: read
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-flutter:
-  uses-material-design: true
-  assets:
-    - assets/players.csv
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Java (AGP needs 17)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable            # or set flutter-version: '3.22.0'
+
+      # Recreate a valid Android project (keeps your lib/, assets/, pubspec.yaml)
+      - name: Recreate Android project
+        run: |
+          rm -rf android
+          flutter create . --platforms=android --project-name stickerbook_futbin_mvp --org com.example
+          flutter pub get
+
+      # Ensure INTERNET permission for network images
+      - name: Add INTERNET permission
+        run: |
+          perl -0777 -pe 's#<application#<uses-permission android:name="android.permission.INTERNET"/>\n    <application#' -i android/app/src/main/AndroidManifest.xml
+
+      - name: Build APK (debug, verbose)
+        run: flutter build apk --debug -v
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: build/app/outputs/flutter-apk/app-debug.apk
