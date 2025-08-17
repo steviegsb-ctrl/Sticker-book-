@@ -1,95 +1,41 @@
-name: Fix players.csv (add image & futbin columns)
+name: Fix players.csv
 
 on:
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   fix:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0            # we need history to commit back
+          persist-credentials: true # keep GITHUB_TOKEN for push
+
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Convert CSV to 5 columns
+      - name: Run fixer script
+        run: python3 scripts/fix_players_csv.py
+
+      - name: Commit & push if changed
         run: |
-          python - << 'PY'
-          import csv, re, unicodedata
-          from pathlib import Path
-          from urllib.parse import quote_plus
-
-          p = Path("assets/players.csv")
-          if not p.exists():
-              raise SystemExit("assets/players.csv not found")
-
-          rows = list(csv.reader(p.read_text(encoding="utf-8-sig").splitlines()))
-          if not rows:
-              raise SystemExit("players.csv is empty")
-
-          header = [h.strip() for h in rows[0]]
-
-          # Already converted? Exit cleanly.
-          if header[:5] == ["name","rating","position","imageUrl","futbinUrl"]:
-              print("players.csv already has 5 columns, nothing to do.")
-              raise SystemExit(0)
-
-          # Accept simple 3-column headers/rows
-          if header[:3] != ["name","rating","position"]:
-              # Sometimes the file has no header. Detect by peeking first row.
-              def looks_like_row(r):
-                  return len(r) >= 3 and r[1].isdigit()
-              if not looks_like_row(rows[0]):
-                  raise SystemExit("Unexpected header; expected name,rating,position")
-              else:
-                  # Insert header
-                  rows.insert(0, ["name","rating","position"])
-
-          def make_image_url(name: str) -> str:
-              # neutral placeholder (works without any keys)
-              return f"https://ui-avatars.com/api/?name={quote_plus(name)}&background=0D8ABC&color=fff"
-
-          def strip_accents(s):
-              return ''.join(c for c in unicodedata.normalize('NFKD', s) if not unicodedata.combining(c))
-
-          def slugify(name: str) -> str:
-              s = strip_accents(name).lower()
-              s = re.sub(r"[^a-z0-9]+", "-", s).strip("-")
-              return s
-
-          def make_futbin_url(name: str) -> str:
-              # Use Futbin search (reliable without IDs)
-              return f"https://www.futbin.com/players?page=1&search={quote_plus(name)}"
-
-          out_rows = [["name","rating","position","imageUrl","futbinUrl"]]
-          for r in rows[1:]:
-              if not r: 
-                  continue
-              name = r[0].strip()
-              rating = (r[1] if len(r) > 1 else "").strip()
-              position = (r[2] if len(r) > 2 else "").strip()
-              image = make_image_url(name)
-              futbin = make_futbin_url(name)
-              out_rows.append([name, rating, position, image, futbin])
-
-          # Write back
-          with p.open("w", encoding="utf-8", newline="") as f:
-              w = csv.writer(f)
-              w.writerows(out_rows)
-
-          print(f"Updated {p} with {len(out_rows)-1} players.")
-          PY
-
-      - name: Open Pull Request
-        uses: peter-evans/create-pull-request@v6
-        with:
-          commit-message: "chore: add imageUrl & futbinUrl to assets/players.csv"
-          title: "Add image & Futbin URL columns to players.csv"
-          body: "This PR converts players.csv to 5 columns (name,rating,position,imageUrl,futbinUrl) with placeholder images and Futbin search links."
-          branch: chore/fix-players-csv
-          base: main
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add assets/players.csv
+            git commit -m "chore: auto-fix players.csv (add imageUrl,futbinUrl)"
+            git push
+          else
+            echo "No changes to commit."
+          fi
