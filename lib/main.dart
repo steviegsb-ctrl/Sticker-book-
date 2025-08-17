@@ -15,13 +15,13 @@ class MyApp extends StatelessWidget {
       title: 'FUT Stickers',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
+        useMaterial3: true,
         scaffoldBackgroundColor: const Color(0xFF12121A),
         cardColor: const Color(0xFF1E2030),
-        useMaterial3: true,
         colorScheme: ThemeData.dark().colorScheme.copyWith(
-              primary: const Color(0xFF6C9EFF),
-              secondary: const Color(0xFFFFD166),
-            ),
+          primary: const Color(0xFF6C9EFF),
+          secondary: const Color(0xFFFFD166),
+        ),
       ),
       home: const HomeTabs(),
     );
@@ -73,8 +73,7 @@ Uri futbinUrlNormalized(String name) =>
     Uri.https('www.futbin.com', '/players', {'page': '1', 'search': normalize(name).trim()});
 
 Future<void> openFutbin(String name) async {
-  // swap simple/normalized here if needed
-  final url = futbinUrlNormalized(name);
+  final url = futbinUrlNormalized(name); // swap to futbinUrlSimple if you prefer
   await launchUrl(url, mode: LaunchMode.externalApplication);
 }
 
@@ -103,7 +102,6 @@ Future<List<Player>> loadPlayers() async {
     if (parts.length < 3) continue;
     list.add(Player.fromCsv(parts));
   }
-  // sort: rating desc, then name
   list.sort((a, b) {
     final r = b.rating.compareTo(a.rating);
     return r != 0 ? r : a.name.compareTo(b.name);
@@ -159,7 +157,7 @@ class _HomeTabsState extends State<HomeTabs> {
     final pages = const [PlayersPage(), PacksPage(), StickerBookPage()];
     return Scaffold(
       appBar: AppBar(
-        title: const Text('FUT Stickers'),
+        title: const Text('FUT Stickers • v2'),
         actions: [
           IconButton(
             tooltip: 'Open Futbin',
@@ -423,7 +421,7 @@ class _PacksPageState extends State<PacksPage> with SingleTickerProviderStateMix
       context: context,
       builder: (_) => _PackResultDialog(players: _lastPull),
     );
-    setState(() {}); // refresh page
+    setState(() {}); // refresh
   }
 
   @override
@@ -565,6 +563,16 @@ class _StickerBookPageState extends State<StickerBookPage> {
             _data.owned = await StickerStore.getAll();
             if (mounted) setState(() {});
           }),
+          onLongPress: () async {
+            // quick toggle on long-press
+            if (owned) {
+              await StickerStore.remove(p.name);
+            } else {
+              await StickerStore.add(p.name);
+            }
+            _data.owned = await StickerStore.getAll();
+            if (mounted) setState(() {});
+          },
           child: AnimatedOpacity(
             duration: const Duration(milliseconds: 220),
             opacity: owned ? 1.0 : 0.35,
